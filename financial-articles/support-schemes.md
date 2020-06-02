@@ -1,6 +1,6 @@
 ---
 title: Support schemes
-permalink: /mol-articles/financial-articles/
+permalink: /financial-articles
 ---
 
 # Suite of pre-existing support schemes
