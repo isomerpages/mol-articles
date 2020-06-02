@@ -23,6 +23,7 @@ collections:
   themes:
     output: true
 resources_name: content
+markdown: CommonMarkGhPages
 
 ##################################################################################################################
 # Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
