@@ -1,3 +1,8 @@
+---
+title: Support schemes
+permalink: /mol-articles/financial-articles/
+---
+
 # Suite of pre-existing support schemes
 
 Include lowering of mortgage loans, procedures to sublet room to earn extra cash.
