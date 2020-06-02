@@ -32,9 +32,9 @@ Email:
 
 ## **Financial Assistance Measures (FAM) by HDB** ##
 <details>
-  <summary>Expand to read further</summary><br>  
+  <summary>Expand to read further</summary><br>
+  
 For HDB flat owners who wish to lower monthly instalment amount by extending the housing loan term up to the maximum repayment period.
 
 [Apply online](https://www.hdb.gov.sg/cs/infoweb/residential/servicing-your-hdb-loan/mortgage-loan/assistance-measures) from **4 May 2020 to 30 September 2020**, between **9am to 6pm**.
 </details>
-
