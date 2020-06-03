@@ -1,3 +1,3 @@
 source "https://rubygems.org"
 
-gem 'jekyll-commonmark-ghpages', group: :jekyll_plugins do
+gem 'github-pages', group: :jekyll_plugins
