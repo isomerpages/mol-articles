@@ -5,7 +5,6 @@ description: Summary of Financial Articles
 favicon: /images/mol_fav.ico 
 image: /images/mol-logo.jpg
 permalink: /
-notification: Moments of Life will be known as LifeSG from 13 July 2020 onwards! Download from your App Store or Google Play today!
 sections:
     - hero:
         title: COVID-19 Financial Support for Workers & Self-Employed Persons
@@ -16,5 +15,5 @@ sections:
     - resources:
         title: Related Resources
         button: Browse our guides
-        url: /resources/useful-links/      
+        url: /resources/useful-links/ 
 ---
