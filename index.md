@@ -13,12 +13,12 @@ sections:
         title: Browse Financial Schemes
         description: Unsure about what pre-exisiting financial support resources you might be eligible for? Stay informed with our latest guide.
         button: Browse here
-        url: /financial-articles
+        url: /financial-articles/support-schemes
     - infobar:
         title: Browse Budget Relief Measures
         description: COVID-19 relief measures are populated from the Unity, Resilience, Solidarity & Fortitude Budgets that build upon and reinforce each other.
         button: Browse here
-        url: /financial-articles
+        url: /financial-articles/budget-measures
         
 ---
 
