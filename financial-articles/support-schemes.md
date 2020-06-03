@@ -5,6 +5,14 @@ permalink: /financial-articles
 
 # Suite of pre-existing support schemes
 
+Consider some of these pre-existing support schemes, which help to:
+
+* Lower your HDB mortgage installments or sublet of room(s) to generate additional income.
+ 
+* Offer support ranging from monetary and medical to employment if you are temporarily unable to work due to illness (or if you are a caregiver of children, elderly, or other dependants).
+
+* Provide your school-going children with a full waiver of school fees, free textbooks and school attire, subsidies for meals and public transportation, and more.
+
 ---
 
 ## **Financial Assistance Scheme by MOE** ##
