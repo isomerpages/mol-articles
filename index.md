@@ -15,5 +15,5 @@ sections:
     - resources:
         title: Related Resources
         button: Browse our guides
-        url: /resources/useful-links/ 
+        url: /resources/
 ---
