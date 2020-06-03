@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Support Schemes and Budget Relief Measures
-permalink: /resources/useful-links/
+permalink: /resources/guides/useful-links/
 ---
 
 # Support for your job search guide
