@@ -6,7 +6,7 @@ image: /images/mol-logo.jpg
 notification: Moments of Life will be known as LifeSG from 13 July 2020 onwards! Download from your App Store or Google Play today!
 sections:
     - hero:
-        title: Your Curated Guide to Financial Schemes and Budget Relief Measures
+        title: COVID-19: Financial Support for Workers & Self-Employed Persons
         background: /images/sg-skyline.jpg
     - infobar:
         title: Browse Financial Schemes
