@@ -3,7 +3,7 @@ title: Support Schemes and Budget Relief Measures
 permalink: /financial-articles/
 ---
 
-# Budget Relief Measures
+# <a name="top"></a>Budget Relief Measures
 
 To date, the government has committed close to 100 billion dollars in four budgets to support Singaporeans in this battle against COVID-19.
 
@@ -206,14 +206,41 @@ Email:
 #### How to apply?
 [Apply online](go.gov.sg/csg) from **4 May 2020 to 30 September 2020**, between **9am to 6pm**. Supporting documents are required. Alternatively, make an appointment with your nearest [Social Service Office](go.gov.sg/ssolocator) if you are unable to apply online.
 
-####Further questions?
+#### Further questions?
 [Find out more](https://www.msf.gov.sg/assistance/Pages/covid19relief.aspx#CSG) on the MSF page.<br>
 Call 1800-222-0000 if you need help filling in the online application form.<br>
 Email: ask_sso@msf.gov.sg
 </details>
+
+## **Defer Tax Payments for Individual Income Tax by IRAS**
+<details>
+  <summary>Expand to read further</summary><br>
+
+#### Eligibility
+* For all non-self employed persons
+* This deferment does **not** apply to non-Singaporean citizen employees who have sought tax clearance and employees of foreign employers.
+
+#### Benefits of this scheme
+* Receive a deferment on your income tax payments due in May, June and July 2020, to help ease cash flow.
+* Income tax deduction to resume in August, September or October 2020. The end-date of your instalment plan will be extended by 3 months.
+
+#### How to apply?
+[Apply online](https://form.gov.sg/#!/5d5ce149c0a8230012d27118) from **26 March 2020 to 31 July 2020**, between **9am to 6pm**. Only one application is needed.
+
+#### Further questions?
+[Find out more](https://www.iras.gov.sg/irashome/Individuals/Locals/Paying-your-taxes-Claiming-refunds/Defer-Tax-Payment-for-Individual-Income-Tax/) on the IRAS page.<br>
+Call: <br>
+Email:
+</details>
+
+---
 
 We hope you find the support you need here. 
 
 This page will be updated as additional schemes and measures are introduced.
 
 Please contact the respective government agencies if you have any questions about the listings on this page.  
+
+Last updated: 22 June 2020
+ 
+[Back to top](top)
