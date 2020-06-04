@@ -3,7 +3,7 @@ title: Support Schemes and Budget Relief Measures
 permalink: /financial-articles/
 ---
 
-# <a name="top"></a>Budget Relief Measures
+# Budget Relief Measures
 
 To date, the government has committed close to 100 billion dollars in four budgets to support Singaporeans in this battle against COVID-19.
 
@@ -17,7 +17,7 @@ An extensive portion of that monetary commitment has been set aside to stabilise
 
 # Pre-existing support schemes
 
-Consider some of these pre-existing support schemes, which help to:
+That's not all. You may also consider some of these pre-existing support schemes, which help to:
 
 * Lower your HDB mortgage installments or sublet of room(s) to generate additional income.
  
@@ -29,7 +29,7 @@ To ensure you don’t miss out on available support, we have made it easier for 
 
 Find out what you are eligible for, learn about payout amount, and how to apply.
 
-### Jump to section
+### <a name="top"></a> Jump to section
 
 > [Pre-existing support schemes](#schemes)
 
@@ -41,7 +41,7 @@ Find out what you are eligible for, learn about payout amount, and how to apply.
 
 ---
 
-## <a name="schemes"></a>Financial Assitance Scheme by MOE
+## <a name="schemes"></a>**Financial Assitance Scheme by MOE**
 
 For Singaporeans whose child is in a government or government-aided school, autonomous government or government-aided school or specialised school. Gross Household Income (GHI) not exceeding $2,750 per month OR Per Capita Income (PCI) not exceeding $690 per month.
 
@@ -229,6 +229,30 @@ Email: ask_sso@msf.gov.sg
 
 #### Further questions?
 [Find out more](https://www.iras.gov.sg/irashome/Individuals/Locals/Paying-your-taxes-Claiming-refunds/Defer-Tax-Payment-for-Individual-Income-Tax/) on the IRAS page.<br>
+Call: <br>
+Email:
+</details>
+
+## **Home Access Programme by IMDA**
+<details>
+  <summary>Expand to read further</summary><br>
+
+#### Eligibility
+* For HDB households with a monthly gross household income ≤ $1,900 or per capita income ≤ $650, and has at least one family member who is Singaporean.
+* You should not be an existing Home Access beneficiary or an existing NEU PC Plus beneficiary with broadband connectivity.
+
+#### Benefits of this scheme
+* Receive 2 years of subsidised fibre broadband connectivity, with an option to bundle with a tablet or smartphone. 
+
+#### How to apply?
+[Apply online](https://eservice.imda.gov.sg/neupc/singpasslogin.action?src=das&strParam=login&notprotected=true) or [download the application form](https://www.imda.gov.sg/-/media/Imda/Files/Programme/Home-Access/HA30-Application-Form.pdf), complete it and mail to:
+Infocomm Media Development Authority (IMDA)<br>
+PSA Building Post Office<br>
+P.O. Box 316 <br>
+Singapore 911141
+
+#### Further questions?
+[Find out more](https://eservice.imda.gov.sg/das/homepage#) on the IMDA page.<br>
 Call: <br>
 Email:
 </details>
