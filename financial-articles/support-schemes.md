@@ -349,7 +349,7 @@ Feedback: ssg.gov.sg/feedback
 Apply via your unions or NTUC membership from **25 March 2020 to 30 September 2020**.
 
 #### Further questions?
-[Find out more](https://www.ntuc.org.sg/wps/portal/up2/home/aboutntuc/ucare/ucarefund/details?WCM_GLOBAL_CONTEXT=/content_library/ntuc/home/areas+of+interest/care+and+share/u+care+fund/de4345d3-f51f-408c-9963-0d7055c9ab25) on the NTUC page.
+[Find out more](https://www.ntuc.org.sg/wps/portal/up2/home/aboutntuc/ucare/ucarefund/details?WCM_GLOBAL_CONTEXT=/content_library/ntuc/home/areas+of+interest/care+and+share/u+care+fund/de4345d3-f51f-408c-9963-0d7055c9ab25) on the NTUC page.<br>
 Call: 6213 8008<br>
 Email: 
 </details>
