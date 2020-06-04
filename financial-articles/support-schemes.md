@@ -31,7 +31,7 @@ Find out what you are eligible for, learn about payout amount, and how to apply.
 
 ### Jump to section
 
-> Suite of pre-existing support schemes
+> [Suite of pre-existing support schemes](ss1)
 
 **Budget relief measures for**
 > Unemployed (including retrenched individuals)<br>
@@ -41,11 +41,11 @@ Find out what you are eligible for, learn about payout amount, and how to apply.
 
 ---
 
-## **Financial Assistance Scheme by MOE** ##
+[ss1](##**Financial-Assistance-Scheme-by-MOE**)
 
 For Singaporeans whose child is in a government or government-aided school, autonomous government or government-aided school or specialised school. Gross Household Income (GHI) not exceeding $2,750 per month OR Per Capita Income (PCI) not exceeding $690 per month.
 
-#### Benefits of this scheme ####
+#### Benefits of this scheme 
 * Receive full waiver of school fees
 * Full waiver of standard miscellaneous fees
 * Free textbooks and school attire
@@ -65,7 +65,7 @@ Email:
 <details>
   <summary>Expand to read further</summary><br>
   
-For HDB flat owners who face difficulties paying the monthly instalments of their HDB housing loan. 
+For HDB flat owners who face difficulties paying the monthly instalments of their HDB housing loan.
 
 #### Benefits of this scheme ####
 * Assistance will be granted based on the merits of each case.
