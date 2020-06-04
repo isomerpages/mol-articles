@@ -31,17 +31,17 @@ Find out what you are eligible for, learn about payout amount, and how to apply.
 
 ### Jump to section
 
-> [Suite of pre-existing support schemes](#header1)
+> [Pre-existing support schemes](#schemes)
 
 **Budget relief measures for**
-> Unemployed (including retrenched individuals)<br>
+> [Unemployed (including retrenched individuals)](#unemployed)<br>
 > Lower-income<br>
 > Loss of income<br>
 > Self-Employed Persons (SEPs)<br>
 
 ---
 
-## <a name="header1"></a>Financial Assitance Scheme by MOE
+## <a name="schemes"></a>Financial Assitance Scheme by MOE
 
 For Singaporeans whose child is in a government or government-aided school, autonomous government or government-aided school or specialised school. Gross Household Income (GHI) not exceeding $2,750 per month OR Per Capita Income (PCI) not exceeding $690 per month.
 
@@ -61,13 +61,13 @@ Email:
 
 ---
 
-## **Financial Assistance Measures (FAM) by HDB** ##
+## **Financial Assistance Measures (FAM) by HDB** 
 <details>
   <summary>Expand to read further</summary><br>
   
 For HDB flat owners who face difficulties paying the monthly instalments of their HDB housing loan.
 
-#### Benefits of this scheme ####
+#### Benefits of this scheme 
 * Assistance will be granted based on the merits of each case.
 
 Approach any HDB Branch, or call the toll-free Branch Service Line at 1800-225-5432 from **4 May 2020 to 30 September 2020**, between **9am to 6pm**.
@@ -80,13 +80,13 @@ Email:
 
 ---
 
-## **Subletting spare rooms of your flat for added income by HDB** ##
+## **Subletting spare rooms of your flat for added income by HDB** 
 <details>
   <summary>Expand to read further</summary><br>
 
 Rent out your flat to generate additional income. Note that only bedrooms from HDB flats that are **3-room or larger** can be rented out. The maximum number of bedrooms that flat owners can rent out and the maximum number of occupants allowed in each flat depends on the flat type - 1 bedroom for 3-room, 2 bedrooms for 4-room and bigger.
 
-#### Benefits of this scheme ####
+#### Benefits of this scheme 
 * Monetary amount depending on market rate and agreed terms between landlord and tenant
 
 [Apply online](https://services2.hdb.gov.sg/webapp/SX05AWSPCP/SX05PSPCPLogin.jsp) through the MyHDBPage from **4 May 2020 to 30 September 2020**, between **9am to 6pm**. Prior approval from HDB is required. An administrative fee is payable with each application, at **$10 per bedroom**.
@@ -99,7 +99,7 @@ Email:
 
 ---
 
-## **CHAS Card by MOH** ##
+## **CHAS Card by MOH** 
 <details>
   <summary>Expand to read further</summary><br>
 
@@ -115,17 +115,17 @@ Email:
 
 ---
 
-## **CapitaLand-U Care Resilience and Enablement (CAP+Ure) Fund by NTUC-U Care Fund** ##
+## **CapitaLand-U Care Resilience and Enablement (CAP+Ure) Fund by NTUC-U Care Fund** 
 <details>
   <summary>Expand to read further</summary><br>
 
-#### Eligibility for this scheme ####
+#### Eligibility for this scheme 
 * Applicable for all **existing low-to-medium income NTUC-U members** who are seeking for additional support on their children's daily necessities and schooling needs.
 * Monthly Gross Household Income (GHI) of $5,800 and below or Per Capita Income (PCI) of $1,450 and below if GHI exceeds $5,800.
 * Children aged 21 years and below studying at eligible educational institutions: − Government / Government-aided / Independent schools (primary and secondary) under the Ministry of Education; − Junior colleges; Institute of Technical Education; Millennia Institute; − Special education schools
 * 6 months of continuous paid-up union membership. Unions/Associations can apply for the assistance programme on behalf of their members who require the assistance and meet the criteria.
 
-#### Benefits of this scheme ####
+#### Benefits of this scheme 
 * Each eligible child will receive a one-time disbursement of $250 NTUC FairPrice vouchers.
 
 Apply by [completing application form and submitting to respective union.](https://www.ntuc.org.sg/wps/wcm/connect/446508c0-594b-42cf-b3ed-13ed83886d13/CAP%2BUre+Fund+-+Application+Form_Revised+%28January%29.pdf?MOD=AJPERES)
@@ -138,19 +138,19 @@ Email:
 
 ---
 
-## **Com Care Short to Medium Term Assistance by MSF** ##
+## **Com Care Short to Medium Term Assistance by MSF** 
 <details>
   <summary>Expand to read further</summary><br>
 
 For those who are unable to secure a job or find work for an extended period of time and needs financial support temporarily. 
 
-#### Eligibility for this scheme ####
+#### Eligibility for this scheme 
 * Currently looking for work or temporarily unable to work due to illness or having to care for children, elderly or other dependencies
 * Have little or no family support, savings or assets to rely on for one's daily needs
 * A Singapore Citizen or Permanent Resident (at least one immediate family in the same household must be Singapore Citizen)
 * Have a monthly household income of $1,900 and below or a per capita income of $650 and below
 
-#### Benefits of this scheme ####
+#### Benefits of this scheme 
 * Monthly cash assitance
 * Assistance with household bills, i.e: rental, utilities, and/or service and conservacy charges
 * Medical assistance
@@ -167,17 +167,17 @@ Email:
 
 ---
 
-## **Kindergarten Free Assistance Scheme (KiFAS)** ##
+## **Kindergarten Free Assistance Scheme (KiFAS)** 
 <details>
   <summary>Expand to read further</summary><br>
 
 For parents who need help in defraying their children's kindergarten fees.
 
-#### Eligibility for this scheme ####
+#### Eligibility for this scheme 
 * Singapore Citizen Child enrolled in an Anchor Operator (AOP) or Ministry of Edcuation (MOE) kindergarten
 * Family's gross monthly Household Income (HHI) is $12,000 and below, or Per Capita Income (PCI) is $3,000 and below for larger families
 
-#### Benefits of this scheme ####
+#### Benefits of this scheme 
 * Ranges from $21 - $170
 * Lower-income families will receive more financial assistance
 
@@ -190,6 +190,27 @@ Email:
 </details>
 
 ---
+
+##<a name="unemployed"> **COVID-19 Support Grant by MSF**
+<details>
+  <summary>Expand to read further</summary><br>
+
+#### Eligibility
+* For full/part time permanent or contract employees who are presently unemployed due to loss of job, involuntary No-Pay Leave (for 3 consecutive months), loss of at least 30% of salary (for 3 consecutive months) after 23 January 2020 as a result of the economic impact of COVID-19.
+* Those on ComCare, Self-Employed Person Income Relief Scheme, NSFs and interns are **not eligible**.
+
+#### Benefits of this scheme
+* For loss of job and involuntary No-Pay Leave: Up to $800/month (for 3 months) credited into bank account.
+* For loss of at least 30% of salary: Up to $500/month (for 3 months) credited into bank account.
+
+#### How to apply?
+[Apply online](go.gov.sg/csg) from **4 May 2020 to 30 September 2020**, between **9am to 6pm**. Supporting documents are required. Alternatively, make an appointment with your nearest [Social Service Office](go.gov.sg/ssolocator) if you are unable to apply online.
+
+####Further questions?
+[Find out more](https://www.msf.gov.sg/assistance/Pages/covid19relief.aspx#CSG) on the MSF page.<br>
+Call 1800-222-0000 if you need help filling in the online application form.<br>
+Email: ask_sso@msf.gov.sg
+</details>
 
 We hope you find the support you need here. 
 
