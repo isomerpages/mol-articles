@@ -31,7 +31,7 @@ Find out what you are eligible for, learn about payout amount, and how to apply.
 
 ### Jump to section
 
-> [Suite of pre-existing support schemes](#financial-assistance-scheme-by-moe)
+> [Suite of pre-existing support schemes](#header1)
 
 **Budget relief measures for**
 > Unemployed (including retrenched individuals)<br>
@@ -41,7 +41,7 @@ Find out what you are eligible for, learn about payout amount, and how to apply.
 
 ---
 
-## Financial Assitance Scheme by MOE
+## <a name="header1"></a>Financial Assitance Scheme by MOE
 
 For Singaporeans whose child is in a government or government-aided school, autonomous government or government-aided school or specialised school. Gross Household Income (GHI) not exceeding $2,750 per month OR Per Capita Income (PCI) not exceeding $690 per month.
 
