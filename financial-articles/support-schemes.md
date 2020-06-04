@@ -41,7 +41,7 @@ Find out what you are eligible for, learn about payout amount, and how to apply.
 
 ---
 
-## Financial Assitance Scheme by MOE {: #financial-assistance-scheme-by-moe}
+## Financial Assitance Scheme by MOE
 
 For Singaporeans whose child is in a government or government-aided school, autonomous government or government-aided school or specialised school. Gross Household Income (GHI) not exceeding $2,750 per month OR Per Capita Income (PCI) not exceeding $690 per month.
 
