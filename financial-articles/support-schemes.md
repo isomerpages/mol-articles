@@ -52,15 +52,12 @@ For Singaporeans whose child is in a government or government-aided school, auto
 * School meal subsidy of $2.90 per meal for 10 meals per school week
 * Public transport eVoucher of $15 per month
 
-[Apply online] from **4 May 2020 to 30 September 2020**, between **9am to 6pm**. Alternatively, schedule an application slot at your nearest Social Service Office.
+[Apply online](https://www.reddit.com/) from **4 May 2020 to 30 September 2020**, between **9am to 6pm**. Alternatively, schedule an application slot at your nearest Social Service Office.
 
 Further questions?
-[Find out more] on the MOE page.  
-Call:  
+[Find out more](https://www.moe.gov.sg/) on the MOE page.<br>
+Call:  <br>
 Email:
-
-[Apply online]: https://www.reddit.com/
-[Find out more]: https://www.moe.gov.sg/
 
 ---
 
@@ -76,8 +73,8 @@ For HDB flat owners who face difficulties paying the monthly instalments of thei
 Approach any HDB Branch, or call the toll-free Branch Service Line at 1800-225-5432 from **4 May 2020 to 30 September 2020**, between **9am to 6pm**.
 
 Further questions?
-[Find out more](https://www.hdb.gov.sg/cs/infoweb/residential/servicing-your-hdb-loan/mortgage-loan/assistance-measures) on the HDB page. 
-Call: 1800-225-5432
+[Find out more](https://www.hdb.gov.sg/cs/infoweb/residential/servicing-your-hdb-loan/mortgage-loan/assistance-measures) on the HDB page.<br>
+Call: 1800-225-5432<br>
 Email:
 </details>
 
@@ -95,8 +92,8 @@ Rent out your flat to generate additional income. Note that only bedrooms from H
 [Apply online](https://services2.hdb.gov.sg/webapp/SX05AWSPCP/SX05PSPCPLogin.jsp) through the MyHDBPage from **4 May 2020 to 30 September 2020**, between **9am to 6pm**. Prior approval from HDB is required. An administrative fee is payable with each application, at **$10 per bedroom**.
 
 Further questions?
-[Find out more](https://www.hdb.gov.sg/cs/infoweb/residential/renting-out-a-flat-room/renting-out-your-room) on the HDB page. 
-Call: 
+[Find out more](https://www.hdb.gov.sg/cs/infoweb/residential/renting-out-a-flat-room/renting-out-your-room) on the HDB page.<br>
+Call: <br>
 Email:
 </details>
 
@@ -111,8 +108,8 @@ Eligible households enjoy subsidies at participating GPs, dental and specialist 
 [Apply online](https://saml.singpass.gov.sg/spauth/login/eservloginpage?URL=%2FFIM%2Fsps%2FSingpassIDPFed%2Fsaml20%2Flogininitial%3FRequestBinding%3DHTTPArtifact%26ResponseBinding%3DHTTPArtifact%26PartnerId%3Dhttps%253A%252F%252Fchas.moh.gov.sg%26Target%3Dhttps%253A%252F%252Fchas.moh.gov.sg%252FAccount%252FSPCP%26NameIdFormat%3DEmail%26esrvcID%3DMOH-CHAS&TAM_OP=login) from **4 May 2020 to 30 September 2020**, between **9am to 6pm**.
 
 Further questions?
-[Find out more]
-Call: 
+[Find out more]<br>
+Call: <br>
 Email:
 </details>
 
@@ -134,8 +131,8 @@ Email:
 Apply by [completing application form and submitting to respective union.](https://www.ntuc.org.sg/wps/wcm/connect/446508c0-594b-42cf-b3ed-13ed83886d13/CAP%2BUre+Fund+-+Application+Form_Revised+%28January%29.pdf?MOD=AJPERES)
 
 Further questions?
-[Find out more](https://ntuc.org.sg/wps/portal/up2/home/aboutntuc/ucare/ucareprogrammes) on the NTUC page.
-Call: 
+[Find out more](https://ntuc.org.sg/wps/portal/up2/home/aboutntuc/ucare/ucareprogrammes) on the NTUC page.<br>
+Call: <br>
 Email:
 </details>
 
@@ -163,8 +160,8 @@ For those who are unable to secure a job or find work for an extended period of 
 Go to your nearest Social Service Office (SSO)​ to find out more. Each SSO administers ComCare financial assistance and links applicants up with other forms of assistance they might need, such as family services. The SSO will assess your eligibility for assistance. 
 
 Further questions?
-[Find out more](https://www.msf.gov.sg/Comcare/Pages/Short-to-Medium-Term-Assistance.aspx) on the MSF page.
-Call:
+[Find out more](https://www.msf.gov.sg/Comcare/Pages/Short-to-Medium-Term-Assistance.aspx) on the MSF page.<br>
+Call: <br>
 Email:
 </details>
 
@@ -187,8 +184,8 @@ For parents who need help in defraying their children's kindergarten fees.
 Eligible families may apply for KiFAS through the kindergarten.
 
 Further questions?
-[Find out more](https://www.ecda.gov.sg/Pages/Subsidies-and-Financial-Assistance.aspx) on the ECDA page.
-Call:
+[Find out more](https://www.ecda.gov.sg/Pages/Subsidies-and-Financial-Assistance.aspx) on the ECDA page.<br>
+Call: <br>
 Email:
 </details>
 
