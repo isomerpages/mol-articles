@@ -119,7 +119,7 @@ Email:
 <details>
   <summary>Expand to read further</summary><br>
 
-#### Eligibility for this scheme 
+#### Eligibility
 * Applicable for all **existing low-to-medium income NTUC-U members** who are seeking for additional support on their children's daily necessities and schooling needs.
 * Monthly Gross Household Income (GHI) of $5,800 and below or Per Capita Income (PCI) of $1,450 and below if GHI exceeds $5,800.
 * Children aged 21 years and below studying at eligible educational institutions: − Government / Government-aided / Independent schools (primary and secondary) under the Ministry of Education; − Junior colleges; Institute of Technical Education; Millennia Institute; − Special education schools
@@ -144,7 +144,7 @@ Email:
 
 For those who are unable to secure a job or find work for an extended period of time and needs financial support temporarily. 
 
-#### Eligibility for this scheme 
+#### Eligibility
 * Currently looking for work or temporarily unable to work due to illness or having to care for children, elderly or other dependencies
 * Have little or no family support, savings or assets to rely on for one's daily needs
 * A Singapore Citizen or Permanent Resident (at least one immediate family in the same household must be Singapore Citizen)
@@ -173,7 +173,7 @@ Email:
 
 For parents who need help in defraying their children's kindergarten fees.
 
-#### Eligibility for this scheme 
+#### Eligibility
 * Singapore Citizen Child enrolled in an Anchor Operator (AOP) or Ministry of Edcuation (MOE) kindergarten
 * Family's gross monthly Household Income (HHI) is $12,000 and below, or Per Capita Income (PCI) is $3,000 and below for larger families
 
