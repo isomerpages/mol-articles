@@ -75,6 +75,28 @@ For HDB flat owners who wish to lower monthly instalment amount by extending the
 
 ---
 
+## **Renting out your bedroom by HDB** ##
+<details>
+  <summary>Expand to read further</summary><br>
+
+Only bedrooms from HDB flats that are 3-room or larger can be rented out. Maximum number of bedrooms allowed to rent out: 1 for 3-room, and 2 for 4-room or larger.
+
+Read more about the scheme [here.](https://www.hdb.gov.sg/cs/infoweb/residential/renting-out-a-flat-room/renting-out-your-room)
+
+[Apply online](https://services2.hdb.gov.sg/webapp/SX05AWSPCP/SX05PSPCPLogin.jsp) through the MyHDBPage from **4 May 2020 to 30 September 2020**, between **9am to 6pm**. Prior approval from HDB is required. An administrative fee is payable with each application, at **$10 per bedroom**.
+</details>
+
+---
+
+## **CHAS Card by MOH** ##
+<details>
+  <summary>Expand to read further</summary><br>
+
+[Apply online](https://saml.singpass.gov.sg/spauth/login/eservloginpage?URL=%2FFIM%2Fsps%2FSingpassIDPFed%2Fsaml20%2Flogininitial%3FRequestBinding%3DHTTPArtifact%26ResponseBinding%3DHTTPArtifact%26PartnerId%3Dhttps%253A%252F%252Fchas.moh.gov.sg%26Target%3Dhttps%253A%252F%252Fchas.moh.gov.sg%252FAccount%252FSPCP%26NameIdFormat%3DEmail%26esrvcID%3DMOH-CHAS&TAM_OP=login) from **4 May 2020 to 30 September 2020**, between **9am to 6pm**.
+</details>
+
+---
+
 We hope you find the support you need here. 
 
 This page will be updated as additional schemes and measures are introduced.
