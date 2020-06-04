@@ -37,7 +37,7 @@ Find out what you are eligible for, learn about payout amount, and how to apply.
 > [Unemployed (including retrenched individuals)](#unemployed)<br>
 > Lower-income<br>
 > Loss of income<br>
-> Self-Employed Persons (SEPs)<br>
+> [Self-Employed Persons (SEPs)](#seps)<br>
 
 ---
 
@@ -245,7 +245,7 @@ Email:
 * Receive 2 years of subsidised fibre broadband connectivity, with an option to bundle with a tablet or smartphone. 
 
 #### How to apply?
-[Apply online](https://eservice.imda.gov.sg/neupc/singpasslogin.action?src=das&strParam=login&notprotected=true) or [download the application form](https://www.imda.gov.sg/-/media/Imda/Files/Programme/Home-Access/HA30-Application-Form.pdf), complete it and mail to:
+[Apply online](https://eservice.imda.gov.sg/neupc/singpasslogin.action?src=das&strParam=login&notprotected=true) or [download the application form](https://www.imda.gov.sg/-/media/Imda/Files/Programme/Home-Access/HA30-Application-Form.pdf), complete it and mail to:<br>
 Infocomm Media Development Authority (IMDA)<br>
 PSA Building Post Office<br>
 P.O. Box 316 <br>
@@ -255,6 +255,123 @@ Singapore 911141
 [Find out more](https://eservice.imda.gov.sg/das/homepage#) on the IMDA page.<br>
 Call: <br>
 Email:
+</details>
+
+## **Care and Support Package: Additional GST Voucher - U-Save Special Payment by MOF**
+<details>
+  <summary>Expand to read further</summary><br>
+
+#### Eligibility
+* For all eligible HDB households. Eligible larger households with 5 or more members will receive additional rebate.
+
+#### Benefits of this scheme
+* 2 times or 2.5 times their regular GST Voucher
+* Eligible households will receive their regular GSTV – U-Save for FY2020 over four quarters: in April 2020, July 2020, October 2020 and January 2021.
+
+#### How to apply?
+The rebates will be credited to the eligible households’ utilities account to directly offset their utilities bills.
+
+#### Further questions
+[Find out more](www.gstvoucher.gov.sg/pages/u-save.aspx)<br>
+Call: 6671 7117<br>
+Email: customersupport@spgroup.com.sg
+</details>
+
+## **Care and Support Package: Service & Conservancy Charges (S&CC) Rebate by HDB**
+<details>
+  <summary>Expand to read further</summary><br>
+
+#### Eligibility
+* For all eligible Singaporean households living in HDB flats.
+
+#### Benefits of this scheme
+* Between 1.5 and 3.5 months of S&CC over FY2020
+* Eligible households will receive their S&CC Rebate over four quarters: in April 2020, July 2020, October 2020 and January 2021.
+
+#### How to apply?
+The rebate will be used to directly offset your S&CC bills of the corresponding month.
+
+#### Further questions
+[Find out more](https://www.singaporebudget.gov.sg/budget_2020/budget-measures/care-and-support-package)<br>
+Call: 1800-866-3078<br>
+Email: sccrebates@mailbox.hdb.gov.sg
+</details>
+
+## **SkillsFuture Credit Top-Up by SSG**
+<details>
+  <summary>Expand to read further</summary><br>
+
+#### Eligibility
+* For all Singaporeans who are 25 years and above by 31 December 2020.
+
+#### Benefits of this scheme
+* One-time $500 credit top-up.
+
+#### How to apply?
+Eligible citizens will receive the top-up in their SkillsFuture Credit accounts on **1 October 2020**. You may login to your SkillsFuture Credit account at MySkillsFuture after 1 October 2020 to check your SkillsFuture Credit balance.
+
+#### Further questions
+[Find out more](https://www.skillsfuture.sg/credit) on the SkillsFuture page.<br>
+Call: 6785 5785<br>
+Feedback: ssg.gov.sg/feedback
+</details>
+
+## **Additional SkillsFuture Credit (Mid-Career Support) by SSG**
+<details>
+  <summary>Expand to read further</summary><br>
+  
+#### Eligibility
+* For all Singaporeans who are 40 to 60 years old by 31 December 2020.
+
+#### Benefits of this scheme
+* One-time $500 credit top-up.
+
+#### How to apply?
+Eligible citizens will receive the top-up in their SkillsFuture Credit accounts on **1 October 2020**. You may login to your SkillsFuture Credit account at MySkillsFuture after 1 October 2020 to check your SkillsFuture Credit balance.
+
+#### Further questions
+[Find out more](https://www.skillsfuture.sg/credit) on the SkillsFuture page.<br>
+Call: 6785 5785<br>
+Feedback: ssg.gov.sg/feedback
+</details>
+
+## **NTUC Care Fund by NTUC**
+<details>
+  <summary>Expand to read further</summary><br>
+
+#### Eligibility
+* A one-off cash relief to eligible union members who are facing hardship due to COVID-19, to help you tide over daily necessities during this challenging period. 
+
+#### Benefits of this scheme
+* A one-off cash relief of up to $300
+
+#### How to apply?
+Apply via your unions or NTUC membership from **25 March 2020 to 30 September 2020**.
+
+#### Further questions?
+[Find out more](https://www.ntuc.org.sg/wps/portal/up2/home/aboutntuc/ucare/ucarefund/details?WCM_GLOBAL_CONTEXT=/content_library/ntuc/home/areas+of+interest/care+and+share/u+care+fund/de4345d3-f51f-408c-9963-0d7055c9ab25) on the NTUC page.
+Call: 6213 8008<br>
+Email: 
+</details>
+
+---
+
+## <a name="seps"></a>**Deferment of personal income tax (PIT) for SEPs by IRAS**
+<details>
+  <summary>Expand to read further</summary><br>
+
+#### Eligibility
+* SEPs will be granted an automatic three-month deferment of their PIT payments due in the months of May, June, and July 2020. The PIT payments deferred from May,
+June, and July 2020 will instead be collected in August, September, and October 2020 respectively.
+
+#### Benefits of this scheme
+* Three-month deferment of PIT payments.
+
+#### How to apply?
+* The benefits will be applied automatically if you are eligible
+
+#### Further questions?
+[Find out more](http://www.iras.gov.sg) on the IRAS page.
 </details>
 
 ---
