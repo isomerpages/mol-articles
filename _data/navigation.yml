@@ -7,11 +7,5 @@
 logo: /images/mol-logo.jpg
 
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Articles
-    url: /articles/
-  - title: Themes
-    collection: themes
   - title: Resources
     resource_room: true

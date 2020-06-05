@@ -1,7 +1,15 @@
 ---
-title: Support Schemes and Budget Relief Measures
+title: FINANCIAL HELP FOR WORKERS & THE SELF-EMPLOYED
 permalink: /financial-articles/
 ---
+
+# The economic fallout of COVID-19 continues to take its toll.
+
+Whether you have lost your job (including self-employment) or suffered a drop in income, you should know that help is avaliable to get you through this. The government has committed close to 100 billion dollars to stabilise the economy and protect livelihoods.
+
+An extensive portion has been set aside as cash relief and subsidies for affected individuals. Those in need may also consider pre-existing support schemes which offer additional support ranging from housing and medical to employment.
+
+Find out what you are eligible for, learn about payout amount, and how to apply.
 
 # Budget Relief Measures
 
