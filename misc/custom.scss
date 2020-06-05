@@ -257,7 +257,7 @@ $desktop: 960px + (2 * $gap) !default;
 .content {
 	h1, h2, h3, h4, h5 {
     color: $secondary;
-    font-size: 26pt
+    font-size: 26pt;
 		strong {
 			color: $secondary;
 		}
