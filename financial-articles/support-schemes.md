@@ -1,5 +1,5 @@
 ---
-title: FINANCIAL HELP FOR WORKERS & THE SELF-EMPLOYED
+title: Financial Help for Workers and the Self-Employed
 permalink: /financial-articles/
 ---
 
@@ -23,7 +23,9 @@ Find out what you are eligible for, learn about payout amount, and how to apply.
 
 ---
 
-### PRE-EXISTING SUPPORT SCHEMES
+### SUMMARY OF PRE-EXISTING SUPPORT SCHEMES
+
+---
 
 ## <a name="schemes"></a>**Financial Assistance Scheme by MOE**
 
