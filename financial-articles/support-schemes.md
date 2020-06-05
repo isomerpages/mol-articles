@@ -11,33 +11,7 @@ An extensive portion has been set aside as cash relief and subsidies for affecte
 
 Find out what you are eligible for, learn about payout amount, and how to apply.
 
-# Budget Relief Measures
-
-To date, the government has committed close to 100 billion dollars in four budgets to support Singaporeans in this battle against COVID-19.
-
-An extensive portion of that monetary commitment has been set aside to stabilise the economy and protect livelihoods, as illustrated below.
-
-* Cash payouts and subsidies will be especially helpful for affected workers who may need help with living expenses as they find new employment. 
-
-* Eligible self-employed persons can also look forward to a cash payout of $3,000 in two payments, come July and October.
-
-* Needy households will receive higher rebates on their utilities bills and service and conservancy charges, to ease financial strain.
-
-# Pre-existing support schemes
-
-That's not all. You may also consider some of these pre-existing support schemes, which help to:
-
-* Lower your HDB mortgage installments or sublet of room(s) to generate additional income.
- 
-* Offer support ranging from monetary and medical to employment if you are temporarily unable to work due to illness (or if you are a caregiver of children, elderly, or other dependants).
-
-* Provide your school-going children with a full waiver of school fees, free textbooks and school attire, subsidies for meals and public transportation, and more.
-
-To ensure you don’t miss out on available support, we have made it easier for you to navigate the wide range of schemes and relief measures with just a few clicks. 
-
-Find out what you are eligible for, learn about payout amount, and how to apply.
-
-### <a name="top"></a> Jump to section
+#### <a name="top"></a> Jump to section
 
 > [Pre-existing support schemes](#schemes)
 
@@ -48,6 +22,8 @@ Find out what you are eligible for, learn about payout amount, and how to apply.
 > [Self-Employed Persons (SEPs)](#seps)<br>
 
 ---
+
+### PRE-EXISTING SUPPORT SCHEMES
 
 ## <a name="schemes"></a>**Financial Assistance Scheme by MOE**
 
@@ -62,8 +38,7 @@ For Singaporeans whose child is in a government or government-aided school, auto
 
 [Apply online](https://www.reddit.com/) from **4 May 2020 to 30 September 2020**, between **9am to 6pm**. Alternatively, schedule an application slot at your nearest Social Service Office.
 
-Further questions?
-[Find out more](https://www.moe.gov.sg/) on the MOE page.<br>
+[Find out more](https://www.moe.gov.sg/)<br>
 Call:  <br>
 Email:
 

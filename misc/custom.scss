@@ -7,7 +7,7 @@
 // Agency brand colors
 $primary: #e85A4F;
 $secondary: rgb(226, 27, 27);
-$secondary-hover: rgb(65, 64, 66);
+$secondary-hover: rgb(35, 31, 32);
 
 {%- for media-color in site.colors.media-colors -%}
   ${{- media-color.title -}}: {{- media-color.color -}};
@@ -261,6 +261,30 @@ $desktop: 960px + (2 * $gap) !default;
     font-weight: 600;
 		strong {
 			color: $secondary;
+		}
+  }
+  h2 {
+    color: $secondary;
+    font-size: 20pt;
+    font-weight: 600;
+		strong {
+			color: $secondary;
+		}
+  }
+  h3 {
+    color: $secondary-hover;
+    font-size: 20pt;
+    font-weight: 600;
+		strong {
+			color: $secondary-hover;
+		}
+  }
+  h4 {
+    color: $secondary-hover;
+    font-size: 16pt;
+    font-weight: 300;
+		strong {
+			color: $secondary-hover;
 		}
 	}
 	blockquote {
