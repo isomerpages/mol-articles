@@ -10,6 +10,18 @@ ul.jekyllcodex_accordion li label::before {content: "+"; font-weight: normal; fo
 ul.jekyllcodex_accordion li input:checked + label::before {transform: rotate(-45deg);}
 ul.jekyllcodex_accordion li ul li { list-style-type: disc; border-top: 0; }
 ul.jekyllcodex_accordion li ol li { list-style-type: decimal; border-top: 0; }
+
+.accordion {
+    background-color: #FA8072;
+    color: #FFF;
+    font-size: 20px;
+}
+
+.panel {
+    padding: 18px;
+    background-color: white;
+    overflow: hidden
+}
 </style>
 <ul class="jekyllcodex_accordion">
     {% for item in page.accordion %}
