@@ -256,10 +256,10 @@ $desktop: 960px + (2 * $gap) !default;
 // Post-content
 .content {
 	h1 {
-    color: $primary;
+    color: $secondary;
     font-size: 26px;
     font-weight: 600;
-    line-height: 24px;
+    line-height: 26px;
     margin-bottom: 15px;
 		strong {
 			color: $primary;
