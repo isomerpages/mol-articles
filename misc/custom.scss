@@ -259,6 +259,8 @@ $desktop: 960px + (2 * $gap) !default;
     color: $primary;
     font-size: 26px;
     font-weight: 600;
+    line-height: 24px;
+    margin-bottom: 15px;
 		strong {
 			color: $primary;
 		}

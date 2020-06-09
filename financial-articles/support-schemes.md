@@ -27,7 +27,7 @@ accordion:
 
 # The economic fallout of COVID-19 continues to take its toll.
 
-Whether you have lost your job (including self-employment) or suffered a drop in income, you should know that help is avaliable to get you through this. The government has committed close to 100 billion dollars to stabilise the economy and protect livelihoods.
+Whether you have lost your job (including self-employment) or suffered a drop in income, you should know that help is available to get you through this. The government has committed close to 100 billion dollars to stabilise the economy and protect livelihoods.
 
 An extensive portion has been set aside as cash relief and subsidies for affected individuals. Those in need may also consider pre-existing support schemes which offer additional support ranging from housing and medical to employment.
 
@@ -43,11 +43,28 @@ Find out what you are eligible for, learn about payout amount, and how to apply.
 > Loss of income<br>
 > [Self-Employed Persons (SEPs)](#seps)<br>
 
+| Budget Relief Measures                                                                            	| Unemployed (including retrenched individuals) 	| Lower income individuals 	| Loss of income     	| Self Employed Persons (SEPs) 	|
+|---------------------------------------------------------------------------------------------------	|-----------------------------------------------	|--------------------------	|--------------------	|------------------------------	|
+| COVID-19 Support Grant                                                                            	| :heavy_check_mark:                            	|                          	| :heavy_check_mark: 	|                              	|
+| Defer Tax Payment for Individual Income Tax (For non-self employed)                               	| :heavy_check_mark:                            	| :heavy_check_mark:       	| :heavy_check_mark: 	|                              	|
+| Self-Employed Persons Income Relief Scheme (SIRS)                                                 	|                                               	|                          	|                    	|                              	|
+| Home Access Programme                                                                             	|                                               	|                          	|                    	|                              	|
+| Capability Development Scheme for the Arts (CDSA)                                                 	|                                               	|                          	|                    	|                              	|
+| Digital Presentation Grant for the Arts (DPG)                                                     	|                                               	|                          	|                    	|                              	|
+| Singapore Association of Motion Picture Professionals(SAMPP)COVID-19 Relief Fund                  	|                                               	|                          	|                    	|                              	|
+| Care and Support Package: Enhanced Workfare Special Payment (WSP)                                 	|                                               	|                          	|                    	|                              	|
+| Care and Support Package: Additional GST Voucher - U-Save Special Payment                         	|                                               	|                          	|                    	|                              	|
+| Care and Support Package: Service & Conservancy Charges (S&CC) Rebate for eligible HDB households 	|                                               	|                          	|                    	|                              	|
+| SkillsFuture Credit Top-Up                                                                        	|                                               	|                          	|                    	|                              	|
+| Additional SkillsFuture Credit (Mid-Career Support)                                               	|                                               	|                          	|                    	|                              	|
+| The Courage Fund                                                                                  	|                                               	|                          	|                    	|                              	|
+| NTUC Care Fund                                                                                    	|                                               	|                          	|                    	|                              	|
+| Deferment of personal income tax (PIT) for SEPs                                                   	|                                               	|                          	|                    	|                              	|
+| Self-Employed Person Training Support Scheme                                                      	|                                               	|                          	|                    	|                              	|
+
 ---
 
 ### SUMMARY OF PRE-EXISTING SUPPORT SCHEMES
-
----
 
 {% include accordion.html %}
 
