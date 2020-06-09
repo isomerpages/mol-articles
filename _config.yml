@@ -27,6 +27,7 @@ collections:
 resources_name: resources
 #markdown: CommonMarkGhPages
 
+
 ##################################################################################################################
 # Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
 ##################################################################################################################
@@ -50,5 +51,6 @@ plugins:
   - jekyll-assets
   - jekyll-paginate
   - jekyll-sitemap
+  - jemoji
 description: test test
 
