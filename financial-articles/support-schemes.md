@@ -16,7 +16,8 @@ accordion:
       <a href ="https://www.reddit.com/">Apply online</a> from **4 May 2020 to 30 September 2020**, between **9am to 6pm**. Alternatively, schedule an application slot at your nearest Social Service Office.
 
       [Find out more](https://www.moe.gov.sg/)<br/>
-      Call today
+      Call:<br/>
+      Email:
 ---
 
 # The economic fallout of COVID-19 continues to take its toll.
