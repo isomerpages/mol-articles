@@ -25,7 +25,7 @@ accordion:
   - title: Kindergarten Free Assistance Scheme (KiFAS)
 ---
 
-# The economic fallout of COVID-19 continues to take its toll.
+# <a name="top"></a>The economic fallout of COVID-19 continues to take its toll.
 
 Whether you have lost your job (including self-employment) or suffered a drop in income, you should know that help is available to get you through this. 
 
@@ -35,7 +35,7 @@ An extensive portion has been set aside as cash relief and subsidies for affecte
 
 Find out what you are eligible for, learn about payout amount, and how to apply.
 
-#### <a name="top"></a> Jump to section
+#### Jump to section
 
 > [Pre-existing support schemes](#schemes)
 
@@ -53,7 +53,7 @@ Find out what you are eligible for, learn about payout amount, and how to apply.
 | Home Access Programme                                                                             	| :heavy_check_mark:                            	| :heavy_check_mark:       	| :heavy_check_mark: 	| :heavy_check_mark:           	|
 | Capability Development Scheme for the Arts (CDSA)                                                 	|                                               	|                          	|                    	| :heavy_check_mark:           	|
 | Digital Presentation Grant for the Arts (DPG)                                                     	|                                               	|                          	|                    	| :heavy_check_mark:           	|
-| Singapore Association of Motion Picture Professionals(SAMPP)COVID-19 Relief Fund                  	|                                               	|                          	|                    	| :heavy_check_mark:           	|
+| Singapore Association of Motion Picture Professionals (SAMPP) COVID-19 Relief Fund                  |                                               	|                          	|                    	| :heavy_check_mark:           	|
 | Care and Support Package: Enhanced Workfare Special Payment (WSP)                                 	|                                               	| :heavy_check_mark:       	|                    	| :heavy_check_mark:           	|
 | Care and Support Package: Additional GST Voucher - U-Save Special Payment                         	| :heavy_check_mark:                            	| :heavy_check_mark:       	| :heavy_check_mark: 	| :heavy_check_mark:           	|
 | Care and Support Package: Service & Conservancy Charges (S&CC) Rebate for eligible HDB households 	| :heavy_check_mark:                            	| :heavy_check_mark:       	| :heavy_check_mark: 	| :heavy_check_mark:           	|
