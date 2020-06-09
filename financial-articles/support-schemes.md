@@ -27,7 +27,9 @@ accordion:
 
 # The economic fallout of COVID-19 continues to take its toll.
 
-Whether you have lost your job (including self-employment) or suffered a drop in income, you should know that help is available to get you through this. The government has committed close to 100 billion dollars to stabilise the economy and protect livelihoods.
+Whether you have lost your job (including self-employment) or suffered a drop in income, you should know that help is available to get you through this. 
+
+The government has committed close to 100 billion dollars to stabilise the economy and protect livelihoods.
 
 An extensive portion has been set aside as cash relief and subsidies for affected individuals. Those in need may also consider pre-existing support schemes which offer additional support ranging from housing and medical to employment.
 
@@ -402,7 +404,19 @@ June, and July 2020 will instead be collected in August, September, and October 
 
 ---
 
-We hope you find the support you need here. 
+# Related Resources
+
+## Support for your job search guide
+
+[![Image Link](/images/sgbudgets.jpg)](https://stg.momentsoflife.sg/wasj-web/support-for-your-job-search)
+*Level up with resources relating to career coaching, job opportunities, career conversion programs, skills upgrading, and more.*
+
+## Retrenchment benefits & measures guide
+
+[![Image Link](/images/sgalley.jpg)](https://stg.momentsoflife.sg/wasj-web/retrenchment-benefits-and-measures)
+*Understand fair practice protocols, retrenchment benefits, and what to do in the event of dispute.*
+
+---
 
 This page will be updated as additional schemes and measures are introduced.
 
