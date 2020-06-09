@@ -18,6 +18,11 @@ accordion:
       [Find out more](https://www.moe.gov.sg/)<br/>
       Call:<br/>
       Email:
+  - title: Subletting spare rooms of your flat for added income by HDN
+  - title: CHAS Card by MOH
+  - title: CapitaLand-U Care Resilience and Enablement (CAP+Ure) Fund by NTUC-U Care Fund
+  - title: Com Care Short to Medium Term Assistance by MSF
+  - title: Kindergarten Free Assistance Scheme (KiFAS)
 ---
 
 # The economic fallout of COVID-19 continues to take its toll.
