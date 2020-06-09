@@ -39,7 +39,7 @@ Find out what you are eligible for, learn about payout amount, and how to apply.
 
 > [Pre-existing support schemes](#schemes)
 
-**Budget relief measures for**
+#### Budget relief measures for
 > [Unemployed (including retrenched individuals)](#unemployed)<br>
 > Lower-income<br>
 > Loss of income<br>
