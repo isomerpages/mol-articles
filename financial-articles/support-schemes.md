@@ -110,7 +110,24 @@ accordion:
 
       [Find out more](https://www.ecda.gov.sg/Pages/Subsidies-and-Financial-Assistance.aspx)<br>
       Call: <br>
-      Email:
+      Email:      
+accordion2:
+  - title: COVID-19 Support Grant
+  - title: Defer Tax Payment for Individual Income Tax (For non-self employed)
+  - title: Self-Employed Persons Income Relief Scheme (SIRS)
+  - title: Home Access Programme
+  - title: Capability Development Scheme for the Arts (CDSA)
+  - title: Digital Presentation Grant for the Arts (DPG)
+  - title: Singapore Association of Motion Picture Professionals (SAMPP) COVID-19 Relief Fund
+  - title: Care and Support Package Enhanced Workfare Special Payment (WSP)
+  - title: Care and Support Package Additional GST Voucher - U-Save Special Payment
+  - title: Care and Support Package Service & Conservancy Charges (S&CC) Rebate for eligible HDB households
+  - title: SkillsFuture Credit Top-Up
+  - title: Additional SkillsFuture Credit (Mid-Career Support)
+  - title: The Courage Fund
+  - title: NTUC Care Fund
+  - title: Deferment of personal income tax (PIT) for SEPs
+  - title: Self-Employed Person Training Support Scheme
 ---
 
 # <a name="top"></a>The economic fallout of COVID-19 continues to take its toll.
@@ -156,9 +173,11 @@ Find out what you are eligible for, learn about payout amount, and how to apply.
 
 ### SUMMARY OF PRE-EXISTING SUPPORT SCHEMES
 
-<a name="schemes"></a>{% include accordion.html %}
+{% include accordion.html %}
 
-### SUMMARY OF BUDGET RELIEF MEASURES
+### SUMMARY OF BENEFIT RELIEF MEASURES
+
+{% include accordion2.html %}
 
 ## <a name="unemployed"></a> **COVID-19 Support Grant by MSF**
 <details>
