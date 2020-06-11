@@ -373,14 +373,14 @@ Find out what you are eligible for, learn about payout amount, and how to apply.
 
 {% include accordion2.html %}
 
-## Related Resources
+# Related Resources
 
-### Support for your job search guide
+## Support for your job search guide
 
 [![Image Link](/images/sgbudgets.jpg)](https://stg.momentsoflife.sg/wasj-web/support-for-your-job-search)
 *Level up with resources relating to career coaching, job opportunities, career conversion programs, skills upgrading, and more.*
 
-### Retrenchment benefits & measures guide
+## Retrenchment benefits & measures guide
 
 [![Image Link](/images/sgalley.jpg)](https://stg.momentsoflife.sg/wasj-web/retrenchment-benefits-and-measures)
 *Understand fair practice protocols, retrenchment benefits, and what to do in the event of dispute.*
