@@ -27,10 +27,10 @@ ul.jekyllcodex_accordion li label {
 }
 
 ul.jekyllcodex_accordion li div {
-    padding: 5px;
+    padding: 0;
     height: 0;
     overflow: hidden; 
-    transition: height 0.3s ease;
+    transition: height 0.4s ease-in-out;
 }
 
 ul.jekyllcodex_accordion li input:checked + label {
@@ -40,7 +40,7 @@ ul.jekyllcodex_accordion li input:checked + label {
 ul.jekyllcodex_accordion li input:checked + label + div {
     display: block;
     height: 400px;
-    padding: 5px;
+    padding: 0;
     overflow: auto;
 }
 
@@ -50,7 +50,7 @@ ul.jekyllcodex_accordion li label::before {
     line-height: 1.1rem; 
     padding: 0; 
     position: absolute; right: 0.5rem; 
-    transition: height 0.3s ease-in;
+    transition: all 0.15s ease-in-out;
 }
 
 ul.jekyllcodex_accordion li input:checked + label::before {

@@ -18,6 +18,7 @@ accordion:
       [Find out more](https://www.moe.gov.sg/)<br>
       Call:  <br>
       Email:
+
   - title: Financial Assistance Measures (FAM) by HDB
     content: | 
       For Singaporeans whose child is in a government or government-aided school, autonomous government or government-aided school or specialised school. Gross Household Income (GHI) not exceeding $2,750 per month OR Per Capita Income (PCI) not exceeding $690 per month.
@@ -34,6 +35,7 @@ accordion:
       [Find out more](https://www.moe.gov.sg/)<br/>
       Call:<br/>
       Email:
+
   - title: Subletting spare rooms of your flat for added income by HDN
     content: |
       Rent out your flat to generate additional income. Note that only bedrooms from HDB flats that are **3-room or larger** can be rented out. The maximum number of bedrooms that flat owners can rent out and the maximum number of occupants allowed in each flat depends on the flat type - 1 bedroom for 3-room, 2 bedrooms for 4-room and bigger.
@@ -46,6 +48,7 @@ accordion:
       [Find out more](https://www.hdb.gov.sg/cs/infoweb/residential/renting-out-a-flat-room/renting-out-your-room).<br>
       Call: <br>
       Email:
+
   - title: CHAS Card by MOH
     content: |
       Eligible households enjoy subsidies at participating GPs, dental and specialist outpatient clinics.
@@ -55,6 +58,7 @@ accordion:
       [Find out more]<br>
       Call: <br>
       Email:
+
   - title: CapitaLand-U Care Resilience and Enablement (CAP+Ure) Fund by NTUC-U Care Fund
     content: |
       Eligibility
@@ -72,6 +76,7 @@ accordion:
       [Find out more](https://ntuc.org.sg/wps/portal/up2/home/aboutntuc/ucare/ucareprogrammes)<br>
       Call: <br>
       Email:
+
   - title: Com Care Short to Medium Term Assistance by MSF
     content: |
       For those who are unable to secure a job or find work for an extended period of time and needs financial support temporarily. 
@@ -94,6 +99,7 @@ accordion:
       [Find out more](https://www.msf.gov.sg/Comcare/Pages/Short-to-Medium-Term-Assistance.aspx)<br>
       Call: <br>
       Email:
+
   - title: Kindergarten Free Assistance Scheme (KiFAS)
     content: |
       For parents who need help in defraying their children's kindergarten fees.
@@ -110,20 +116,185 @@ accordion:
 
       [Find out more](https://www.ecda.gov.sg/Pages/Subsidies-and-Financial-Assistance.aspx)<br>
       Call: <br>
-      Email:      
+      Email: 
+
 accordion2:
-  - title: COVID-19 Support Grant
-  - title: Defer Tax Payment for Individual Income Tax (For non-self employed)
-  - title: Self-Employed Persons Income Relief Scheme (SIRS)
-  - title: Home Access Programme
-  - title: Capability Development Scheme for the Arts (CDSA)
+  - title: COVID-19 Support Grant by MSF
+    content: |
+      Eligibility
+        * For full/part time permanent or contract employees who are presently unemployed due to loss of job, involuntary No-Pay Leave (for 3 consecutive months), loss of at least 30% of salary (for 3 consecutive months) after 23 January 2020 as a result of the economic impact of COVID-19.
+        * Those on ComCare, Self-Employed Person Income Relief Scheme, NSFs and interns are **not eligible**.
+
+      Benefits of this scheme
+        * For loss of job and involuntary No-Pay Leave: Up to $800/month (for 3 months) credited into bank account.
+        * For loss of at least 30% of salary: Up to $500/month (for 3 months) credited into bank account.
+
+      [Apply online](go.gov.sg/csg) from **4 May 2020 to 30 September 2020**, between **9am to 6pm**. Supporting documents are required. Alternatively, make an appointment with your nearest [Social Service Office](go.gov.sg/ssolocator) if you are unable to apply online.
+
+      [Find out more](https://www.msf.gov.sg/assistance/Pages/covid19relief.aspx#CSG) on the MSF page.<br>
+      Call 1800-222-0000 if you need help filling in the online application form.<br>
+      Email: ask_sso@msf.gov.sg
+
+  - title: Defer Tax Payment for Individual Income Tax (For non-self employed) by IRAS
+    content: |
+      Eligibility
+      * For all non-self employed persons
+      * This deferment does **not** apply to non-Singaporean citizen employees who have sought tax clearance and employees of foreign employers.
+
+      Benefits of this scheme
+      * Receive a deferment on your income tax payments due in May, June and July 2020, to help ease cash flow.
+      * Income tax deduction to resume in August, September or October 2020. The end-date of your instalment plan will be extended by 3 months.
+
+      [Apply online](https://form.gov.sg/#!/5d5ce149c0a8230012d27118) from **26 March 2020 to 31 July 2020**, between **9am to 6pm**. Only one application is needed.
+
+      [Find out more](https://www.iras.gov.sg/irashome/Individuals/Locals/Paying-your-taxes-Claiming-refunds/Defer-Tax-Payment-for-Individual-Income-Tax/) on the IRAS page.<br>
+      Call: <br>
+      Email:
+
+  - title: Self-Employed Persons Income Relief Scheme (SIRS) by MOM
+    content: |
+      Eligibility
+      * For Singaporean Self-Employed Persons (SEPs) aged 37 (as at 31 Dec 2020) and over, and have declared positive Net Trade Income to the Inland Revenue Authority of Singapore (IRAS) / CPF Board (CPFB) for Work Year 2018. You will automatically receive SIRS payouts. There is no need to submit an application.
+      * For those who have marginally missed one of the eligibility criteria and are facing difficult circumstances can now submit an application to NTUC for consideration. 
+
+      Benefits of this scheme
+      * Receive three quarterly cash payouts of $3,000 in end-May, July and Oct 2020. 
+
+      [Apply online](https://www.ntuc.com.sg/sirs/apply-now/). Only applicable for SEPs who do not automatically qualify and have marginally missed one of the eligibility criteria and are facing difficult circumstances.
+
+      [Find out more](https://www.ntuc.com.sg/sirs/)<br>
+      Call: 6713 5777<br>
+      Email: SIRS@ntuc.org.sg
+
+  - title: Home Access Programme by IMDA
+    content: |
+      Eligibility
+        * For HDB households with a monthly gross household income ≤ $1,900 or per capita income ≤ $650, and has at least one family member who is Singaporean.
+        * You should not be an existing Home Access beneficiary or an existing NEU PC Plus beneficiary with broadband connectivity.
+
+      Benefits of this scheme
+        * Receive 2 years of subsidised fibre broadband connectivity, with an option to bundle with a tablet or smartphone. 
+
+      [Apply online](https://eservice.imda.gov.sg/neupc/singpasslogin.action?src=das&strParam=login&notprotected=true) or [download the application form](https://www.imda.gov.sg/-/media/Imda/Files/Programme/Home-Access/HA30-Application-Form.pdf), complete it and mail to:<br>
+      Infocomm Media Development Authority (IMDA)<br>
+      PSA Building Post Office<br>
+      P.O. Box 316 <br>
+      Singapore 911141
+
+      [Find out more](https://eservice.imda.gov.sg/das/homepage#).<br>
+      Call: <br>
+      Email:
+
+  - title: Capability Development Scheme for the Arts (CDSA) by NAC
+    content: |
+      Eligibility
+      + For artists who wish to upskill and grow capabilities through training programmes during this COVID-19 period. For training programmes that take place from 16 March 2020 to 31 December 2020.
+
+      Benefits of this scheme
+      * Up to 90% of programme fees, including training allowance of $10/hour.
+
+      Email the completed forms and supporting documents to cdsa@nac.gov.sg **by 31 July 2020, 5pm**.
+
+      [Find out more](https://www.nac.gov.sg/whatwedo/support/sustaining-the-arts-during-covid-19/acrp.html)<br>
+
   - title: Digital Presentation Grant for the Arts (DPG)
+    content: |
+      Eligibility
+      + For artists and arts organisations who wish to present work in digital form or via digital medium during this COVID-19 period. Projects should be completed by 31 December 2020.
+
+      Benefits of this scheme
+      * Up to $20,000 per project for successful applications.
+
+      [Apply online](https://form.gov.sg/#!/5e93e176bf77f00011b13843) **by 31 July 2020, 5pm**.
+
+      [Find out more](https://www.nac.gov.sg/whatwedo/support/sustaining-the-arts-during-covid-19/acrp.html)<br>
+      Email: dpg@nac.gov.sg
+
   - title: Singapore Association of Motion Picture Professionals (SAMPP) COVID-19 Relief Fund
+    content: |
+      Eligibility
+      * For Singapore-based motion picture freelancers who are registered members of SAMPP, and whose livelihoods have been severely affected by the coronavirus pandemic.
+
+      Benefits of this scheme
+      * Between $300 to $500, based on the assessment of individual needs.
+
+      [Apply online](https://forms.gle/Uw621e7GJvNEoBXm6) **by 31 December 2020**.
+
+      [Find out more](https://www.sampp.org.sg/covid-19-relief-fund/)
+
   - title: Care and Support Package Enhanced Workfare Special Payment (WSP)
-  - title: Care and Support Package Additional GST Voucher - U-Save Special Payment
+    content: |
+      Eligibility
+      * For all Singaporean employees and self-employed persons who received Workfare Income Supplement (WIS) payments in Work Year 2019.
+
+      Benefits of this scheme
+      * Eligible Singaporeans will receive $3,000. You can expect to receive your WSP in two payments - $1,500 in July 2020 and $1,500 in October 2020.
+
+      The WSP will be given to eligible Singaporeans in the same way they receive their WIS payments – direct crediting into their bank account, or cheque sent to their NRIC address.
+
+      [Find out more](https://www.singaporebudget.gov.sg/budget_2020/budget-measures/care-and-support-package)<br>
+      Call: 1800-227-1188<br>
+      Submit your enquiry [here](www.cpf.gov.sg/writetous).
+
+  - title: Care and Support Package Additional GST Voucher - U-Save Special Payment by MOF
+    content: |
+      Eligibility
+      * For all eligible HDB households. Eligible larger households with 5 or more members will receive additional rebate.
+
+      Benefits of this scheme
+      * 2 times or 2.5 times their regular GST Voucher
+      * Eligible households will receive their regular GSTV – U-Save for FY2020 over four quarters: in April 2020, July 2020, October 2020 and January 2021.
+
+      The rebates will be credited to the eligible households’ utilities account to directly offset their utilities bills.
+
+
+      [Find out more](www.gstvoucher.gov.sg/pages/u-save.aspx)<br>
+      Call: 6671 7117<br>
+      Email: customersupport@spgroup.com.sg
+
   - title: Care and Support Package Service & Conservancy Charges (S&CC) Rebate for eligible HDB households
-  - title: SkillsFuture Credit Top-Up
-  - title: Additional SkillsFuture Credit (Mid-Career Support)
+    content: |
+      Eligibility
+      * For all eligible Singaporean households living in HDB flats.
+
+      Benefits of this scheme
+      * Between 1.5 and 3.5 months of S&CC over FY2020
+      * Eligible households will receive their S&CC Rebate over four quarters: in April 2020, July 2020, October 2020 and January 2021.
+
+      The rebate will be used to directly offset your S&CC bills of the corresponding month.
+
+      [Find out more](https://www.singaporebudget.gov.sg/budget_2020/budget-measures/care-and-support-package)<br>
+      Call: 1800-866-3078<br>
+      Email: sccrebates@mailbox.hdb.gov.sg
+
+  - title: SkillsFuture Credit Top-Up by SSG
+    content: |
+      Eligibility
+      * For all Singaporeans who are 25 years and above by 31 December 2020.
+
+      Benefits of this scheme
+      * One-time $500 credit top-up.
+
+      Eligible citizens will receive the top-up in their SkillsFuture Credit accounts on **1 October 2020**. You may login to your SkillsFuture Credit account at MySkillsFuture after 1 October 2020 to check your SkillsFuture Credit balance.
+
+      [Find out more](https://www.skillsfuture.sg/credit).<br>
+      Call: 6785 5785<br>
+      Submit your feedback [here](ssg.gov.sg/feedback).
+
+  - title: Additional SkillsFuture Credit (Mid-Career Support) by SSG
+    content: |
+      Eligibility
+      * For all Singaporeans who are 40 to 60 years old by 31 December 2020.
+
+      Benefits of this scheme
+      * One-time $500 credit top-up.
+
+      Eligible citizens will receive the top-up in their SkillsFuture Credit accounts on **1 October 2020**. You may login to your SkillsFuture Credit account at MySkillsFuture after 1 October 2020 to check your SkillsFuture Credit balance.
+
+      [Find out more](https://www.skillsfuture.sg/credit).<br>
+      Call: 6785 5785<br>
+      Submit your feedback [here](ssg.gov.sg/feedback).
+
   - title: The Courage Fund
   - title: NTUC Care Fund
   - title: Deferment of personal income tax (PIT) for SEPs
@@ -179,149 +350,6 @@ Find out what you are eligible for, learn about payout amount, and how to apply.
 
 {% include accordion2.html %}
 
-## <a name="unemployed"></a> **COVID-19 Support Grant by MSF**
-<details>
-  <summary>Expand to read further</summary><br>
-
-#### Eligibility
-* For full/part time permanent or contract employees who are presently unemployed due to loss of job, involuntary No-Pay Leave (for 3 consecutive months), loss of at least 30% of salary (for 3 consecutive months) after 23 January 2020 as a result of the economic impact of COVID-19.
-* Those on ComCare, Self-Employed Person Income Relief Scheme, NSFs and interns are **not eligible**.
-
-#### Benefits of this scheme
-* For loss of job and involuntary No-Pay Leave: Up to $800/month (for 3 months) credited into bank account.
-* For loss of at least 30% of salary: Up to $500/month (for 3 months) credited into bank account.
-
-#### How to apply?
-[Apply online](go.gov.sg/csg) from **4 May 2020 to 30 September 2020**, between **9am to 6pm**. Supporting documents are required. Alternatively, make an appointment with your nearest [Social Service Office](go.gov.sg/ssolocator) if you are unable to apply online.
-
-#### Further questions?
-[Find out more](https://www.msf.gov.sg/assistance/Pages/covid19relief.aspx#CSG) on the MSF page.<br>
-Call 1800-222-0000 if you need help filling in the online application form.<br>
-Email: ask_sso@msf.gov.sg
-</details>
-
-## **Defer Tax Payments for Individual Income Tax by IRAS**
-<details>
-  <summary>Expand to read further</summary><br>
-
-#### Eligibility
-* For all non-self employed persons
-* This deferment does **not** apply to non-Singaporean citizen employees who have sought tax clearance and employees of foreign employers.
-
-#### Benefits of this scheme
-* Receive a deferment on your income tax payments due in May, June and July 2020, to help ease cash flow.
-* Income tax deduction to resume in August, September or October 2020. The end-date of your instalment plan will be extended by 3 months.
-
-#### How to apply?
-[Apply online](https://form.gov.sg/#!/5d5ce149c0a8230012d27118) from **26 March 2020 to 31 July 2020**, between **9am to 6pm**. Only one application is needed.
-
-#### Further questions?
-[Find out more](https://www.iras.gov.sg/irashome/Individuals/Locals/Paying-your-taxes-Claiming-refunds/Defer-Tax-Payment-for-Individual-Income-Tax/) on the IRAS page.<br>
-Call: <br>
-Email:
-</details>
-
-## **Home Access Programme by IMDA**
-<details>
-  <summary>Expand to read further</summary><br>
-
-#### Eligibility
-* For HDB households with a monthly gross household income ≤ $1,900 or per capita income ≤ $650, and has at least one family member who is Singaporean.
-* You should not be an existing Home Access beneficiary or an existing NEU PC Plus beneficiary with broadband connectivity.
-
-#### Benefits of this scheme
-* Receive 2 years of subsidised fibre broadband connectivity, with an option to bundle with a tablet or smartphone. 
-
-#### How to apply?
-[Apply online](https://eservice.imda.gov.sg/neupc/singpasslogin.action?src=das&strParam=login&notprotected=true) or [download the application form](https://www.imda.gov.sg/-/media/Imda/Files/Programme/Home-Access/HA30-Application-Form.pdf), complete it and mail to:<br>
-Infocomm Media Development Authority (IMDA)<br>
-PSA Building Post Office<br>
-P.O. Box 316 <br>
-Singapore 911141
-
-#### Further questions?
-[Find out more](https://eservice.imda.gov.sg/das/homepage#) on the IMDA page.<br>
-Call: <br>
-Email:
-</details>
-
-## **Care and Support Package: Additional GST Voucher - U-Save Special Payment by MOF**
-<details>
-  <summary>Expand to read further</summary><br>
-
-#### Eligibility
-* For all eligible HDB households. Eligible larger households with 5 or more members will receive additional rebate.
-
-#### Benefits of this scheme
-* 2 times or 2.5 times their regular GST Voucher
-* Eligible households will receive their regular GSTV – U-Save for FY2020 over four quarters: in April 2020, July 2020, October 2020 and January 2021.
-
-#### How to apply?
-The rebates will be credited to the eligible households’ utilities account to directly offset their utilities bills.
-
-#### Further questions
-[Find out more](www.gstvoucher.gov.sg/pages/u-save.aspx)<br>
-Call: 6671 7117<br>
-Email: customersupport@spgroup.com.sg
-</details>
-
-## **Care and Support Package: Service & Conservancy Charges (S&CC) Rebate by HDB**
-<details>
-  <summary>Expand to read further</summary><br>
-
-#### Eligibility
-* For all eligible Singaporean households living in HDB flats.
-
-#### Benefits of this scheme
-* Between 1.5 and 3.5 months of S&CC over FY2020
-* Eligible households will receive their S&CC Rebate over four quarters: in April 2020, July 2020, October 2020 and January 2021.
-
-#### How to apply?
-The rebate will be used to directly offset your S&CC bills of the corresponding month.
-
-#### Further questions
-[Find out more](https://www.singaporebudget.gov.sg/budget_2020/budget-measures/care-and-support-package)<br>
-Call: 1800-866-3078<br>
-Email: sccrebates@mailbox.hdb.gov.sg
-</details>
-
-## **SkillsFuture Credit Top-Up by SSG**
-<details>
-  <summary>Expand to read further</summary><br>
-
-#### Eligibility
-* For all Singaporeans who are 25 years and above by 31 December 2020.
-
-#### Benefits of this scheme
-* One-time $500 credit top-up.
-
-#### How to apply?
-Eligible citizens will receive the top-up in their SkillsFuture Credit accounts on **1 October 2020**. You may login to your SkillsFuture Credit account at MySkillsFuture after 1 October 2020 to check your SkillsFuture Credit balance.
-
-#### Further questions
-[Find out more](https://www.skillsfuture.sg/credit) on the SkillsFuture page.<br>
-Call: 6785 5785<br>
-Feedback: ssg.gov.sg/feedback
-</details>
-
-## **Additional SkillsFuture Credit (Mid-Career Support) by SSG**
-<details>
-  <summary>Expand to read further</summary><br>
-  
-#### Eligibility
-* For all Singaporeans who are 40 to 60 years old by 31 December 2020.
-
-#### Benefits of this scheme
-* One-time $500 credit top-up.
-
-#### How to apply?
-Eligible citizens will receive the top-up in their SkillsFuture Credit accounts on **1 October 2020**. You may login to your SkillsFuture Credit account at MySkillsFuture after 1 October 2020 to check your SkillsFuture Credit balance.
-
-#### Further questions
-[Find out more](https://www.skillsfuture.sg/credit) on the SkillsFuture page.<br>
-Call: 6785 5785<br>
-Feedback: ssg.gov.sg/feedback
-</details>
 
 ## **NTUC Care Fund by NTUC**
 <details>
