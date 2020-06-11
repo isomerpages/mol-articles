@@ -342,7 +342,7 @@ Find out what you are eligible for, learn about payout amount, and how to apply.
 > [Unemployed (including retrenched individuals)](#unemployed)<br>
 > Lower-income<br>
 > Loss of income<br>
-> [Self-Employed Persons (SEPs)](#seps)<br>
+> Self-Employed Persons (SEPs)<br>
 
 | Budget Relief Measures                                                                            	| Unemployed (including retrenched individuals) 	| Lower income individuals 	| Loss of income     	| Self Employed Persons (SEPs) 	|
 |---------------------------------------------------------------------------------------------------	|-----------------------------------------------	|--------------------------	|--------------------	|------------------------------	|
