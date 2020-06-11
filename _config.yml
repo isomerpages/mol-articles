@@ -22,10 +22,6 @@ colors:
 collections:
   themes:
     output: true
-  resources:
-    output: true
-resources_name: resources
-#markdown: CommonMarkGhPages
 
 
 ##################################################################################################################

@@ -12,8 +12,4 @@ sections:
         background: /images/sg-skyline.jpg
         button: Learn more
         url: /financial-articles/
-    - resources:
-        title: Related Resources
-        button: Browse our guides
-        url: /resources/
 ---

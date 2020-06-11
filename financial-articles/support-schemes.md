@@ -344,27 +344,6 @@ Find out what you are eligible for, learn about payout amount, and how to apply.
 > Loss of income<br>
 > Self-Employed Persons (SEPs)<br>
 
-| Budget Relief Measures                                                                            	| Unemployed (including retrenched individuals) 	| Lower income individuals 	| Loss of income     	| Self Employed Persons (SEPs) 	|
-|---------------------------------------------------------------------------------------------------	|-----------------------------------------------	|--------------------------	|--------------------	|------------------------------	|
-| COVID-19 Support Grant                                                                            	| :heavy_check_mark:                            	|                          	| :heavy_check_mark: 	|                              	|
-| Defer Tax Payment for Individual Income Tax (For non-self employed)                               	| :heavy_check_mark:                            	| :heavy_check_mark:       	| :heavy_check_mark: 	|                              	|
-| Self-Employed Persons Income Relief Scheme (SIRS)                                                 	|                                               	|                          	|                    	| :heavy_check_mark:           	|
-| Home Access Programme                                                                             	| :heavy_check_mark:                            	| :heavy_check_mark:       	| :heavy_check_mark: 	| :heavy_check_mark:           	|
-| Capability Development Scheme for the Arts (CDSA)                                                 	|                                               	|                          	|                    	| :heavy_check_mark:           	|
-| Digital Presentation Grant for the Arts (DPG)                                                     	|                                               	|                          	|                    	| :heavy_check_mark:           	|
-| Singapore Association of Motion Picture Professionals (SAMPP) COVID-19 Relief Fund                  |                                               	|                          	|                    	| :heavy_check_mark:           	|
-| Care and Support Package: Enhanced Workfare Special Payment (WSP)                                 	|                                               	| :heavy_check_mark:       	|                    	| :heavy_check_mark:           	|
-| Care and Support Package: Additional GST Voucher - U-Save Special Payment                         	| :heavy_check_mark:                            	| :heavy_check_mark:       	| :heavy_check_mark: 	| :heavy_check_mark:           	|
-| Care and Support Package: Service & Conservancy Charges (S&CC) Rebate for eligible HDB households 	| :heavy_check_mark:                            	| :heavy_check_mark:       	| :heavy_check_mark: 	| :heavy_check_mark:           	|
-| SkillsFuture Credit Top-Up                                                                        	| :heavy_check_mark:                            	| :heavy_check_mark:       	| :heavy_check_mark: 	| :heavy_check_mark:           	|
-| Additional SkillsFuture Credit (Mid-Career Support)                                               	| :heavy_check_mark:                            	| :heavy_check_mark:       	| :heavy_check_mark: 	| :heavy_check_mark:           	|
-| The Courage Fund                                                                                  	|                                               	| :heavy_check_mark:       	|                    	|                              	|
-| NTUC Care Fund                                                                                    	| :heavy_check_mark:                            	|                          	| :heavy_check_mark: 	| :heavy_check_mark:           	|
-| Deferment of personal income tax (PIT) for SEPs                                                   	|                                               	|                          	|                    	| :heavy_check_mark:           	|
-| Self-Employed Person Training Support Scheme                                                      	|                                               	|                          	|                    	| :heavy_check_mark:           	|
-
----
-
 ### SUMMARY OF PRE-EXISTING SUPPORT SCHEMES
 
 {% include accordion.html %}
