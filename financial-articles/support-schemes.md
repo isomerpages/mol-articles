@@ -169,11 +169,11 @@ accordion2:
   - title: Home Access Programme by IMDA
     content: |
       Eligibility
-        * For HDB households with a monthly gross household income ≤ $1,900 or per capita income ≤ $650, and has at least one family member who is Singaporean.
-        * You should not be an existing Home Access beneficiary or an existing NEU PC Plus beneficiary with broadband connectivity.
+      * For HDB households with a monthly gross household income ≤ $1,900 or per capita income ≤ $650, and has at least one family member who is Singaporean.
+      * You should not be an existing Home Access beneficiary or an existing NEU PC Plus beneficiary with broadband connectivity.
 
       Benefits of this scheme
-        * Receive 2 years of subsidised fibre broadband connectivity, with an option to bundle with a tablet or smartphone. 
+      * Receive 2 years of subsidised fibre broadband connectivity, with an option to bundle with a tablet or smartphone. 
 
       [Apply online](https://eservice.imda.gov.sg/neupc/singpasslogin.action?src=das&strParam=login&notprotected=true) or [download the application form](https://www.imda.gov.sg/-/media/Imda/Files/Programme/Home-Access/HA30-Application-Form.pdf), complete it and mail to:<br>
       Infocomm Media Development Authority (IMDA)<br>
@@ -297,7 +297,30 @@ accordion2:
 
   - title: The Courage Fund
   - title: NTUC Care Fund
+    content: |
+      Eligibility
+      * A one-off cash relief to eligible union members who are facing hardship due to COVID-19, to help you tide over daily necessities during this challenging period. 
+
+      Benefits of this scheme
+      * A one-off cash relief of up to $300
+
+      Apply via your unions or NTUC membership from **25 March 2020 to 30 September 2020**.
+
+      [Find out more](https://www.ntuc.org.sg/wps/portal/up2/home/aboutntuc/ucare/ucarefund/details?WCM_GLOBAL_CONTEXT=/content_library/ntuc/home/areas+of+interest/care+and+share/u+care+fund/de4345d3-f51f-408c-9963-0d7055c9ab25) on the NTUC page.<br>
+      Call: 6213 8008<br>
+      Email: 
   - title: Deferment of personal income tax (PIT) for SEPs
+    content: |
+      Eligibility
+      * SEPs will be granted an automatic three-month deferment of their PIT payments due in the months of May, June, and July 2020. The PIT payments deferred from May, June, and July 2020 will instead be collected in August, September, and October 2020 respectively.
+
+      Benefits of this scheme
+      * Three-month deferment of PIT payments.
+
+      The benefits will be applied automatically if you are eligible
+
+      [Find out more](http://www.iras.gov.sg).
+
   - title: Self-Employed Person Training Support Scheme
 ---
 
@@ -350,56 +373,14 @@ Find out what you are eligible for, learn about payout amount, and how to apply.
 
 {% include accordion2.html %}
 
+## Related Resources
 
-## **NTUC Care Fund by NTUC**
-<details>
-  <summary>Expand to read further</summary><br>
-
-#### Eligibility
-* A one-off cash relief to eligible union members who are facing hardship due to COVID-19, to help you tide over daily necessities during this challenging period. 
-
-#### Benefits of this scheme
-* A one-off cash relief of up to $300
-
-#### How to apply?
-Apply via your unions or NTUC membership from **25 March 2020 to 30 September 2020**.
-
-#### Further questions?
-[Find out more](https://www.ntuc.org.sg/wps/portal/up2/home/aboutntuc/ucare/ucarefund/details?WCM_GLOBAL_CONTEXT=/content_library/ntuc/home/areas+of+interest/care+and+share/u+care+fund/de4345d3-f51f-408c-9963-0d7055c9ab25) on the NTUC page.<br>
-Call: 6213 8008<br>
-Email: 
-</details>
-
----
-
-## <a name="seps"></a>**Deferment of personal income tax (PIT) for SEPs by IRAS**
-<details>
-  <summary>Expand to read further</summary><br>
-
-#### Eligibility
-* SEPs will be granted an automatic three-month deferment of their PIT payments due in the months of May, June, and July 2020. The PIT payments deferred from May,
-June, and July 2020 will instead be collected in August, September, and October 2020 respectively.
-
-#### Benefits of this scheme
-* Three-month deferment of PIT payments.
-
-#### How to apply?
-* The benefits will be applied automatically if you are eligible
-
-#### Further questions?
-[Find out more](http://www.iras.gov.sg) on the IRAS page.
-</details>
-
----
-
-# Related Resources
-
-## Support for your job search guide
+### Support for your job search guide
 
 [![Image Link](/images/sgbudgets.jpg)](https://stg.momentsoflife.sg/wasj-web/support-for-your-job-search)
 *Level up with resources relating to career coaching, job opportunities, career conversion programs, skills upgrading, and more.*
 
-## Retrenchment benefits & measures guide
+### Retrenchment benefits & measures guide
 
 [![Image Link](/images/sgalley.jpg)](https://stg.momentsoflife.sg/wasj-web/retrenchment-benefits-and-measures)
 *Understand fair practice protocols, retrenchment benefits, and what to do in the event of dispute.*
