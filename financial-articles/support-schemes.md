@@ -30,7 +30,7 @@ accordion:
       Call: <br>
       Email:
 
-  - title: Com Care Short to Medium Term Assistance by MSF
+  - title: ComCare Short to Medium Term Assistance by MSF
     content: |
       For those who are unable to secure a job or find work for an extended period of time and needs financial support temporarily. 
 
