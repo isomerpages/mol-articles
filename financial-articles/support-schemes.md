@@ -720,7 +720,7 @@ accordion5:
 
 # <a name="top"></a>The economic fallout of COVID-19 continues to take its toll.
 
-Whether you have lost your job (including self-employment) or suffered a drop in income, you should know that help is available to get you through this. 
+Whether you have lost your job (including self-employment) or suffered a drop in income due to COVID-19, you should know that help is available to get you through this. 
 
 The government has committed close to 100 billion dollars to stabilise the economy and protect livelihoods.
 
