@@ -733,9 +733,9 @@ Find out what you are eligible for, learn about payout amount, and how to apply.
 > [Pre-existing support schemes](#schemes)
 
 #### Budget relief measures for
-> [Unemployed (including retrenched individuals)](#unemployed)<br>
+> [Unemployed individuals)](#unemployed)<br>
 > [Lower-income individuals](#lower-income)<br>
-> [Reduced income individuals](#reduced-income)<br>
+> [Individuals with reduced income](#reduced-income)<br>
 > [Self-Employed Persons (SEPs)](#seps)<br>
 
 ### <a name="schemes"></a>SUMMARY OF PRE-EXISTING SUPPORT SCHEMES
