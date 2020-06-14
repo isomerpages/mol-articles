@@ -1,6 +1,6 @@
 ---
 title: Financial Help for Workers and the Self-Employed
-permalink: /financial-articles/
+permalink: /financial-support-workers-self-employed/
 accordion:
   - title: CapitaLand-U Care Resilience and Enablement (CAP+Ure) Fund by NTUC-U Care Fund
     content: |
