@@ -22,7 +22,7 @@ accordion:
 
   - title: CHAS Card (MOH)
     content: |
-      Eligible households enjoy subsidies at participating GPs, dental and specialist outpatient clinics.
+      To receive healthcare subsidies for medical and dental care at participating General Practitioner (GP) and dental clinics near their home.
 
       [Apply online](https://saml.singpass.gov.sg/spauth/login/eservloginpage?URL=%2FFIM%2Fsps%2FSingpassIDPFed%2Fsaml20%2Flogininitial%3FRequestBinding%3DHTTPArtifact%26ResponseBinding%3DHTTPArtifact%26PartnerId%3Dhttps%253A%252F%252Fchas.moh.gov.sg%26Target%3Dhttps%253A%252F%252Fchas.moh.gov.sg%252FAccount%252FSPCP%26NameIdFormat%3DEmail%26esrvcID%3DMOH-CHAS&TAM_OP=login) from **4 May 2020 to 30 September 2020**, between **9am to 6pm**.
 
