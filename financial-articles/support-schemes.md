@@ -2,7 +2,7 @@
 title: Financial Help for Workers and the Self-Employed
 permalink: /financial-support-workers-self-employed/
 accordion:
-  - title: CapitaLand-U Care Resilience and Enablement (CAP+Ure) Fund by NTUC-U Care Fund
+  - title: CapitaLand-U Care Resilience and Enablement (CAP+Ure) Fund
     content: |
       Eligibility
         * Applicable for all **existing low-to-medium income NTUC-U members** who are seeking for additional support on their children's daily necessities and schooling needs.
@@ -20,7 +20,7 @@ accordion:
       Call: <br>
       Email:
 
-  - title: CHAS Card by MOH
+  - title: CHAS Card (MOH)
     content: |
       Eligible households enjoy subsidies at participating GPs, dental and specialist outpatient clinics.
 
@@ -30,7 +30,7 @@ accordion:
       Call: <br>
       Email:
 
-  - title: ComCare Short to Medium Term Assistance by MSF
+  - title: ComCare Short to Medium Term Assistance (MSF)
     content: |
       For those who are unable to secure a job or find work for an extended period of time and needs financial support temporarily. 
 
@@ -53,7 +53,7 @@ accordion:
       Call: <br>
       Email:
 
-  - title: Financial Assistance Scheme by MOE
+  - title: MOE Financial Assistance Scheme
     content: |
       For Singaporeans whose child is in a government or government-aided school, autonomous government or government-aided school or specialised school. Gross Household Income (GHI) not exceeding $2,750 per month OR Per Capita Income (PCI) not exceeding $690 per month.
 
@@ -70,7 +70,7 @@ accordion:
       Call:  <br>
       Email:
 
-  - title: Financial Assistance Measures (FAM) by HDB
+  - title: HDB Financial Assistance Measures
     content: | 
       For Singaporeans whose child is in a government or government-aided school, autonomous government or government-aided school or specialised school. Gross Household Income (GHI) not exceeding $2,750 per month OR Per Capita Income (PCI) not exceeding $690 per month.
 
@@ -87,7 +87,7 @@ accordion:
       Call:<br/>
       Email:
 
-  - title: Kindergarten Free Assistance Scheme (KiFAS)
+  - title: Kindergarten Fee Assistance Scheme - KiFAS (ECDA)
     content: |
       For parents who need help in defraying their children's kindergarten fees.
 
@@ -105,9 +105,9 @@ accordion:
       Call: <br>
       Email: 
 
-  - title: Subletting spare rooms of your flat for added income by HDB
+  - title: Renting Out Bedrooms (HDB)
     content: |
-      Rent out your flat to generate additional income. Note that only bedrooms from HDB flats that are **3-room or larger** can be rented out. The maximum number of bedrooms that flat owners can rent out and the maximum number of occupants allowed in each flat depends on the flat type - 1 bedroom for 3-room, 2 bedrooms for 4-room and bigger.
+      Rent out your spare bedrooms to generate additional income. Note that only bedrooms from HDB flats that are **3-room or larger** can be rented out. The maximum number of bedrooms that flat owners can rent out and the maximum number of occupants allowed in each flat depends on the flat type - 1 bedroom for 3-room, 2 bedrooms for 4-room and bigger.
 
       Benefits of this scheme 
         * Monetary amount depending on market rate and agreed terms between landlord and tenant
