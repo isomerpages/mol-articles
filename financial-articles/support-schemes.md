@@ -53,7 +53,7 @@ accordion:
       Call: <br>
       Email:
 
-  - title: MOE Financial Assistance Scheme
+  - title: Financial Assistance Scheme (MOE)
     content: |
       For Singaporeans whose child is in a government or government-aided school, autonomous government or government-aided school or specialised school. Gross Household Income (GHI) not exceeding $2,750 per month OR Per Capita Income (PCI) not exceeding $690 per month.
 
@@ -70,7 +70,7 @@ accordion:
       Call:  <br>
       Email:
 
-  - title: HDB Financial Assistance Measures
+  - title: Financial Assistance Measures (HDB)
     content: | 
       For Singaporeans whose child is in a government or government-aided school, autonomous government or government-aided school or specialised school. Gross Household Income (GHI) not exceeding $2,750 per month OR Per Capita Income (PCI) not exceeding $690 per month.
 
