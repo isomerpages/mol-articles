@@ -728,11 +728,11 @@ An extensive portion has been set aside as cash relief and subsidies for affecte
 
 Find out what you are eligible for, learn about payout amount, and how to apply.
 
-#### Jump to Section
+### Jump to Section
 
 > [Pre-Existing Support Schemes](#schemes)
 
-#### Budget Relief Measures for
+### Budget Relief Measures for
 > [Unemployed Individuals](#unemployed)<br>
 > [Lower-Income Individuals](#lower-income)<br>
 > [Individuals with Reduced Income](#reduced-income)<br>
