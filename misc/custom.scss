@@ -2,7 +2,10 @@
 
 ---
 
-@import url(https://fonts.googleapis.com/css?family=Poppins);
+@font-face {
+  src: url(/fonts/Poppins-Regular.ttf);
+  font-family: poppins;
+}
 @charset "utf-8";
 
 // Agency brand colors
@@ -254,22 +257,12 @@ $desktop: 960px + (2 * $gap) !default;
   }
 }
 
-.bp-container {
-  small, p, a {
-    font-family: 'Poppins', sans-serif;
-  }
-  b {
-    font-size: 40px;
-    font-family: 'Poppins', sans-serif;
-  }
-}
-
 // Post-content
 .content {
 	h1 {
     color: $primary;
     font-size: 26px;
-    font-family: 'Poppins', sans-serif;
+    font-family: poppins;
     font-weight: 600;
     line-height: 28px;
     margin-top: 30px;
@@ -281,7 +274,7 @@ $desktop: 960px + (2 * $gap) !default;
   h2 {
     color: $primary;
     font-size: 20px;
-    font-family: 'Poppins', sans-serif;
+    font-family: poppins;
     font-weight: 600;
     line-height: 28px;
     margin-top: 30px;
@@ -293,7 +286,7 @@ $desktop: 960px + (2 * $gap) !default;
   h3 {
     color: $secondary;
     font-size: 20px;
-    font-family: 'Poppins', sans-serif;
+    font-family: poppins;
     font-weight: 600;
     line-height: 28px;
     margin-top: 30px;
@@ -305,7 +298,7 @@ $desktop: 960px + (2 * $gap) !default;
   a, p, li {
     color: $secondary;
     font-size: 16.5px;
-    font-family: 'Poppins', sans-serif;
+    font-family: poppins;
     line-height: 24px;
     margin-top: 30px;
     margin-bottom: 15px;
@@ -313,7 +306,7 @@ $desktop: 960px + (2 * $gap) !default;
   td, th {
     color: $secondary;
     font-size: 14px;
-    font-family: 'Poppins', sans-serif;
+    font-family: poppins;
   }
 	blockquote {
 		border-left-color: $secondary;

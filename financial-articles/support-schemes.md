@@ -176,7 +176,7 @@ accordion2:
 
       [Apply online](go.gov.sg/csg) from **4 May 2020 to 30 September 2020**, between **9am to 6pm**. Supporting documents are required. Alternatively, make an appointment with your nearest [Social Service Office](go.gov.sg/ssolocator) if you are unable to apply online.
 
-      [Find out more](https://www.msf.gov.sg/assistance/Pages/covid19relief.aspx#CSG) on the MSF page.<br>
+      [Find out more](https://www.msf.gov.sg/assistance/Pages/covid19relief.aspx#CSG)<br>
       Call 1800-222-0000 if you need help filling in the online application form.<br>
       Email: ask_sso@msf.gov.sg
     
@@ -192,7 +192,7 @@ accordion2:
 
       [Apply online](https://form.gov.sg/#!/5d5ce149c0a8230012d27118) from **26 March 2020 to 31 July 2020**, between **9am to 6pm**. Only one application is needed.
 
-      [Find out more](https://www.iras.gov.sg/irashome/Individuals/Locals/Paying-your-taxes-Claiming-refunds/Defer-Tax-Payment-for-Individual-Income-Tax/) on the IRAS page.<br>
+      [Find out more](https://www.iras.gov.sg/irashome/Individuals/Locals/Paying-your-taxes-Claiming-refunds/Defer-Tax-Payment-for-Individual-Income-Tax/)<br>
       Call: <br>
       Email:
 
@@ -217,15 +217,29 @@ accordion2:
 
   - title: NTUC Care Fund
     content: |
+      A one-off cash relief to eligible union members who are facing hardship due to COVID-19, to help you tide over daily necessities during this challenging period.
+
       Eligibility
-      * A one-off cash relief to eligible union members who are facing hardship due to COVID-19, to help you tide over daily necessities during this challenging period. 
+      * Suffered from an income drop of at least 30 per cent of your monthly salary/earnings due to COVID-19, or 
+      * A self-employed person (SEP) whose income has been adversely affected due to COVID-19 related job or event cancellations, or 
+      * Retrenched with retrenchment benefits of not more than $6,500  
 
       Benefits of this scheme
       * A one-off cash relief of up to $300
+      * Pay-out quantum of between $50 to $300 per applicant varies depending on eligibility criteria.
 
       Apply via your unions or NTUC membership from **25 March 2020 to 30 September 2020**.
+      Both existing union members as well as new sign-ups may apply. Sign up for the NTUC union membership beforehand at: https://ntuc.org.sg/wps/portal/up2/home/eserviceslanding?id=c2277849-0963-48aa-88aa-8d38f7ea3712
+      
+      For new sign-ups, please note that successful deduction of the first month’s membership fees is required prior to the NTUC Care Fund application.
+      
+      Ordinary Branch Members:<br> 
+      If you are a member with any of NTUC’s affiliated unions and associations (i.e. Ordinary Branch member), or if you are a member working in a unionised company, please download and complete this [application form](https://www.ntuc.org.sg/wps/wcm/connect/36bec66a-69e5-4431-b14d-4a7c628c9b67/NTUC+Care+Fund+%28COVID-19%29+-+Application+Form+%28for+OB+members%29.pdf?MOD=AJPERES) and submit to your union. 
 
-      [Find out more](https://www.ntuc.org.sg/wps/portal/up2/home/aboutntuc/ucare/ucarefund/details?WCM_GLOBAL_CONTEXT=/content_library/ntuc/home/areas+of+interest/care+and+share/u+care+fund/de4345d3-f51f-408c-9963-0d7055c9ab25) on the NTUC page.<br>
+      General Branch Members:<br>
+      Generally refer to NTUC union members who work in a company that is not unionised under any of NTUC's affiliated unions and associations. Please download the application form ([English](https://www.ntuc.org.sg/wps/wcm/connect/cb95b76d-eca7-469d-92d8-d1a69d10398f/NTUC+Care+Fund+%28COVID-19%29+-+Application+Form+%28for+GB+members%29.pdf?MOD=AJPERES) | [Chinese](https://www.ntuc.org.sg/wps/wcm/connect/96b34778-5b00-42dc-b247-c9a96d1e85e3/NTUC+Care+Fund+%28COVID-19%29+-+Application+Form+for+GB+Members+%28Chinese%29.pdf?MOD=AJPERES)). Submission instructions ([English](https://www.ntuc.org.sg/wps/wcm/connect/a48d8ce4-c8e8-42d4-aad4-a016a0a8c213/Instructions+to+apply_Infographic.jpg?MOD=AJPERES) | [Chinese](https://www.ntuc.org.sg/wps/wcm/connect/5aeba62d-a563-4004-8ec4-34ee475cfc49/Infographics+%28Chinese%29.jpg?MOD=AJPERES))
+
+      [Find out more](https://www.ntuc.org.sg/wps/portal/up2/home/aboutntuc/ucare/ucarefund/details?WCM_GLOBAL_CONTEXT=/content_library/ntuc/home/areas+of+interest/care+and+share/u+care+fund/de4345d3-f51f-408c-9963-0d7055c9ab25)<br>
       Call: 6213 8008<br>
       Email: 
 
@@ -331,7 +345,7 @@ accordion3:
 
       [Apply online](https://form.gov.sg/#!/5d5ce149c0a8230012d27118) from **26 March 2020 to 31 July 2020**, between **9am to 6pm**. Only one application is needed.
 
-      [Find out more](https://www.iras.gov.sg/irashome/Individuals/Locals/Paying-your-taxes-Claiming-refunds/Defer-Tax-Payment-for-Individual-Income-Tax/) on the IRAS page.<br>
+      [Find out more](https://www.iras.gov.sg/irashome/Individuals/Locals/Paying-your-taxes-Claiming-refunds/Defer-Tax-Payment-for-Individual-Income-Tax/)<br>
       Call: <br>
       Email:
 
@@ -442,7 +456,7 @@ accordion4:
 
       [Apply online](go.gov.sg/csg) from **4 May 2020 to 30 September 2020**, between **9am to 6pm**. Supporting documents are required. Alternatively, make an appointment with your nearest [Social Service Office](go.gov.sg/ssolocator) if you are unable to apply online.
 
-      [Find out more](https://www.msf.gov.sg/assistance/Pages/covid19relief.aspx#CSG) on the MSF page.<br>
+      [Find out more](https://www.msf.gov.sg/assistance/Pages/covid19relief.aspx#CSG)<br>
       Call 1800-222-0000 if you need help filling in the online application form.<br>
       Email: ask_sso@msf.gov.sg
     
@@ -483,15 +497,29 @@ accordion4:
 
   - title: NTUC Care Fund
     content: |
+      A one-off cash relief to eligible union members who are facing hardship due to COVID-19, to help you tide over daily necessities during this challenging period.
+
       Eligibility
-      * A one-off cash relief to eligible union members who are facing hardship due to COVID-19, to help you tide over daily necessities during this challenging period. 
+      * Suffered from an income drop of at least 30 per cent of your monthly salary/earnings due to COVID-19, or 
+      * A self-employed person (SEP) whose income has been adversely affected due to COVID-19 related job or event cancellations, or 
+      * Retrenched with retrenchment benefits of not more than $6,500  
 
       Benefits of this scheme
       * A one-off cash relief of up to $300
+      * Pay-out quantum of between $50 to $300 per applicant varies depending on eligibility criteria.
 
       Apply via your unions or NTUC membership from **25 March 2020 to 30 September 2020**.
+      Both existing union members as well as new sign-ups may apply. Sign up for the NTUC union membership beforehand at: https://ntuc.org.sg/wps/portal/up2/home/eserviceslanding?id=c2277849-0963-48aa-88aa-8d38f7ea3712
+      
+      For new sign-ups, please note that successful deduction of the first month’s membership fees is required prior to the NTUC Care Fund application.
+      
+      Ordinary Branch Members:<br> 
+      If you are a member with any of NTUC’s affiliated unions and associations (i.e. Ordinary Branch member), or if you are a member working in a unionised company, please download and complete this [application form](https://www.ntuc.org.sg/wps/wcm/connect/36bec66a-69e5-4431-b14d-4a7c628c9b67/NTUC+Care+Fund+%28COVID-19%29+-+Application+Form+%28for+OB+members%29.pdf?MOD=AJPERES) and submit to your union. 
 
-      [Find out more](https://www.ntuc.org.sg/wps/portal/up2/home/aboutntuc/ucare/ucarefund/details?WCM_GLOBAL_CONTEXT=/content_library/ntuc/home/areas+of+interest/care+and+share/u+care+fund/de4345d3-f51f-408c-9963-0d7055c9ab25) on the NTUC page.<br>
+      General Branch Members:<br>
+      Generally refer to NTUC union members who work in a company that is not unionised under any of NTUC's affiliated unions and associations. Please download the application form ([English](https://www.ntuc.org.sg/wps/wcm/connect/cb95b76d-eca7-469d-92d8-d1a69d10398f/NTUC+Care+Fund+%28COVID-19%29+-+Application+Form+%28for+GB+members%29.pdf?MOD=AJPERES) | [Chinese](https://www.ntuc.org.sg/wps/wcm/connect/96b34778-5b00-42dc-b247-c9a96d1e85e3/NTUC+Care+Fund+%28COVID-19%29+-+Application+Form+for+GB+Members+%28Chinese%29.pdf?MOD=AJPERES)). Submission instructions ([English](https://www.ntuc.org.sg/wps/wcm/connect/a48d8ce4-c8e8-42d4-aad4-a016a0a8c213/Instructions+to+apply_Infographic.jpg?MOD=AJPERES) | [Chinese](https://www.ntuc.org.sg/wps/wcm/connect/5aeba62d-a563-4004-8ec4-34ee475cfc49/Infographics+%28Chinese%29.jpg?MOD=AJPERES))
+
+      [Find out more](https://www.ntuc.org.sg/wps/portal/up2/home/aboutntuc/ucare/ucarefund/details?WCM_GLOBAL_CONTEXT=/content_library/ntuc/home/areas+of+interest/care+and+share/u+care+fund/de4345d3-f51f-408c-9963-0d7055c9ab25)<br>
       Call: 6213 8008<br>
       Email: 
 
@@ -643,15 +671,29 @@ accordion5:
 
   - title: NTUC Care Fund
     content: |
+      A one-off cash relief to eligible union members who are facing hardship due to COVID-19, to help you tide over daily necessities during this challenging period.
+
       Eligibility
-      * A one-off cash relief to eligible union members who are facing hardship due to COVID-19, to help you tide over daily necessities during this challenging period. 
+      * Suffered from an income drop of at least 30 per cent of your monthly salary/earnings due to COVID-19, or 
+      * A self-employed person (SEP) whose income has been adversely affected due to COVID-19 related job or event cancellations, or 
+      * Retrenched with retrenchment benefits of not more than $6,500  
 
       Benefits of this scheme
       * A one-off cash relief of up to $300
+      * Pay-out quantum of between $50 to $300 per applicant varies depending on eligibility criteria.
 
       Apply via your unions or NTUC membership from **25 March 2020 to 30 September 2020**.
+      Both existing union members as well as new sign-ups may apply. Sign up for the NTUC union membership beforehand at: https://ntuc.org.sg/wps/portal/up2/home/eserviceslanding?id=c2277849-0963-48aa-88aa-8d38f7ea3712
+      
+      For new sign-ups, please note that successful deduction of the first month’s membership fees is required prior to the NTUC Care Fund application.
+      
+      Ordinary Branch Members:<br> 
+      If you are a member with any of NTUC’s affiliated unions and associations (i.e. Ordinary Branch member), or if you are a member working in a unionised company, please download and complete this [application form](https://www.ntuc.org.sg/wps/wcm/connect/36bec66a-69e5-4431-b14d-4a7c628c9b67/NTUC+Care+Fund+%28COVID-19%29+-+Application+Form+%28for+OB+members%29.pdf?MOD=AJPERES) and submit to your union. 
 
-      [Find out more](https://www.ntuc.org.sg/wps/portal/up2/home/aboutntuc/ucare/ucarefund/details?WCM_GLOBAL_CONTEXT=/content_library/ntuc/home/areas+of+interest/care+and+share/u+care+fund/de4345d3-f51f-408c-9963-0d7055c9ab25) on the NTUC page.<br>
+      General Branch Members:<br>
+      Generally refer to NTUC union members who work in a company that is not unionised under any of NTUC's affiliated unions and associations. Please download the application form ([English](https://www.ntuc.org.sg/wps/wcm/connect/cb95b76d-eca7-469d-92d8-d1a69d10398f/NTUC+Care+Fund+%28COVID-19%29+-+Application+Form+%28for+GB+members%29.pdf?MOD=AJPERES) | [Chinese](https://www.ntuc.org.sg/wps/wcm/connect/96b34778-5b00-42dc-b247-c9a96d1e85e3/NTUC+Care+Fund+%28COVID-19%29+-+Application+Form+for+GB+Members+%28Chinese%29.pdf?MOD=AJPERES)). Submission instructions ([English](https://www.ntuc.org.sg/wps/wcm/connect/a48d8ce4-c8e8-42d4-aad4-a016a0a8c213/Instructions+to+apply_Infographic.jpg?MOD=AJPERES) | [Chinese](https://www.ntuc.org.sg/wps/wcm/connect/5aeba62d-a563-4004-8ec4-34ee475cfc49/Infographics+%28Chinese%29.jpg?MOD=AJPERES))
+
+      [Find out more](https://www.ntuc.org.sg/wps/portal/up2/home/aboutntuc/ucare/ucarefund/details?WCM_GLOBAL_CONTEXT=/content_library/ntuc/home/areas+of+interest/care+and+share/u+care+fund/de4345d3-f51f-408c-9963-0d7055c9ab25)<br>
       Call: 6213 8008<br>
       Email: 
 
