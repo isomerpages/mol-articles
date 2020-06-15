@@ -256,6 +256,11 @@ $desktop: 960px + (2 * $gap) !default;
     }
   }
 }
+.bp-container {
+  a, b, small {
+    font-family: poppins;
+  }
+}
 
 // Post-content
 .content {
