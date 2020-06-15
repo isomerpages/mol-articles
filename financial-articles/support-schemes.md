@@ -744,8 +744,6 @@ Find out what you are eligible for, learn about payout amount, and how to apply.
 
 ### BENEFIT RELIEF MEASURES
 
----
-
 ## <a name="unemployed"></a>UNEMPLOYED INDIVIDUALS
 
 {% include accordion2.html %}
