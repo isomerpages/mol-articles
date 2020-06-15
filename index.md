@@ -11,5 +11,5 @@ sections:
         subtitle: The economic fallout from the COVID-19 pandemic continues to take its toll. Whether you have lost your job (including self-employment) or suffered a drop in income, you should know that help is available to get you through this.
         background: /images/sg-skyline.jpg
         button: Learn more
-        url: /financial-articles/
+        url: /financial-support-workers-self-employed/
 ---
