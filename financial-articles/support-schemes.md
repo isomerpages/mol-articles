@@ -1,5 +1,5 @@
 ---
-title: Financial Help for Workers and the Self-Employed
+title: Guide to Financial Help for Workers and the Self-Employed
 permalink: /financial-support-workers-self-employed/
 accordion:
   - title: CapitaLand-U Care Resilience and Enablement (CAP+Ure) Fund
@@ -760,7 +760,7 @@ accordion5:
 
 Whether you have lost your job (including self-employment) or suffered a drop in income due to COVID-19, you should know that help is available to get you through this. 
 
-The government has committed close to 100 billion dollars to stabilise the economy and protect livelihoods. An extensive portion is set aside as cash relief and subsidies for affected individuals. 
+The government has committed close to 100 billion dollars to stabilise the economy and protect livelihoods. Out of which, an extensive portion is set aside as cash relief and subsidies for affected individuals. 
 
 Those in need may also consider pre-existing support schemes which offer additional support ranging from housing and medical to employment.
 
