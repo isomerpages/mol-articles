@@ -1,5 +1,5 @@
 ---
-title: Guide to Financial Help for Workers and the Self-Employed
+title: Financial Support for Workers and the Self-Employed
 permalink: /financial-support-workers-self-employed/
 accordion:
   - title: CapitaLand-U Care Resilience and Enablement (CAP+Ure) Fund
