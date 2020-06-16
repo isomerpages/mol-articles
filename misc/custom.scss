@@ -6,6 +6,10 @@
   src: url(/fonts/Poppins-Regular.ttf);
   font-family: poppins;
 }
+@font-face {
+  src: url(/fonts/Poppins-ExtraBold.ttf);
+  font-family: poppins-bold;
+}
 @charset "utf-8";
 
 // Agency brand colors
@@ -279,7 +283,7 @@ $desktop: 960px + (2 * $gap) !default;
   h2 {
     color: $primary;
     font-size: 20px;
-    font-family: poppins;
+    font-family: poppins-bold;
     font-weight: 700;
     line-height: 28px;
     margin-top: 30px;
@@ -291,7 +295,7 @@ $desktop: 960px + (2 * $gap) !default;
   h3 {
     color: $secondary;
     font-size: 20px;
-    font-family: poppins;
+    font-family: poppins-bold;
     font-weight: 700;
     line-height: 28px;
     margin-top: 30px;
