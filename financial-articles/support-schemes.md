@@ -776,7 +776,7 @@ Find out what you are eligible for, learn about payout amount, and how to apply.
 > [Individuals with Reduced Income](#reduced-income)<br>
 > [Self-Employed Persons (SEPs)](#seps)<br>
 
-### <a name="schemes"></a>PRE-EXISTING SUPPORT SCHEMES
+### <a name="schemes"></a>Pre-Existing Support Schemes
 
 {% include accordion.html %}
 
