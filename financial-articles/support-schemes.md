@@ -5,57 +5,60 @@ accordion:
   - title: CapitaLand-U Care Resilience and Enablement (CAP+Ure) Fund
     content: |
       Eligibility
-        * Applicable for all **existing low-to-medium income NTUC-U members** who are seeking for additional support on their children's daily necessities and schooling needs.
+        * Applicable for all **existing low-to-medium income NTUC-U members** who are seeking for additional support on their children's daily necessities and schooling needs
         * Monthly Gross Household Income (GHI) of $5,800 and below or Per Capita Income (PCI) of $1,450 and below if GHI exceeds $5,800.
         * Children aged 21 years and below studying at eligible educational institutions: − Government / Government-aided / Independent schools (primary and secondary) under the Ministry of Education; − Junior colleges; Institute of Technical Education; Millennia Institute; − Special education schools
-        * 6 months of continuous paid-up union membership. Unions/Associations can apply for the assistance programme on behalf of their members who require the assistance and meet the criteria.
+        * 6 months of continuous paid-up union membership. Unions/Associations can apply for the assistance programme on behalf of their members who require the assistance and meet the criteria
 
       Benefits of this scheme 
-        * Each eligible child will receive a one-time disbursement of $250 NTUC FairPrice vouchers.
+        * Each eligible child will receive a one-time disbursement of $250 NTUC FairPrice vouchers
 
-      Apply by [completing application form and submitting to respective union.](https://www.ntuc.org.sg/wps/wcm/connect/446508c0-594b-42cf-b3ed-13ed83886d13/CAP%2BUre+Fund+-+Application+Form_Revised+%28January%29.pdf?MOD=AJPERES)
+      Apply by [completing application form and submitting to respective union.](https://www.ntuc.org.sg/wps/wcm/connect/446508c0-594b-42cf-b3ed-13ed83886d13/CAP%2BUre+Fund+-+Application+Form_Revised+%28January%29.pdf?MOD=AJPERES){:target="_blank"}
 
-      Further questions?
-      [Find out more](https://ntuc.org.sg/wps/portal/up2/home/aboutntuc/ucare/ucareprogrammes)<br>
-      Call: <br>
-      Email:
+      [Find out more here](https://ntuc.org.sg/wps/portal/up2/home/aboutntuc/ucare/ucareprogrammes){:target="_blank"}.<br>
 
   - title: CHAS Card (MOH)
     content: |
-      To receive healthcare subsidies for medical and dental care at participating General Practitioner (GP) and dental clinics near their home.
+      Eligibility
+        * To receive healthcare subsidies for medical and dental care at participating General Practitioner (GP) and dental clinics near their home
 
-      [Apply online](https://saml.singpass.gov.sg/spauth/login/eservloginpage?URL=%2FFIM%2Fsps%2FSingpassIDPFed%2Fsaml20%2Flogininitial%3FRequestBinding%3DHTTPArtifact%26ResponseBinding%3DHTTPArtifact%26PartnerId%3Dhttps%253A%252F%252Fchas.moh.gov.sg%26Target%3Dhttps%253A%252F%252Fchas.moh.gov.sg%252FAccount%252FSPCP%26NameIdFormat%3DEmail%26esrvcID%3DMOH-CHAS&TAM_OP=login) from **4 May 2020 to 30 September 2020**, between **9am to 6pm**.
+      Benefits of this scheme
+        * The CHAS benefits you will receive are tiered according to household monthly income per person or the Annual Value (AV) of the home
+        * The amount that you pay will be based on the fees charged by the clinic, minus the CHAS subsidies. You may wish to check with CHAS clinics on their fees before receiving treatment at each visit
+        * Refer to [this link](https://www.chas.sg/content.aspx?id=636){:target="_blank"} for the amount of subsidies
 
-      [Find out more]<br>
-      Call: <br>
-      Email:
+      [Apply online](https://chas.moh.gov.sg/Home/Welcome){:target="_blank"} from **4 May 2020 to 30 September 2020**, between **9am to 6pm**. Refer to the CHAS online application user guide [here](https://www-moh-gov-sg-admin.cwp.sg/docs/librariesprovider5/default-document-library/chas-eservice-user-guide.pdf){:target="_blank"}.
+
+      [Find out more here](https://www.chas.sg/content.aspx?id=306){:target="_blank"}.<br>
+      Call: 1800-275-2427 (1800-ASK-CHAS), Monday to Friday from 8.30am to 6.00pm (excluding Public Holidays)<br>
 
   - title: ComCare Short to Medium Term Assistance (MSF)
     content: |
-      For those who are unable to secure a job or find work for an extended period of time and needs financial support temporarily. 
-
       Eligibility
+        * For those who are unable to secure a job or find work for an extended period of time and needs financial support temporarily
         * Currently looking for work or temporarily unable to work due to illness or having to care for children, elderly or other dependencies
         * Have little or no family support, savings or assets to rely on for one's daily needs
         * A Singapore Citizen or Permanent Resident (at least one immediate family in the same household must be Singapore Citizen)
         * Have a monthly household income of $1,900 and below or a per capita income of $650 and below
+        * Even if your income exceeds these guidelines, you can still approach our Social Service Offices (SSOs) if you face financial difficulties. Our SSOs will assess your circumstances and needs, and assist you accordingly
 
       Benefits of this scheme 
-        * Monthly cash assitance
+        * Monthly cash assistance
         * Assistance with household bills, i.e: rental, utilities, and/or service and conservacy charges
         * Medical assistance
         * Employment assistance such as job search and/or training
         * Referrals for other relevant services
 
-      Go to your nearest Social Service Office (SSO)​ to find out more. Each SSO administers ComCare financial assistance and links applicants up with other forms of assistance they might need, such as family services. The SSO will assess your eligibility for assistance. 
+      Go to your [nearest Social Service Office (SSO)](https://www.msf.gov.sg/dfcs/sso/default.aspx){:target="_blank"}​ to find out more. Each SSO administers ComCare financial assistance and links applicants up with other forms of assistance they might need, such as family services. The SSO will assess your eligibility for assistance. 
 
-      [Find out more](https://www.msf.gov.sg/Comcare/Pages/Short-to-Medium-Term-Assistance.aspx)<br>
-      Call: <br>
-      Email:
+      [Find out more here](https://www.msf.gov.sg/Comcare/Pages/Short-to-Medium-Term-Assistance.aspx){:target="_blank"}.<br>
+      Call: ComCare Hotline @ 1800-222-0000<br>
+      Access the online feedback form at [MSF website](https://www.msf.gov.sg/Pages/Contact-Us.aspx#ComCare){:target="_blank"} under ComCare.
 
-  - title: Financial Assistance Scheme (MOE)
+  - title: Financial Assistance Scheme (MOE) //not updated
     content: |
-      For Singaporeans whose child is in a government or government-aided school, autonomous government or government-aided school or specialised school. Gross Household Income (GHI) not exceeding $2,750 per month OR Per Capita Income (PCI) not exceeding $690 per month.
+      Eligibility:
+        * For Singaporeans whose child is in a government or government-aided school, autonomous government or government-aided school or specialised school. Gross Household Income (GHI) not exceeding $2,750 per month OR Per Capita Income (PCI) not exceeding $690 per month
 
       Benefits of this scheme 
         * Receive full waiver of school fees
@@ -64,35 +67,29 @@ accordion:
         * School meal subsidy of $2.90 per meal for 10 meals per school week
         * Public transport eVoucher of $15 per month
 
-      [Apply online](https://www.reddit.com/) from **4 May 2020 to 30 September 2020**, between **9am to 6pm**. Alternatively, schedule an application slot at your nearest Social Service Office.
+      [Apply online](https://www.reddit.com/){:target="_blank"} from **4 May 2020 to 30 September 2020**, between **9am to 6pm**. Alternatively, schedule an application slot at your nearest Social Service Office.
 
-      [Find out more](https://www.moe.gov.sg/)<br>
+      [Find out more here](https://www.moe.gov.sg/){:target="_blank"}.<br>
       Call:  <br>
-      Email:
 
   - title: Financial Assistance Measures (HDB)
     content: | 
-      For Singaporeans whose child is in a government or government-aided school, autonomous government or government-aided school or specialised school. Gross Household Income (GHI) not exceeding $2,750 per month OR Per Capita Income (PCI) not exceeding $690 per month.
+      Eligibility
+        * For home owners facing difficulties repaying their housing loans
 
       Benefits of this scheme
-        * Receive full waiver of school fees
-        * Full waiver of standard miscellaneous fees
-        * Free textbooks and school attire
-        * School meal subsidy of $2.90 per meal for 10 meals per school week
-        * Public transport eVoucher of $15 per month
+        * Assistance is granted based on the merits of each case
 
-      <a href ="https://www.reddit.com/">Apply online</a> from **4 May 2020 to 30 September 2020**, between **9am to 6pm**. Alternatively, schedule an application slot at your nearest Social Service Office.
+      Apply by approaching any HDB Branch, or call the toll-free Branch Service Line at 1800-225-5432.
 
-      [Find out more](https://www.moe.gov.sg/)<br/>
-      Call:<br/>
-      Email:
+      [Find out more here](https://www.hdb.gov.sg/cs/infoweb/residential/servicing-your-hdb-loan/mortgage-loan/assistance-measures){:target="_blank"}.<br/>
+      Call: 1800-225-5432<br/>
+
 
   - title: Kindergarten Fee Assistance Scheme - KiFAS (ECDA)
     content: |
-      For parents who need help in defraying their children's kindergarten fees.
-
       Eligibility
-        * Singapore Citizen Child enrolled in an Anchor Operator (AOP) or Ministry of Edcuation (MOE) kindergarten
+        * For parents with Singapore Citizen Child enrolled in enrolled in an Anchor Operator (AOP) or Ministry of Edcuation (MOE) kindergarten to defray kindergarten fees
         * Family's gross monthly Household Income (HHI) is $12,000 and below, or Per Capita Income (PCI) is $3,000 and below for larger families
 
       Benefits of this scheme 
@@ -101,51 +98,52 @@ accordion:
 
       Eligible families may apply for KiFAS through the kindergarten.
 
-      [Find out more](https://www.ecda.gov.sg/Pages/Subsidies-and-Financial-Assistance.aspx)<br>
-      Call: <br>
-      Email: 
+      [Find out more here](https://www.ecda.gov.sg/Pages/Subsidies-and-Financial-Assistance.aspx){:target="_blank"}.<br>
 
-  - title: Renting Out Bedrooms (HDB)
+  - title: Sublet spare rooms of the flat for added income (HDB)
     content: |
-      Rent out your spare bedrooms to generate additional income. Note that only bedrooms from HDB flats that are **3-room or larger** can be rented out. The maximum number of bedrooms that flat owners can rent out and the maximum number of occupants allowed in each flat depends on the flat type - 1 bedroom for 3-room, 2 bedrooms for 4-room and bigger.
+      Eligibility
+        * Only bedrooms from HDB flats that are **3-room or larger** can be rented out
+        * Maximum number of bedrooms that flat owners can rent out and the maximum number of occupants allowed in each flat depends on the flat type - 1 bedroom for 3-room, 2 bedrooms for 4-room and bigger
 
       Benefits of this scheme 
         * Monetary amount depending on market rate and agreed terms between landlord and tenant
 
-      [Apply online](https://services2.hdb.gov.sg/webapp/SX05AWSPCP/SX05PSPCPLogin.jsp) through the MyHDBPage from **4 May 2020 to 30 September 2020**, between **9am to 6pm**. Prior approval from HDB is required. An administrative fee is payable with each application, at **$10 per bedroom**.
+      [Apply online](https://services2.hdb.gov.sg/webapp/SX05AWSPCP/SX05PSPCPLogin.jsp) through the MyHDBPage. Prior approval from HDB is required. An administrative fee is payable with each application, at **$10 per bedroom**.
 
-      [Find out more](https://www.hdb.gov.sg/cs/infoweb/residential/renting-out-a-flat-room/renting-out-your-room).<br>
-      Call: <br>
-      Email:
+      [Find out more here](https://www.hdb.gov.sg/cs/infoweb/residential/renting-out-a-flat-room/renting-out-your-room){:target="_blank"}.<br>
+      Call: 1800-225-5432<br>
+      Download the Mobile@HDB app [here](https://www.hdb.gov.sg/cs/infoweb/mobile-hdb){:target="_blank"} to access our e-services on the go.
 
 accordion2:
   - title: Additional SkillsFuture Credit (Mid-Career Support) by SSG
     content: |
       Eligibility
-      * For all Singaporeans who are 40 to 60 years old by 31 December 2020.
+        * For all Singaporeans who are 40 to 60 years old by 31 December 2020
 
       Benefits of this scheme
-      * One-time $500 credit top-up.
+        * One-time $500 credit top-up
+        * Eligible citizens will receive the top-up in their SkillsFuture Credit accounts on **1 October 2020**
+      
+      **This is an auto-inclusion scheme - no application is required.** You may login to your SkillsFuture Credit account at MySkillsFuture after 1 October 2020 to check your SkillsFuture Credit balance.
 
-      Eligible citizens will receive the top-up in their SkillsFuture Credit accounts on **1 October 2020**. You may login to your SkillsFuture Credit account at MySkillsFuture after 1 October 2020 to check your SkillsFuture Credit balance.
-
-      [Find out more](https://www.skillsfuture.sg/credit).<br>
+      [Find out more here](https://www.skillsfuture.sg/credit){:target="_blank"}.<br>
       Call: 6785 5785<br>
-      Submit your feedback [here](ssg.gov.sg/feedback).
+      Submit your feedback [here](ssg.gov.sg/feedback){:target="_blank"}.
       
   - title: Care and Support Package Additional GST Voucher - U-Save Special Payment by MOF
     content: |
       Eligibility
-      * For all eligible HDB households. Eligible larger households with 5 or more members will receive additional rebate.
+        * For all eligible HDB households. Eligible larger households with 5 or more members will receive additional rebate.
 
       Benefits of this scheme
-      * 2 times or 2.5 times their regular GST Voucher
-      * Eligible households will receive their regular GSTV – U-Save for FY2020 over four quarters: in April 2020, July 2020, October 2020 and January 2021.
+        * 2 times or 2.5 times their regular GST Voucher
+        * Eligible households will receive their regular GSTV – U-Save for FY2020 over four quarters: in April 2020, July 2020, October 2020 and January 2021
+        * Rebates will be credited to the eligible households’ utilities account to directly offset their utilities bills
 
-      The rebates will be credited to the eligible households’ utilities account to directly offset their utilities bills.
+      **This is an auto-inclusion scheme - no application is required.**
 
-
-      [Find out more](www.gstvoucher.gov.sg/pages/u-save.aspx)<br>
+      [Find out more here](www.gstvoucher.gov.sg/pages/u-save.aspx){:target="_blank"}.<br>
       Call: 6671 7117<br>
       Email: customersupport@spgroup.com.sg
 
@@ -277,30 +275,31 @@ accordion3:
   - title: Additional SkillsFuture Credit (Mid-Career Support) by SSG
     content: |
       Eligibility
-      * For all Singaporeans who are 40 to 60 years old by 31 December 2020.
+      * For all Singaporeans who are 40 to 60 years old by 31 December 2020
 
       Benefits of this scheme
-      * One-time $500 credit top-up.
+      * One-time $500 credit top-up
+      * Eligible citizens will receive the top-up in their SkillsFuture Credit accounts on **1 October 2020**
+      
+      **This is an auto-inclusion scheme - no application is required.** You may login to your SkillsFuture Credit account at MySkillsFuture after 1 October 2020 to check your SkillsFuture Credit balance.
 
-      Eligible citizens will receive the top-up in their SkillsFuture Credit accounts on **1 October 2020**. You may login to your SkillsFuture Credit account at MySkillsFuture after 1 October 2020 to check your SkillsFuture Credit balance.
-
-      [Find out more](https://www.skillsfuture.sg/credit).<br>
+      [Find out more here](https://www.skillsfuture.sg/credit){:target="_blank"}.<br>
       Call: 6785 5785<br>
-      Submit your feedback [here](ssg.gov.sg/feedback).
+      Submit your feedback [here](ssg.gov.sg/feedback){:target="_blank"}.
       
   - title: Care and Support Package Additional GST Voucher - U-Save Special Payment by MOF
     content: |
       Eligibility
-      * For all eligible HDB households. Eligible larger households with 5 or more members will receive additional rebate.
+        * For all eligible HDB households. Eligible larger households with 5 or more members will receive additional rebate.
 
       Benefits of this scheme
-      * 2 times or 2.5 times their regular GST Voucher
-      * Eligible households will receive their regular GSTV – U-Save for FY2020 over four quarters: in April 2020, July 2020, October 2020 and January 2021.
+        * 2 times or 2.5 times their regular GST Voucher
+        * Eligible households will receive their regular GSTV – U-Save for FY2020 over four quarters: in April 2020, July 2020, October 2020 and January 2021
+        * Rebates will be credited to the eligible households’ utilities account to directly offset their utilities bills
 
-      The rebates will be credited to the eligible households’ utilities account to directly offset their utilities bills.
+      **This is an auto-inclusion scheme - no application is required.**
 
-
-      [Find out more](www.gstvoucher.gov.sg/pages/u-save.aspx)<br>
+      [Find out more here](www.gstvoucher.gov.sg/pages/u-save.aspx){:target="_blank"}.<br>
       Call: 6671 7117<br>
       Email: customersupport@spgroup.com.sg
 
@@ -402,30 +401,31 @@ accordion4:
   - title: Additional SkillsFuture Credit (Mid-Career Support) by SSG
     content: |
       Eligibility
-      * For all Singaporeans who are 40 to 60 years old by 31 December 2020.
+      * For all Singaporeans who are 40 to 60 years old by 31 December 2020
 
       Benefits of this scheme
-      * One-time $500 credit top-up.
+      * One-time $500 credit top-up
+      * Eligible citizens will receive the top-up in their SkillsFuture Credit accounts on **1 October 2020**
+      
+      **This is an auto-inclusion scheme - no application is required.** You may login to your SkillsFuture Credit account at MySkillsFuture after 1 October 2020 to check your SkillsFuture Credit balance.
 
-      Eligible citizens will receive the top-up in their SkillsFuture Credit accounts on **1 October 2020**. You may login to your SkillsFuture Credit account at MySkillsFuture after 1 October 2020 to check your SkillsFuture Credit balance.
-
-      [Find out more](https://www.skillsfuture.sg/credit).<br>
+      [Find out more here](https://www.skillsfuture.sg/credit){:target="_blank"}.<br>
       Call: 6785 5785<br>
-      Submit your feedback [here](ssg.gov.sg/feedback).
+      Submit your feedback [here](ssg.gov.sg/feedback){:target="_blank"}.
       
   - title: Care and Support Package Additional GST Voucher - U-Save Special Payment by MOF
     content: |
       Eligibility
-      * For all eligible HDB households. Eligible larger households with 5 or more members will receive additional rebate.
+        * For all eligible HDB households. Eligible larger households with 5 or more members will receive additional rebate.
 
       Benefits of this scheme
-      * 2 times or 2.5 times their regular GST Voucher
-      * Eligible households will receive their regular GSTV – U-Save for FY2020 over four quarters: in April 2020, July 2020, October 2020 and January 2021.
+        * 2 times or 2.5 times their regular GST Voucher
+        * Eligible households will receive their regular GSTV – U-Save for FY2020 over four quarters: in April 2020, July 2020, October 2020 and January 2021
+        * Rebates will be credited to the eligible households’ utilities account to directly offset their utilities bills
 
-      The rebates will be credited to the eligible households’ utilities account to directly offset their utilities bills.
+      **This is an auto-inclusion scheme - no application is required.**
 
-
-      [Find out more](www.gstvoucher.gov.sg/pages/u-save.aspx)<br>
+      [Find out more here](www.gstvoucher.gov.sg/pages/u-save.aspx){:target="_blank"}.<br>
       Call: 6671 7117<br>
       Email: customersupport@spgroup.com.sg
 
@@ -557,16 +557,17 @@ accordion5:
   - title: Additional SkillsFuture Credit (Mid-Career Support) by SSG
     content: |
       Eligibility
-      * For all Singaporeans who are 40 to 60 years old by 31 December 2020.
+      * For all Singaporeans who are 40 to 60 years old by 31 December 2020
 
       Benefits of this scheme
-      * One-time $500 credit top-up.
+      * One-time $500 credit top-up
+      * Eligible citizens will receive the top-up in their SkillsFuture Credit accounts on **1 October 2020**
+      
+      **This is an auto-inclusion scheme - no application is required.** You may login to your SkillsFuture Credit account at MySkillsFuture after 1 October 2020 to check your SkillsFuture Credit balance.
 
-      Eligible citizens will receive the top-up in their SkillsFuture Credit accounts on **1 October 2020**. You may login to your SkillsFuture Credit account at MySkillsFuture after 1 October 2020 to check your SkillsFuture Credit balance.
-
-      [Find out more](https://www.skillsfuture.sg/credit).<br>
+      [Find out more here](https://www.skillsfuture.sg/credit){:target="_blank"}.<br>
       Call: 6785 5785<br>
-      Submit your feedback [here](ssg.gov.sg/feedback).
+      Submit your feedback [here](ssg.gov.sg/feedback){:target="_blank"}.
 
   - title: Capability Development Scheme for the Arts (CDSA) by NAC
     content: |
@@ -583,16 +584,16 @@ accordion5:
   - title: Care and Support Package Additional GST Voucher - U-Save Special Payment by MOF
     content: |
       Eligibility
-      * For all eligible HDB households. Eligible larger households with 5 or more members will receive additional rebate.
+        * For all eligible HDB households. Eligible larger households with 5 or more members will receive additional rebate.
 
       Benefits of this scheme
-      * 2 times or 2.5 times their regular GST Voucher
-      * Eligible households will receive their regular GSTV – U-Save for FY2020 over four quarters: in April 2020, July 2020, October 2020 and January 2021.
+        * 2 times or 2.5 times their regular GST Voucher
+        * Eligible households will receive their regular GSTV – U-Save for FY2020 over four quarters: in April 2020, July 2020, October 2020 and January 2021
+        * Rebates will be credited to the eligible households’ utilities account to directly offset their utilities bills
 
-      The rebates will be credited to the eligible households’ utilities account to directly offset their utilities bills.
+      **This is an auto-inclusion scheme - no application is required.**
 
-
-      [Find out more](www.gstvoucher.gov.sg/pages/u-save.aspx)<br>
+      [Find out more here](www.gstvoucher.gov.sg/pages/u-save.aspx){:target="_blank"}.<br>
       Call: 6671 7117<br>
       Email: customersupport@spgroup.com.sg
 
