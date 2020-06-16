@@ -782,21 +782,21 @@ Find out what you are eligible for, learn about payout amount, and how to apply.
 
 ### BENEFIT RELIEF MEASURES
 
-## <a name="unemployed"></a>Unemployed Individuals
+## <a name="unemployed"></a>UNEMPLOYED INDIVIDUALS
 
 {% include accordion2.html %}
 [Back to top](#top)
 
-## <a name="lower-income"></a>Lower-Income Individuals
+## <a name="lower-income"></a>LOWER-INCOME INDIVIDUALS
 
 {% include accordion3.html %}
 [Back to top](#top)
 
-## <a name="reduced-income"></a>Individuals with Reduced Income
+## <a name="reduced-income"></a>INDIVIDUALS WITH REDUCED INCOME
 
 {% include accordion4.html %}
 [Back to top](#top)
-## <a name="seps"></a>Self-Employed Persons (SEPS)
+## <a name="seps"></a>SELF-EMPLOYED PERSONS (SEPS)
 
 {% include accordion5.html %}
 [Back to top](#top)
