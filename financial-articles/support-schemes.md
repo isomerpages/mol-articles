@@ -787,16 +787,16 @@ Find out what you are eligible for, learn about payout amount, and how to apply.
 {% include accordion2.html %}
 [Back to top](#top)
 
-## <a name="lower-income"></a>LOWER-INCOME INDIVIDUALS
+## <a name="lower-income"></a>Lower-Income Individuals
 
 {% include accordion3.html %}
 [Back to top](#top)
 
-## <a name="reduced-income"></a>INDIVIDUALS WITH REDUCED INCOME
+## <a name="reduced-income"></a>Individuals with Reduced Income
 
 {% include accordion4.html %}
 [Back to top](#top)
-## <a name="seps"></a>SELF-EMPLOYED PERSONS (SEPS)
+## <a name="seps"></a>Self-Employed Persons (SEPS)
 
 {% include accordion5.html %}
 [Back to top](#top)
