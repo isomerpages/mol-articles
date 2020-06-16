@@ -765,9 +765,9 @@ accordion5:
 
 Whether you have lost your job (including self-employment) or suffered a drop in income due to COVID-19, you should know that help is available to get you through this. 
 
-The government has committed close to 100 billion dollars to stabilise the economy and protect livelihoods.
+The government has committed close to 100 billion dollars to stabilise the economy and protect livelihoods. An extensive portion is set aside as cash relief and subsidies for affected individuals. 
 
-An extensive portion has been set aside as cash relief and subsidies for affected individuals. Those in need may also consider pre-existing support schemes which offer additional support ranging from housing and medical to employment.
+Those in need may also consider pre-existing support schemes which offer additional support ranging from housing and medical to employment.
 
 Find out what you are eligible for, learn about payout amount, and how to apply.
 
