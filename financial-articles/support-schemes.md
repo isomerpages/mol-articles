@@ -776,13 +776,13 @@ Find out what you are eligible for, learn about payout amount, and how to apply.
 > [Individuals with Reduced Income](#reduced-income)<br>
 > [Self-Employed Persons (SEPs)](#seps)<br>
 
-### <a name="schemes"></a>Pre-Existing Support Schemes
+### <a name="schemes"></a>PRE-EXISTING SUPPORT SCHEMES
 
 {% include accordion.html %}
 
 ### BENEFIT RELIEF MEASURES
 
-## <a name="unemployed"></a>UNEMPLOYED INDIVIDUALS
+## <a name="unemployed"></a>Unemployed Individuals
 
 {% include accordion2.html %}
 [Back to top](#top)
