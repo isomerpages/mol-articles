@@ -5,7 +5,7 @@ favicon: /images/mol_fav.ico
 # Site colors
 colors:
   primary-color: '#db2230'
-  secondary-color: '#db2230'
+  secondary-color: '#231f20'
   media-colors:
     - title: media-color-one
       color: '#49759a'
