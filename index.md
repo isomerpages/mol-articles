@@ -9,7 +9,7 @@ sections:
     - hero:
         title: Financial Support for Workers & the Self-Employed
         subtitle: Know your eligibility and where to apply.
-        background: /images/flag-pin.jpg
+        background: /images/sg-housing.jpg
         button: FIND OUT MORE
         url: /financial-support-workers-self-employed/
 ---
