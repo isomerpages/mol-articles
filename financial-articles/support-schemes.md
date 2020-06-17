@@ -779,6 +779,7 @@ Find out what you are eligible for, learn about payout amount, and how to apply.
 ### <a name="schemes"></a>PRE-EXISTING SUPPORT SCHEMES
 
 {% include accordion.html %}
+[Back to top](#top)
 
 ### BENEFIT RELIEF MEASURES
 
