@@ -55,7 +55,7 @@ accordion:
       Call: ComCare Hotline @ 1800-222-0000<br>
       Access the online feedback form at [MSF website](https://www.msf.gov.sg/Pages/Contact-Us.aspx#ComCare){:target="_blank"} under ComCare.
 
-  - title: Financial Assistance Scheme (MOE) //not updated
+  - title: Financial Assistance Scheme (MOE)
     content: |
       Eligibility:
         * For Singaporeans whose child is in a government or government-aided school, autonomous government or government-aided school or specialised school. Gross Household Income (GHI) not exceeding $2,750 per month OR Per Capita Income (PCI) not exceeding $690 per month
