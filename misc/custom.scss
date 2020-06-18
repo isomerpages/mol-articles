@@ -117,7 +117,7 @@ $desktop: 960px + (2 * $gap) !default;
 		background-color: $primary !important;
 	}
 	&-secondary {
-		background-color: $secondary !important;
+		background-color: $secondary;
 	}
 }
 
@@ -151,6 +151,9 @@ $desktop: 960px + (2 * $gap) !default;
 }
 .bp-button:hover {
   color: $secondary;
+}
+.bp-button.is-secondary.is-uppercase.search-button {
+  background-color: #db2230;
 }
 
 // Secondary button
@@ -216,6 +219,9 @@ $desktop: 960px + (2 * $gap) !default;
 		}
 	}
 }
+.is-hidden-touch {
+  font-size: 75px;
+}
 
 // Navbar
 .navbar{
@@ -263,7 +269,7 @@ $desktop: 960px + (2 * $gap) !default;
 .bp-container {
   a, b, small {
     font-family: poppins;
-  }
+  } 
 }
 
 // Post-content
