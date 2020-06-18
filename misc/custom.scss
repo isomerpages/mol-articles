@@ -219,8 +219,9 @@ $desktop: 960px + (2 * $gap) !default;
 		}
 	}
 }
-.is-hidden-touch {
+.is-hidden-desktop {
   font-size: 75px;
+  line-height: 4.5rem;
 }
 
 // Navbar
