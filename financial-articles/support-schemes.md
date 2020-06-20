@@ -6,7 +6,7 @@ accordion:
     content: |
       Eligibility
         * Applicable for all **existing low-to-medium income union members** who are impacted by sudden loss of income or need interim financial support for their children's daily necessities and schooling needs
-        * Monthly Gross Household Income (GHI) of $5,800 and below or Per Capita Income (PCI) of $1,450 and below if GHI exceeds $5,800
+        * Monthly gross household income of $5,800 and below or per capita income of $1,450 and below if GHI exceeds $5,800
         * Children aged 21 years and below studying at eligible educational institutions: Government / Government-aided / Independent schools (primary and secondary) under the Ministry of Education; Junior colleges; Institute of Technical Education; Millennia Institute; Special education schools
         * 6 months of continuous paid-up union membership
 
@@ -87,16 +87,16 @@ accordion:
   - title: Kindergarten Fee Assistance Scheme (KiFAS)
     content: |
       Eligibility
-        * For parents with Singapore Citizen Child enrolled in enrolled in an Anchor Operator (AOP) or Ministry of Edcuation (MOE) kindergarten to defray kindergarten fees
-        * Family's gross monthly Household Income (HHI) is $12,000 and below, or Per Capita Income (PCI) is $3,000 and below for larger families
+        * For parents with Singapore Citizen children enrolled in enrolled in an Anchor Operator (AOP) or Ministry of Edcuation (MOE) kindergarten to defray kindergarten fees
+        * Gross monthly household income of $12,000 and below or per capita income of $3,000 and below for larger families with 5 or more members (with at least 3 dependants who are not earning an income)
 
       Benefits
         * Ranges from $21 - $170
         * Lower-income families will receive more financial assistance
 
-      Eligible families may apply for KiFAS through the kindergarten.
-
-      [Find out more here](https://www.ecda.gov.sg/Pages/Subsidies-and-Financial-Assistance.aspx){:target="_blank"}<br>
+      To apply, please [complete this application form](https://www.ecda.gov.sg/Documents/Subsidies_Financial%20Assistance/KiFAS%20Application%20Forms.zip){:target="_blank"} with the relevant supporting documents and submit it to ECDA through your child's kindergarten.
+      
+      [Find out more](https://www.ecda.gov.sg/Pages/Subsidies-and-Financial-Assistance.aspx#KIFAS){:target="_blank"}<br>
 
   - title: Subletting HDB Bedrooms
     content: |
