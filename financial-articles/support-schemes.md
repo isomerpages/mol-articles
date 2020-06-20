@@ -146,7 +146,7 @@ accordion2:
       Call: 6671 7117<br>
       Email: customersupport@spgroup.com.sg
 
-  - title: Care and Support Package Service & Conservancy Charges (S&CC) Rebate for eligible HDB households
+  - title: Care and Support Package Service & Conservancy Charges (S&CC) Rebate
     content: |
       Eligibility
         * For all eligible Singaporean households living in HDB flats
