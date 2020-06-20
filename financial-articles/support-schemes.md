@@ -5,17 +5,17 @@ accordion:
   - title: CapitaLand-U Care Resilience and Enablement (CAP+Ure) Fund
     content: |
       Eligibility
-        * Applicable for all **existing low-to-medium income NTUC-U members** who are seeking for additional support on their children's daily necessities and schooling needs
+        * Applicable for all **existing low-to-medium income union members** who are impacted by sudden loss of income or need interim financial support for their children's daily necessities and schooling needs.
         * Monthly Gross Household Income (GHI) of $5,800 and below or Per Capita Income (PCI) of $1,450 and below if GHI exceeds $5,800.
         * Children aged 21 years and below studying at eligible educational institutions: − Government / Government-aided / Independent schools (primary and secondary) under the Ministry of Education; − Junior colleges; Institute of Technical Education; Millennia Institute; − Special education schools
-        * 6 months of continuous paid-up union membership. Unions/Associations can apply for the assistance programme on behalf of their members who require the assistance and meet the criteria
+        * 6 months of continuous paid-up union membership.
 
       Benefits of this scheme 
         * Each eligible child will receive a one-time disbursement of $250 NTUC FairPrice vouchers
 
-      Apply by [completing application form and submitting to respective union.](https://www.ntuc.org.sg/wps/wcm/connect/446508c0-594b-42cf-b3ed-13ed83886d13/CAP%2BUre+Fund+-+Application+Form_Revised+%28January%29.pdf?MOD=AJPERES){:target="_blank"}
+      To apply, [complete this application form and submit to your union.](https://www.ntuc.org.sg/wps/wcm/connect/446508c0-594b-42cf-b3ed-13ed83886d13/CAP%2BUre+Fund+-+Application+Form_Revised+%28January%29.pdf?MOD=AJPERES){:target="_blank"}
 
-      [Find out more here](https://ntuc.org.sg/wps/portal/up2/home/aboutntuc/ucare/ucareprogrammes){:target="_blank"}<br>
+      [Find out more](https://ntuc.org.sg/wps/portal/up2/home/aboutntuc/ucare/ucareprogrammes){:target="_blank"}<br>
 
   - title: Community Health Assist Scheme (CHAS)
     content: |
