@@ -17,7 +17,7 @@ accordion:
 
       [Find out more here](https://ntuc.org.sg/wps/portal/up2/home/aboutntuc/ucare/ucareprogrammes){:target="_blank"}<br>
 
-  - title: CHAS Card (MOH)
+  - title: Community Health Assist Scheme (CHAS)
     content: |
       Eligibility
         * To receive healthcare subsidies for medical and dental care at participating General Practitioner (GP) and dental clinics near their home
@@ -32,7 +32,7 @@ accordion:
       [Find out more here](https://www.chas.sg/content.aspx?id=306){:target="_blank"}<br>
       Call: 1800-275-2427 (1800-ASK-CHAS), Monday to Friday from 8.30am to 6.00pm (excluding Public Holidays)<br>
 
-  - title: ComCare Short to Medium Term Assistance (MSF)
+  - title: ComCare Short to Medium Term Assistance
     content: |
       Eligibility
         * For those who are unable to secure a job or find work for an extended period of time and needs financial support temporarily
@@ -55,7 +55,7 @@ accordion:
       Call: ComCare Hotline @ 1800-222-0000<br>
       Access the online feedback form at [MSF website](https://www.msf.gov.sg/Pages/Contact-Us.aspx#ComCare){:target="_blank"} under ComCare.
 
-  - title: Financial Assistance Scheme (MOE)
+  - title: MOE Financial Assistance Scheme
     content: |
       Eligibility:
         * For Singaporeans whose child is in a government or government-aided school, autonomous government or government-aided school or specialised school. Gross Household Income (GHI) not exceeding $2,750 per month OR Per Capita Income (PCI) not exceeding $690 per month
@@ -72,7 +72,7 @@ accordion:
       [Find out more here](https://www.moe.gov.sg/){:target="_blank"}.<br>
       Call:  <br>
 
-  - title: Financial Assistance Measures (HDB)
+  - title: HDB Financial Assistance Measures
     content: | 
       Eligibility
         * For home owners facing difficulties repaying their housing loans
@@ -86,7 +86,7 @@ accordion:
       Call: 1800-225-5432<br/>
 
 
-  - title: Kindergarten Fee Assistance Scheme - KiFAS (ECDA)
+  - title: Kindergarten Fee Assistance Scheme - KiFAS
     content: |
       Eligibility
         * For parents with Singapore Citizen Child enrolled in enrolled in an Anchor Operator (AOP) or Ministry of Edcuation (MOE) kindergarten to defray kindergarten fees
@@ -100,7 +100,7 @@ accordion:
 
       [Find out more here](https://www.ecda.gov.sg/Pages/Subsidies-and-Financial-Assistance.aspx){:target="_blank"}<br>
 
-  - title: Sublet spare rooms of the flat for added income (HDB)
+  - title: Subletting HDB Bedrooms
     content: |
       Eligibility
         * Only bedrooms from HDB flats that are **3-room or larger** can be rented out
@@ -116,7 +116,7 @@ accordion:
       Download the Mobile@HDB app [here](https://www.hdb.gov.sg/cs/infoweb/mobile-hdb){:target="_blank"} to access our e-services on the go.
 
 accordion2:
-  - title: Additional SkillsFuture Credit (Mid-Career Support) by SSG
+  - title: Additional SkillsFuture Credit (Mid-Career Support)
     content: |
       Eligibility
         * For all Singaporeans who are 40 to 60 years old by 31 December 2020
@@ -131,7 +131,7 @@ accordion2:
       Call: 6785 5785<br>
       Submit your feedback [here](ssg.gov.sg/feedback){:target="_blank"}
       
-  - title: Care and Support Package Additional GST Voucher - U-Save Special Payment by MOF
+  - title: Care and Support Package Additional GST Voucher - U-Save Special Payment
     content: |
       Eligibility
         * For all eligible HDB households. Eligible larger households with 5 or more members will receive additional rebate.
@@ -163,7 +163,7 @@ accordion2:
       Call: 1800-866-3078<br>
       Email: sccrebates@mailbox.hdb.gov.sg
 
-  - title: COVID-19 Support Grant by MSF
+  - title: COVID-19 Support Grant
     content: |
       Eligibility
         * For full/part time permanent or contract employees who are presently unemployed due to loss of job, involuntary No-Pay Leave (for 3 consecutive months), loss of at least 30% of salary (for 3 consecutive months) after 23 January 2020 as a result of the economic impact of COVID-19
@@ -179,7 +179,7 @@ accordion2:
       Call 1800-222-0000 if you need help filling in the online application form.<br>
       Email: ask_sso@msf.gov.sg
     
-  - title: Defer Tax Payment for Individual Income Tax (For non-self employed) by IRAS
+  - title: Defer Tax Payment for Individual Income Tax (For non-self employed)
     content: |
       Eligibility
         * For all non-self employed persons
@@ -194,7 +194,7 @@ accordion2:
 
       [Find out more](https://www.iras.gov.sg/irashome/Individuals/Locals/Paying-your-taxes-Claiming-refunds/Defer-Tax-Payment-for-Individual-Income-Tax/){:target="_blank"}<br>
 
-  - title: Home Access Programme by IMDA
+  - title: Home Access Programme
     content: |
       Eligibility
         * For HDB households with a monthly gross household income ≤ $1,900 or per capita income ≤ $650, and has at least one family member who is Singaporean
@@ -237,7 +237,7 @@ accordion2:
       [Find out more here](https://www.ntuc.org.sg/wps/portal/up2/home/aboutntuc/ucare/ucarefund/details?WCM_GLOBAL_CONTEXT=/content_library/ntuc/home/areas+of+interest/care+and+share/u+care+fund/de4345d3-f51f-408c-9963-0d7055c9ab25){:target="_blank"}<br>
       Call: 6213 8008<br>
 
-  - title: SkillsFuture Credit Top-Up by SSG
+  - title: SkillsFuture Credit Top-Up
     content: |
       Eligibility
         * For all Singaporeans who are 25 years and above by 31 December 2020
@@ -268,7 +268,7 @@ accordion2:
       [Find out more here](https://www.msf.gov.sg/assistance/Pages/covid19relief.aspx#TCF){:target="_blank"}<br>
 
 accordion3:
-  - title: Additional SkillsFuture Credit (Mid-Career Support) by SSG
+  - title: Additional SkillsFuture Credit (Mid-Career Support)
     content: |
       Eligibility
         * For all Singaporeans who are 40 to 60 years old by 31 December 2020
@@ -283,7 +283,7 @@ accordion3:
       Call: 6785 5785<br>
       Submit your feedback [here](ssg.gov.sg/feedback){:target="_blank"}.
       
-  - title: Care and Support Package Additional GST Voucher - U-Save Special Payment by MOF
+  - title: Care and Support Package Additional GST Voucher - U-Save Special Payment
     content: |
       Eligibility
         * For all eligible HDB households. Eligible larger households with 5 or more members will receive additional rebate.
@@ -314,7 +314,7 @@ accordion3:
       Call: 1800-227-1188<br>
       Submit your enquiry [here](www.cpf.gov.sg/writetous){:target="_blank"}.
 
-  - title: Care and Support Package Service & Conservancy Charges (S&CC) Rebate for eligible HDB households
+  - title: Care and Support Package Service & Conservancy Charges (S&CC) Rebate
     content: |
       Eligibility
         * For all eligible Singaporean households living in HDB flats
@@ -330,7 +330,7 @@ accordion3:
       Call: 1800-866-3078<br>
       Email: sccrebates@mailbox.hdb.gov.sg
     
-  - title: Defer Tax Payment for Individual Income Tax (For non-self employed) by IRAS
+  - title: Defer Tax Payment for Individual Income Tax (For non-self employed)
     content: |
       Eligibility
         * For all non-self employed persons
@@ -345,7 +345,7 @@ accordion3:
 
       [Find out more](https://www.iras.gov.sg/irashome/Individuals/Locals/Paying-your-taxes-Claiming-refunds/Defer-Tax-Payment-for-Individual-Income-Tax/){:target="_blank"}<br>
 
-  - title: Home Access Programme by IMDA
+  - title: Home Access Programme
     content: |
       Eligibility
         * For HDB households with a monthly gross household income ≤ $1,900 or per capita income ≤ $650, and has at least one family member who is Singaporean
@@ -362,7 +362,7 @@ accordion3:
 
       [Find out more here](https://eservice.imda.gov.sg/das/homepage#){:target="_blank"}<br>
 
-  - title: SkillsFuture Credit Top-Up by SSG
+  - title: SkillsFuture Credit Top-Up
     content: |
       Eligibility
         * For all Singaporeans who are 25 years and above by 31 December 2020
@@ -393,7 +393,7 @@ accordion3:
       [Find out more here](https://www.msf.gov.sg/assistance/Pages/covid19relief.aspx#TCF){:target="_blank"}<br>
 
 accordion4:
-  - title: Additional SkillsFuture Credit (Mid-Career Support) by SSG
+  - title: Additional SkillsFuture Credit (Mid-Career Support)
     content: |
       Eligibility
         * For all Singaporeans who are 40 to 60 years old by 31 December 2020
@@ -408,7 +408,7 @@ accordion4:
       Call: 6785 5785<br>
       Submit your feedback [here](ssg.gov.sg/feedback){:target="_blank"}.
       
-  - title: Care and Support Package Additional GST Voucher - U-Save Special Payment by MOF
+  - title: Care and Support Package Additional GST Voucher - U-Save Special Payment
     content: |
       Eligibility
         * For all eligible HDB households. Eligible larger households with 5 or more members will receive additional rebate.
@@ -424,7 +424,7 @@ accordion4:
       Call: 6671 7117<br>
       Email: customersupport@spgroup.com.sg
 
-  - title: Care and Support Package Service & Conservancy Charges (S&CC) Rebate for eligible HDB households
+  - title: Care and Support Package Service & Conservancy Charges (S&CC) Rebate
     content: |
       Eligibility
         * For all eligible Singaporean households living in HDB flats
@@ -440,7 +440,7 @@ accordion4:
       Call: 1800-866-3078<br>
       Email: sccrebates@mailbox.hdb.gov.sg
 
-  - title: COVID-19 Support Grant by MSF
+  - title: COVID-19 Support Grant
     content: |
       Eligibility
         * For full/part time permanent or contract employees who are presently unemployed due to loss of job, involuntary No-Pay Leave (for 3 consecutive months), loss of at least 30% of salary (for 3 consecutive months) after 23 January 2020 as a result of the economic impact of COVID-19
@@ -456,7 +456,7 @@ accordion4:
       Call 1800-222-0000 if you need help filling in the online application form.<br>
       Email: ask_sso@msf.gov.sg
     
-  - title: Defer Tax Payment for Individual Income Tax (For non-self employed) by IRAS
+  - title: Defer Tax Payment for Individual Income Tax (For non-self employed)
     content: |
       Eligibility
         * For all non-self employed persons
@@ -471,7 +471,7 @@ accordion4:
 
       [Find out more](https://www.iras.gov.sg/irashome/Individuals/Locals/Paying-your-taxes-Claiming-refunds/Defer-Tax-Payment-for-Individual-Income-Tax/){:target="_blank"}<br>
 
-  - title: Home Access Programme by IMDA
+  - title: Home Access Programme
     content: |
       Eligibility
         * For HDB households with a monthly gross household income ≤ $1,900 or per capita income ≤ $650, and has at least one family member who is Singaporean
@@ -514,7 +514,7 @@ accordion4:
       [Find out more here](https://www.ntuc.org.sg/wps/portal/up2/home/aboutntuc/ucare/ucarefund/details?WCM_GLOBAL_CONTEXT=/content_library/ntuc/home/areas+of+interest/care+and+share/u+care+fund/de4345d3-f51f-408c-9963-0d7055c9ab25){:target="_blank"}<br>
       Call: 6213 8008<br>
 
-  - title: SkillsFuture Credit Top-Up by SSG
+  - title: SkillsFuture Credit Top-Up
     content: |
       Eligibility
         * For all Singaporeans who are 25 years and above by 31 December 2020
@@ -545,7 +545,7 @@ accordion4:
       [Find out more here](https://www.msf.gov.sg/assistance/Pages/covid19relief.aspx#TCF){:target="_blank"}<br>
 
 accordion5:
-  - title: Additional SkillsFuture Credit (Mid-Career Support) by SSG
+  - title: Additional SkillsFuture Credit (Mid-Career Support)
     content: |
       Eligibility
       * For all Singaporeans who are 40 to 60 years old by 31 December 2020
@@ -560,7 +560,7 @@ accordion5:
       Call: 6785 5785<br>
       Submit your feedback [here](ssg.gov.sg/feedback){:target="_blank"}.
 
-  - title: Capability Development Scheme for the Arts (CDSA) by NAC
+  - title: Capability Development Scheme for the Arts (CDSA)
     content: |
       Eligibility
       + For artists who wish to upskill and grow capabilities through training programmes during this COVID-19 period. For training programmes that take place from 16 March 2020 to 31 December 2020.
@@ -572,7 +572,7 @@ accordion5:
 
       [Find out more](https://www.nac.gov.sg/whatwedo/support/sustaining-the-arts-during-covid-19/acrp.html)<br>
 
-  - title: Care and Support Package Additional GST Voucher - U-Save Special Payment by MOF
+  - title: Care and Support Package Additional GST Voucher - U-Save Special Payment
     content: |
       Eligibility
         * For all eligible HDB households. Eligible larger households with 5 or more members will receive additional rebate.
@@ -603,7 +603,7 @@ accordion5:
       Call: 1800-227-1188<br>
       Submit your enquiry [here](www.cpf.gov.sg/writetous){:target="_blank"}.
 
-  - title: Care and Support Package Service & Conservancy Charges (S&CC) Rebate for eligible HDB households
+  - title: Care and Support Package Service & Conservancy Charges (S&CC) Rebate
     content: |
       Eligibility
         * For all eligible Singaporean households living in HDB flats
@@ -646,7 +646,7 @@ accordion5:
       [Find out more here](https://www.nac.gov.sg/whatwedo/support/sustaining-the-arts-during-covid-19/acrp.html){:target="_blank"}<br>
       Email: dpg@nac.gov.sg
 
-  - title: Home Access Programme by IMDA
+  - title: Home Access Programme
     content: |
       Eligibility
         * For HDB households with a monthly gross household income ≤ $1,900 or per capita income ≤ $650, and has at least one family member who is Singaporean
@@ -710,7 +710,7 @@ accordion5:
       80 Jurong East St 21 Level 2<br>
       Singapore 609607
 
-  - title: Self-Employed Persons Income Relief Scheme (SIRS) by MOM
+  - title: Self-Employed Persons Income Relief Scheme (SIRS)
     content: |
       Eligibility
       * For Singaporean Self-Employed Persons (SEPs) aged 37 (as at 31 Dec 2020) and over
@@ -740,7 +740,7 @@ accordion5:
 
       [Find out more here](https://www.sampp.org.sg/covid-19-relief-fund/){:target="_blank"}
 
-  - title: SkillsFuture Credit Top-Up by SSG
+  - title: SkillsFuture Credit Top-Up
     content: |
       Eligibility
         * For all Singaporeans who are 25 years and above by 31 December 2020
