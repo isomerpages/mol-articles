@@ -127,7 +127,7 @@ accordion2:
       **This is an auto-inclusion scheme - no application is required.** You may login to your SkillsFuture Credit account at MySkillsFuture after 1 October 2020 to check your SkillsFuture Credit balance.
 
       [Find out more](https://www.skillsfuture.sg/credit){:target="_blank"}<br>
-      Call: 6785 5785<br>
+      Call: <a href="tel:6785-5785">6785-5785</a><br>
       Submit your feedback [here](ssg.gov.sg/feedback){:target="_blank"}
       
   - title: Care and Support Package Additional GST Voucher - U-Save Special Payment
