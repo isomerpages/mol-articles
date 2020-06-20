@@ -55,11 +55,11 @@ accordion:
 
   - title: MOE Financial Assistance Scheme (FAS)
     content: |
-      Eligibility:
+      Eligibility
         * For Singaporeans with Singapore Citizen children enrolled in a Government or Government-aided school
         * Gross monthly household income of $2,750 and below or per capita income $690 and below at the time of application
 
-      Benefits
+      Benefits<br>
       Varies depending on academic level:
         * Subsidies for school fees and standard miscellaneous fees
         * Free textbooks and school attire (Primary and Secondary)
