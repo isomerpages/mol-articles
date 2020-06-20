@@ -53,7 +53,7 @@ accordion:
       [Find out more](https://www.msf.gov.sg/Comcare/Pages/Short-to-Medium-Term-Assistance.aspx){:target="_blank"}<br>
       Call: ComCare Hotline @ 1800-222-0000
 
-  - title: MOE Financial Assistance Scheme (FAS) - Government / Government-aided schools
+  - title: MOE Financial Assistance Scheme (FAS)
     content: |
       Eligibility:
         * For Singaporeans with Singapore Citizen children enrolled in a Government or Government-aided school
