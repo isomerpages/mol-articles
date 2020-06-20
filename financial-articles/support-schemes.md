@@ -173,7 +173,7 @@ accordion2:
         * For loss of job and involuntary No-Pay Leave: Up to $800/month (for 3 months) credited into bank account
         * For loss of at least 30% of salary: Up to $500/month (for 3 months) credited into bank account
 
-      [Apply online](https://www.msf.gov.sg/assistance/Documents/TCF%20Scheme-E-application-fund.pdf){:target="_blank"} from **4 May 2020 to 30 September 2020**. Supporting documents are required. Alternatively, make an appointment with your nearest [Social Service Office](go.gov.sg/ssolocator){:target="_blank"} if you are unable to apply online.
+      [Apply online](https://go.gov.sg/csg){:target="_blank"} from **4 May 2020 to 30 September 2020**. Supporting documents are required. Alternatively, make an appointment with your nearest [Social Service Office](go.gov.sg/ssolocator){:target="_blank"} if you are unable to apply online.
 
       [Find out more here](https://www.msf.gov.sg/assistance/Pages/covid19relief.aspx#CSG){:target="_blank"}<br>
       Call 1800-222-0000 if you need help filling in the online application form.<br>
@@ -450,7 +450,7 @@ accordion4:
         * For loss of job and involuntary No-Pay Leave: Up to $800/month (for 3 months) credited into bank account
         * For loss of at least 30% of salary: Up to $500/month (for 3 months) credited into bank account
 
-      [Apply online](https://www.msf.gov.sg/assistance/Documents/TCF%20Scheme-E-application-fund.pdf){:target="_blank"} from **4 May 2020 to 30 September 2020**. Supporting documents are required. Alternatively, make an appointment with your nearest [Social Service Office](go.gov.sg/ssolocator){:target="_blank"} if you are unable to apply online.
+      [Apply online](https://go.gov.sg/csg){:target="_blank"} from **4 May 2020 to 30 September 2020**. Supporting documents are required. Alternatively, make an appointment with your nearest [Social Service Office](go.gov.sg/ssolocator){:target="_blank"} if you are unable to apply online.
 
       [Find out more here](https://www.msf.gov.sg/assistance/Pages/covid19relief.aspx#CSG){:target="_blank"}<br>
       Call 1800-222-0000 if you need help filling in the online application form.<br>
