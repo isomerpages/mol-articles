@@ -60,17 +60,16 @@ accordion:
         * Gross monthly household income of $2,750 and below or per capita income $690 and below at the time of application
 
       Benefits
-        * Receive full waiver of school fees
-        * Full waiver of standard miscellaneous fees
-        * Free textbooks and school attire
-        * School meal subsidy of $2.90 per meal for 10 meals per school week
-        * Public transport eVoucher of $15 per month
+      Varies depending on academic level:
+        * Subsidies for school fees and standard miscellaneous fees
+        * Free textbooks and school attire (Primary and Secondary)
+        * School meal subsidy(Primary and Secondary)
+        * Transport subsidy
+        * Bursary (Pre-U)
 
-      To apply, please [download the application form](https://beta.moe.gov.sg/uploads/MOE-FAS-Application-Form.pdf){:target="_blank"} or collect a copy at your child's school.
+      To apply, please [download the application form](https://beta.moe.gov.sg/uploads/MOE-FAS-Application-Form.pdf){:target="_blank"} or collect a copy at your child's school. Submit the completed form with all relevant supporting documents directly to the school.
 
-Submit the completed form with all relevant supporting documents directly to your child's school.
-
-      [Find out more](https://beta.moe.gov.sg/fees-assistance-awards-scholarships/financial-assistance/){:target="_blank"}
+      [Find out more](https://beta.moe.gov.sg/fees-assistance-awards-scholarships/financial-assistance/){:target="_blank"} Alternatively, please approach your child's school to learn more on MOE FAS, or other school-based financial assistance.
 
   - title: HDB Financial Assistance Measures
     content: | 
