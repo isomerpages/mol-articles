@@ -75,7 +75,7 @@ accordion:
         * For Singaporeans with Singapore Citizen children enrolled in a Government or Government-aided school
         * Gross monthly household income of $2,750 and below or per capita income $690 and below at the time of application
 
-      Benefits (varies depending on academic level)
+      Benefits (vary depending on academic level)
         * Subsidies for school fees and standard miscellaneous fees
         * Free textbooks and school attire (Primary and Secondary)
         * School meal subsidy(Primary and Secondary)
