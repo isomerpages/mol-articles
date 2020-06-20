@@ -26,10 +26,11 @@ accordion:
         * The [CHAS benefits](https://www.chas.sg/content.aspx?id=636){:target="_blank"} you will receive are tiered according to household monthly income per person or the Annual Value (AV) of the home.
         * The amount that you pay will be based on the fees charged by the clinic, minus the CHAS subsidies. You may wish to check with CHAS clinics on their fees before receiving treatment at each visit
 
-      [Apply online](https://chas.moh.gov.sg/Home/Welcome){:target="_blank"} ([Online application user guide](https://www-moh-gov-sg-admin.cwp.sg/docs/librariesprovider5/default-document-library/chas-eservice-user-guide.pdf){:target="_blank"})
+      [Apply online](https://chas.moh.gov.sg/Home/Welcome){:target="_blank"} ([Online application user guide](https://www-moh-gov-sg-admin.cwp.sg/docs/librariesprovider5/default-document-library/chas-eservice-user-guide.pdf){:target="_blank"})<br>
+      While every Singapore Citizen is eligible for CHAS, the enrolment onto CHAS is still on an application basis.
 
       [Find out more](https://www.chas.sg/content.aspx?id=306){:target="_blank"}<br>
-      Call: 1800-275-2427 (1800-ASK-CHAS), Monday to Friday from 8.30am to 6.00pm (excluding Public Holidays)<br>
+      Call: <a href="tel:1800-275-2427">1800-275-2427</a> (<a href="tel:1800-275-2427">1800-ASK-CHAS</a>), Monday to Friday from 8.30am to 6.00pm (excluding Public Holidays)<br>
 
   - title: ComCare Short to Medium Term Assistance
     content: |
@@ -43,7 +44,7 @@ accordion:
 
       Benefits
         * Monthly cash assistance
-        * Assistance with household bills, i.e: rental, utilities, and/or service and conservacy charges
+        * Assistance with household bills, i.e: rental, utilities, and/or service and conservancy charges
         * Medical assistance
         * Employment assistance such as job search and/or training
         * Referrals for other relevant services
