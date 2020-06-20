@@ -10,7 +10,7 @@ accordion:
         * Children aged 21 years and below studying at eligible educational institutions: Government / Government-aided / Independent schools (primary and secondary) under the Ministry of Education; Junior colleges; Institute of Technical Education; Millennia Institute; Special education schools
         * 6 months of continuous paid-up union membership
 
-      Benefits of this scheme 
+      Benefits 
         * Each eligible child will receive a one-time disbursement of $250 NTUC FairPrice vouchers
 
       To apply, [complete this application form and submit to your union.](https://www.ntuc.org.sg/wps/wcm/connect/446508c0-594b-42cf-b3ed-13ed83886d13/CAP%2BUre+Fund+-+Application+Form_Revised+%28January%29.pdf?MOD=AJPERES){:target="_blank"}
@@ -22,7 +22,7 @@ accordion:
       Eligibility
         * To receive healthcare subsidies for medical and dental care at participating General Practitioner (GP) and dental clinics near their home
 
-      Benefits of this scheme
+      Benefits
         * The CHAS benefits you will receive are tiered according to household monthly income per person or the Annual Value (AV) of the home
         * The amount that you pay will be based on the fees charged by the clinic, minus the CHAS subsidies. You may wish to check with CHAS clinics on their fees before receiving treatment at each visit
         * Refer to [this link](https://www.chas.sg/content.aspx?id=636){:target="_blank"} for the amount of subsidies
@@ -42,7 +42,7 @@ accordion:
         * Have a monthly household income of $1,900 and below or a per capita income of $650 and below
         * Even if your income exceeds these guidelines, you can still approach our Social Service Offices (SSOs) if you face financial difficulties. Our SSOs will assess your circumstances and needs, and assist you accordingly
 
-      Benefits of this scheme 
+      Benefits
         * Monthly cash assistance
         * Assistance with household bills, i.e: rental, utilities, and/or service and conservacy charges
         * Medical assistance
@@ -60,7 +60,7 @@ accordion:
       Eligibility:
         * For Singaporeans whose child is in a government or government-aided school, autonomous government or government-aided school or specialised school. Gross Household Income (GHI) not exceeding $2,750 per month OR Per Capita Income (PCI) not exceeding $690 per month
 
-      Benefits of this scheme 
+      Benefits
         * Receive full waiver of school fees
         * Full waiver of standard miscellaneous fees
         * Free textbooks and school attire
@@ -77,7 +77,7 @@ accordion:
       Eligibility
         * For home owners facing difficulties repaying their housing loans
 
-      Benefits of this scheme
+      Benefits
         * Assistance is granted based on the merits of each case
 
       Apply by approaching any HDB Branch, or call the toll-free Branch Service Line at 1800-225-5432.
@@ -92,7 +92,7 @@ accordion:
         * For parents with Singapore Citizen Child enrolled in enrolled in an Anchor Operator (AOP) or Ministry of Edcuation (MOE) kindergarten to defray kindergarten fees
         * Family's gross monthly Household Income (HHI) is $12,000 and below, or Per Capita Income (PCI) is $3,000 and below for larger families
 
-      Benefits of this scheme 
+      Benefits
         * Ranges from $21 - $170
         * Lower-income families will receive more financial assistance
 
@@ -106,7 +106,7 @@ accordion:
         * Only bedrooms from HDB flats that are **3-room or larger** can be rented out
         * Maximum number of bedrooms that flat owners can rent out and the maximum number of occupants allowed in each flat depends on the flat type - 1 bedroom for 3-room, 2 bedrooms for 4-room and bigger
 
-      Benefits of this scheme 
+      Benefits
         * Monetary amount depending on market rate and agreed terms between landlord and tenant
 
       [Apply online](https://services2.hdb.gov.sg/webapp/SX05AWSPCP/SX05PSPCPLogin.jsp) through the MyHDBPage. Prior approval from HDB is required. An administrative fee is payable with each application, at **$10 per bedroom**.
@@ -121,7 +121,7 @@ accordion2:
       Eligibility
         * For all Singaporeans who are 40 to 60 years old by 31 December 2020
 
-      Benefits of this scheme
+      Benefits
         * One-time $500 credit top-up
         * Eligible citizens will receive the top-up in their SkillsFuture Credit accounts on **1 October 2020**
       
@@ -136,7 +136,7 @@ accordion2:
       Eligibility
         * For all eligible HDB households. Eligible larger households with 5 or more members will receive additional rebate.
 
-      Benefits of this scheme
+      Benefits
         * 2 times or 2.5 times their regular GST Voucher
         * Eligible households will receive their regular GSTV – U-Save for FY2020 over four quarters: in April 2020, July 2020, October 2020 and January 2021
         * Rebates will be credited to the eligible households’ utilities account to directly offset their utilities bills
@@ -152,7 +152,7 @@ accordion2:
       Eligibility
         * For all eligible Singaporean households living in HDB flats
 
-      Benefits of this scheme
+      Benefits
         * Between 1.5 and 3.5 months of S&CC over FY2020
         * Eligible households will receive their S&CC Rebate over four quarters: in April 2020, July 2020, October 2020 and January 2021
         * The rebate will be used to directly offset your S&CC bills of the corresponding month
@@ -169,7 +169,7 @@ accordion2:
         * For full/part time permanent or contract employees who are presently unemployed due to loss of job, involuntary No-Pay Leave (for 3 consecutive months), loss of at least 30% of salary (for 3 consecutive months) after 23 January 2020 as a result of the economic impact of COVID-19
         * Those on ComCare, Self-Employed Person Income Relief Scheme, NSFs and interns are **not eligible**
 
-      Benefits of this scheme
+      Benefits
         * For loss of job and involuntary No-Pay Leave: Up to $800/month (for 3 months) credited into bank account
         * For loss of at least 30% of salary: Up to $500/month (for 3 months) credited into bank account
 
@@ -185,7 +185,7 @@ accordion2:
         * For all non-self employed persons
         * This deferment does **not** apply to non-Singaporean citizen employees who have sought tax clearance and employees of foreign employers
 
-      Benefits of this scheme
+      Benefits
         * Receive a deferment on your income tax payments due in May, June and July 2020, to help ease cash flow
         * Income tax deduction to resume in August, September or October 2020
         * The end-date of your instalment plan will be extended by 3 months
@@ -200,7 +200,7 @@ accordion2:
         * For HDB households with a monthly gross household income ≤ $1,900 or per capita income ≤ $650, and has at least one family member who is Singaporean
         * You should not be an existing Home Access beneficiary or an existing NEU PC Plus beneficiary with broadband connectivity
 
-      Benefits of this scheme
+      Benefits
       * Receive 2 years of subsidised fibre broadband connectivity, with an option to bundle with a tablet or smartphone
 
       [Apply online](https://eservice.imda.gov.sg/neupc/singpasslogin.action?src=das&strParam=login&notprotected=true){:target="_blank"} or [download the application form](https://www.imda.gov.sg/-/media/Imda/Files/Programme/Home-Access/HA30-Application-Form.pdf){:target="_blank"}, complete it and mail to:<br>
@@ -220,7 +220,7 @@ accordion2:
         * A self-employed person (SEP) whose income has been adversely affected due to COVID-19 related job or event cancellations, or 
         * Retrenched with retrenchment benefits of not more than $6,500  
 
-      Benefits of this scheme
+      Benefits
         * A one-off cash relief of up to $300
         * Pay-out quantum of between $50 to $300 per applicant varies depending on eligibility criteria.
 
@@ -242,7 +242,7 @@ accordion2:
       Eligibility
         * For all Singaporeans who are 25 years and above by 31 December 2020
 
-      Benefits of this scheme
+      Benefits
         * One-time $500 credit top-up
         * Eligible citizens will receive the top-up in their SkillsFuture Credit accounts on **1 October 2020**
         
@@ -260,7 +260,7 @@ accordion2:
         * Prior household income of $3,900, or per capita household income of $1,350
         * ComCare clients may apply
 
-      Benefits of this scheme
+      Benefits
         * One-time lump sum of up to $1,000 (depending on the household's per capita income after being affected by COVID-19), credited into bank account
 
       Download the [Courage Fund application form](https://www.msf.gov.sg/assistance/Documents/TCF%20Scheme-E-application-fund.pdf){:target="_blank:} and submit it to any of the 24 SSOs. Form is also available at any SSO. Please bring along supporting documents. Applications should be made **within 6 months from the end of the QO, LOA or SHN or discharge from hospitalisation due to COVID-19 (whichever is later)**.
@@ -273,7 +273,7 @@ accordion3:
       Eligibility
         * For all Singaporeans who are 40 to 60 years old by 31 December 2020
 
-      Benefits of this scheme
+      Benefits
         * One-time $500 credit top-up
         * Eligible citizens will receive the top-up in their SkillsFuture Credit accounts on **1 October 2020**
       
@@ -288,7 +288,7 @@ accordion3:
       Eligibility
         * For all eligible HDB households. Eligible larger households with 5 or more members will receive additional rebate.
 
-      Benefits of this scheme
+      Benefits
         * 2 times or 2.5 times their regular GST Voucher
         * Eligible households will receive their regular GSTV – U-Save for FY2020 over four quarters: in April 2020, July 2020, October 2020 and January 2021
         * Rebates will be credited to the eligible households’ utilities account to directly offset their utilities bills
@@ -304,7 +304,7 @@ accordion3:
       Eligibility
         * For all Singaporean employees and self-employed persons who received Workfare Income Supplement (WIS) payments in Work Year 2019
 
-      Benefits of this scheme
+      Benefits
         * Eligible Singaporeans will receive $3,000. You can expect to receive your WSP in two payments - $1,500 in July 2020 and $1,500 in October 2020
         * The WSP will be given to eligible Singaporeans in the same way they receive their WIS payments – direct crediting into their bank account, or cheque sent to their NRIC address
 
@@ -319,7 +319,7 @@ accordion3:
       Eligibility
         * For all eligible Singaporean households living in HDB flats
 
-      Benefits of this scheme
+      Benefits
         * Between 1.5 and 3.5 months of S&CC over FY2020
         * Eligible households will receive their S&CC Rebate over four quarters: in April 2020, July 2020, October 2020 and January 2021
         * The rebate will be used to directly offset your S&CC bills of the corresponding month
@@ -336,7 +336,7 @@ accordion3:
         * For all non-self employed persons
         * This deferment does **not** apply to non-Singaporean citizen employees who have sought tax clearance and employees of foreign employers
 
-      Benefits of this scheme
+      Benefits
         * Receive a deferment on your income tax payments due in May, June and July 2020, to help ease cash flow
         * Income tax deduction to resume in August, September or October 2020
         * The end-date of your instalment plan will be extended by 3 months
@@ -351,7 +351,7 @@ accordion3:
         * For HDB households with a monthly gross household income ≤ $1,900 or per capita income ≤ $650, and has at least one family member who is Singaporean
         * You should not be an existing Home Access beneficiary or an existing NEU PC Plus beneficiary with broadband connectivity
 
-      Benefits of this scheme
+      Benefits
       * Receive 2 years of subsidised fibre broadband connectivity, with an option to bundle with a tablet or smartphone
 
       [Apply online](https://eservice.imda.gov.sg/neupc/singpasslogin.action?src=das&strParam=login&notprotected=true){:target="_blank"} or [download the application form](https://www.imda.gov.sg/-/media/Imda/Files/Programme/Home-Access/HA30-Application-Form.pdf){:target="_blank"}, complete it and mail to:<br>
@@ -367,7 +367,7 @@ accordion3:
       Eligibility
         * For all Singaporeans who are 25 years and above by 31 December 2020
 
-      Benefits of this scheme
+      Benefits
         * One-time $500 credit top-up
         * Eligible citizens will receive the top-up in their SkillsFuture Credit accounts on **1 October 2020**
         
@@ -385,7 +385,7 @@ accordion3:
         * Prior household income of $3,900, or per capita household income of $1,350
         * ComCare clients may apply
 
-      Benefits of this scheme
+      Benefits
         * One-time lump sum of up to $1,000 (depending on the household's per capita income after being affected by COVID-19), credited into bank account
 
       Download the [Courage Fund application form](https://www.msf.gov.sg/assistance/Documents/TCF%20Scheme-E-application-fund.pdf){:target="_blank:} and submit it to any of the 24 SSOs. Form is also available at any SSO. Please bring along supporting documents. Applications should be made **within 6 months from the end of the QO, LOA or SHN or discharge from hospitalisation due to COVID-19 (whichever is later)**.
@@ -398,7 +398,7 @@ accordion4:
       Eligibility
         * For all Singaporeans who are 40 to 60 years old by 31 December 2020
 
-      Benefits of this scheme
+      Benefits
         * One-time $500 credit top-up
         * Eligible citizens will receive the top-up in their SkillsFuture Credit accounts on **1 October 2020**
       
@@ -413,7 +413,7 @@ accordion4:
       Eligibility
         * For all eligible HDB households. Eligible larger households with 5 or more members will receive additional rebate.
 
-      Benefits of this scheme
+      Benefits
         * 2 times or 2.5 times their regular GST Voucher
         * Eligible households will receive their regular GSTV – U-Save for FY2020 over four quarters: in April 2020, July 2020, October 2020 and January 2021
         * Rebates will be credited to the eligible households’ utilities account to directly offset their utilities bills
@@ -429,7 +429,7 @@ accordion4:
       Eligibility
         * For all eligible Singaporean households living in HDB flats
 
-      Benefits of this scheme
+      Benefits
         * Between 1.5 and 3.5 months of S&CC over FY2020
         * Eligible households will receive their S&CC Rebate over four quarters: in April 2020, July 2020, October 2020 and January 2021
         * The rebate will be used to directly offset your S&CC bills of the corresponding month
@@ -446,7 +446,7 @@ accordion4:
         * For full/part time permanent or contract employees who are presently unemployed due to loss of job, involuntary No-Pay Leave (for 3 consecutive months), loss of at least 30% of salary (for 3 consecutive months) after 23 January 2020 as a result of the economic impact of COVID-19
         * Those on ComCare, Self-Employed Person Income Relief Scheme, NSFs and interns are **not eligible**
 
-      Benefits of this scheme
+      Benefits
         * For loss of job and involuntary No-Pay Leave: Up to $800/month (for 3 months) credited into bank account
         * For loss of at least 30% of salary: Up to $500/month (for 3 months) credited into bank account
 
@@ -462,7 +462,7 @@ accordion4:
         * For all non-self employed persons
         * This deferment does **not** apply to non-Singaporean citizen employees who have sought tax clearance and employees of foreign employers
 
-      Benefits of this scheme
+      Benefits
         * Receive a deferment on your income tax payments due in May, June and July 2020, to help ease cash flow
         * Income tax deduction to resume in August, September or October 2020
         * The end-date of your instalment plan will be extended by 3 months
@@ -477,7 +477,7 @@ accordion4:
         * For HDB households with a monthly gross household income ≤ $1,900 or per capita income ≤ $650, and has at least one family member who is Singaporean
         * You should not be an existing Home Access beneficiary or an existing NEU PC Plus beneficiary with broadband connectivity
 
-      Benefits of this scheme
+      Benefits
       * Receive 2 years of subsidised fibre broadband connectivity, with an option to bundle with a tablet or smartphone
 
       [Apply online](https://eservice.imda.gov.sg/neupc/singpasslogin.action?src=das&strParam=login&notprotected=true){:target="_blank"} or [download the application form](https://www.imda.gov.sg/-/media/Imda/Files/Programme/Home-Access/HA30-Application-Form.pdf){:target="_blank"}, complete it and mail to:<br>
@@ -497,7 +497,7 @@ accordion4:
         * A self-employed person (SEP) whose income has been adversely affected due to COVID-19 related job or event cancellations, or 
         * Retrenched with retrenchment benefits of not more than $6,500  
 
-      Benefits of this scheme
+      Benefits
         * A one-off cash relief of up to $300
         * Pay-out quantum of between $50 to $300 per applicant varies depending on eligibility criteria.
 
@@ -519,7 +519,7 @@ accordion4:
       Eligibility
         * For all Singaporeans who are 25 years and above by 31 December 2020
 
-      Benefits of this scheme
+      Benefits
         * One-time $500 credit top-up
         * Eligible citizens will receive the top-up in their SkillsFuture Credit accounts on **1 October 2020**
         
@@ -537,7 +537,7 @@ accordion4:
         * Prior household income of $3,900, or per capita household income of $1,350
         * ComCare clients may apply
 
-      Benefits of this scheme
+      Benefits
         * One-time lump sum of up to $1,000 (depending on the household's per capita income after being affected by COVID-19), credited into bank account
 
       Download the [Courage Fund application form](https://www.msf.gov.sg/assistance/Documents/TCF%20Scheme-E-application-fund.pdf){:target="_blank:} and submit it to any of the 24 SSOs. Form is also available at any SSO. Please bring along supporting documents. Applications should be made **within 6 months from the end of the QO, LOA or SHN or discharge from hospitalisation due to COVID-19 (whichever is later)**.
@@ -550,7 +550,7 @@ accordion5:
       Eligibility
       * For all Singaporeans who are 40 to 60 years old by 31 December 2020
 
-      Benefits of this scheme
+      Benefits
       * One-time $500 credit top-up
       * Eligible citizens will receive the top-up in their SkillsFuture Credit accounts on **1 October 2020**
       
@@ -565,7 +565,7 @@ accordion5:
       Eligibility
       + For artists who wish to upskill and grow capabilities through training programmes during this COVID-19 period. For training programmes that take place from 16 March 2020 to 31 December 2020.
 
-      Benefits of this scheme
+      Benefits
       * Up to 90% of programme fees, including training allowance of $10/hour.
 
       Email the completed forms and supporting documents to cdsa@nac.gov.sg **by 31 July 2020, 5pm**.
@@ -577,7 +577,7 @@ accordion5:
       Eligibility
         * For all eligible HDB households. Eligible larger households with 5 or more members will receive additional rebate.
 
-      Benefits of this scheme
+      Benefits
         * 2 times or 2.5 times their regular GST Voucher
         * Eligible households will receive their regular GSTV – U-Save for FY2020 over four quarters: in April 2020, July 2020, October 2020 and January 2021
         * Rebates will be credited to the eligible households’ utilities account to directly offset their utilities bills
@@ -593,7 +593,7 @@ accordion5:
       Eligibility
         * For all Singaporean employees and self-employed persons who received Workfare Income Supplement (WIS) payments in Work Year 2019
 
-      Benefits of this scheme
+      Benefits
         * Eligible Singaporeans will receive $3,000. You can expect to receive your WSP in two payments - $1,500 in July 2020 and $1,500 in October 2020
         * The WSP will be given to eligible Singaporeans in the same way they receive their WIS payments – direct crediting into their bank account, or cheque sent to their NRIC address
 
@@ -608,7 +608,7 @@ accordion5:
       Eligibility
         * For all eligible Singaporean households living in HDB flats
 
-      Benefits of this scheme
+      Benefits
         * Between 1.5 and 3.5 months of S&CC over FY2020
         * Eligible households will receive their S&CC Rebate over four quarters: in April 2020, July 2020, October 2020 and January 2021
         * The rebate will be used to directly offset your S&CC bills of the corresponding month
@@ -624,7 +624,7 @@ accordion5:
       Eligibility
         * For Self-Employed Persons (SEPs) who are to file their personal income tax (PIT) returns for YA2020 by 18 April 2020
 
-      Benefits of this scheme
+      Benefits
         * SEPs will be granted an automatic three-month deferment of their PIT payments due in the months of May, June, and July 2020
         * The PIT payments deferred from May, June, and July 2020 will instead be collected in August, September, and October 2020 respectively
 
@@ -638,7 +638,7 @@ accordion5:
         * For artists and arts organisations who wish to present work in digital form or via digital medium during this COVID-19 period
         * Projects should be completed by 31 December 2020.
 
-      Benefits of this scheme
+      Benefits
         * Up to $20,000 per project for successful applications
 
       [Apply online](https://form.gov.sg/#!/5e93e176bf77f00011b13843){:target="_blank"} **by 31 July 2020, 5pm**.
@@ -652,7 +652,7 @@ accordion5:
         * For HDB households with a monthly gross household income ≤ $1,900 or per capita income ≤ $650, and has at least one family member who is Singaporean
         * You should not be an existing Home Access beneficiary or an existing NEU PC Plus beneficiary with broadband connectivity
 
-      Benefits of this scheme
+      Benefits
       * Receive 2 years of subsidised fibre broadband connectivity, with an option to bundle with a tablet or smartphone
 
       [Apply online](https://eservice.imda.gov.sg/neupc/singpasslogin.action?src=das&strParam=login&notprotected=true){:target="_blank"} or [download the application form](https://www.imda.gov.sg/-/media/Imda/Files/Programme/Home-Access/HA30-Application-Form.pdf){:target="_blank"}, complete it and mail to:<br>
@@ -672,7 +672,7 @@ accordion5:
         * A self-employed person (SEP) whose income has been adversely affected due to COVID-19 related job or event cancellations, or 
         * Retrenched with retrenchment benefits of not more than $6,500  
 
-      Benefits of this scheme
+      Benefits
         * A one-off cash relief of up to $300
         * Pay-out quantum of between $50 to $300 per applicant varies depending on eligibility criteria.
 
@@ -694,7 +694,7 @@ accordion5:
       Eligibility
         * For Self-Employed Singaporeans and Permanent Residents to supplement their income through skills upgrading and training
 
-      Benefits of this scheme
+      Benefits
         * For courses that commence between 1 April and 30 April 2020, SEPs will receive a training allowance of $7.50 per hour
         * For courses that commence between 1 May and 31 December 2020, SEPs will receive an enhanced training allowance of $10 per hour
 
@@ -717,7 +717,7 @@ accordion5:
       * Declared positive Net Trade Income to the Inland Revenue Authority of Singapore (IRAS) / CPF Board (CPFB) for Work Year 2018 
       * Individuals who marginally missed one of the eligibility criteria and are facing difficult circumstances, you can now submit an application to NTUC for consideration
 
-      Benefits of this scheme
+      Benefits
         * Receive three quarterly cash payouts of $3,000 in end-May, July and Oct 2020
       
       For eligible applicants, you will **automatically receive SIRS payout** - there is no need to submit an application.
@@ -733,7 +733,7 @@ accordion5:
       Eligibility
         * For Singapore-based motion picture freelancers who are registered members of SAMPP, and whose livelihoods have been severely affected by the coronavirus pandemic.
 
-      Benefits of this scheme
+      Benefits
         * Between $300 to $500, based on the assessment of individual needs.
 
       [Apply online](https://forms.gle/Uw621e7GJvNEoBXm6){:target="_blank"} **by 31 December 2020**.
@@ -745,7 +745,7 @@ accordion5:
       Eligibility
         * For all Singaporeans who are 25 years and above by 31 December 2020
 
-      Benefits of this scheme
+      Benefits
         * One-time $500 credit top-up
         * Eligible citizens will receive the top-up in their SkillsFuture Credit accounts on **1 October 2020**
         
@@ -764,7 +764,7 @@ The government has committed close to 100 billion dollars to stabilise the econo
 
 Those in need may also consider pre-existing support schemes which offer additional support ranging from housing and medical to employment.
 
-Find out what you are eligible for, learn about payout amount, and where you can apply.
+Find out what you are eligible for, learn about the benefits, and where you can apply.
 
 ### Jump to Section
 
