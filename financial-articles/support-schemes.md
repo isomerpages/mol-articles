@@ -53,10 +53,11 @@ accordion:
       [Find out more](https://www.msf.gov.sg/Comcare/Pages/Short-to-Medium-Term-Assistance.aspx){:target="_blank"}<br>
       Call: ComCare Hotline @ 1800-222-0000
 
-  - title: MOE Financial Assistance Scheme
+  - title: MOE Financial Assistance Scheme (FAS)
     content: |
       Eligibility:
-        * For Singaporeans whose child is in a government or government-aided school, autonomous government or government-aided school or specialised school. Gross Household Income (GHI) not exceeding $2,750 per month OR Per Capita Income (PCI) not exceeding $690 per month
+        * For Singaporeans with Singapore Citizen children enrolled in a Government or Government-aided school
+        * Gross monthly household income of $2,750 and below or per capita income $690 and below at the time of application
 
       Benefits
         * Receive full waiver of school fees
@@ -65,10 +66,9 @@ accordion:
         * School meal subsidy of $2.90 per meal for 10 meals per school week
         * Public transport eVoucher of $15 per month
 
-      [Apply online](https://www.reddit.com/){:target="_blank"} from **4 May 2020 to 30 September 2020**, between **9am to 6pm**. Alternatively, schedule an application slot at your nearest Social Service Office.
+      To apply, please [complete this application form](https://www.moe.gov.sg/docs/default-source/document/initiatives/financial-assistance/files/moe-fas-application-form.pdf){:target="_blank"} with the relevant supporting documents and submit it to your child's school.
 
-      [Find out more here](https://www.moe.gov.sg/){:target="_blank"}.<br>
-      Call:  <br>
+      [Find out more](https://beta.moe.gov.sg/fees-assistance-awards-scholarships/financial-assistance/){:target="_blank"}
 
   - title: HDB Financial Assistance Measures
     content: | 
