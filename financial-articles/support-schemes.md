@@ -54,37 +54,20 @@ accordion:
 
       [Find out more](https://www.msf.gov.sg/Comcare/Pages/Short-to-Medium-Term-Assistance.aspx){:target="_blank"}<br>
       Call: ComCare Hotline @ <a href="tel:1800-222-0000">1800-222-0000</a>
-
-  - title: Kindergarten Fee Assistance Scheme (KiFAS)
+      
+      - title: HDB Bedroom Subletting
     content: |
       Eligibility
-        * For parents with Singapore Citizen children enrolled in enrolled in an Anchor Operator (AOP) or Ministry of Education (MOE) kindergarten to defray kindergarten fees
-        * Gross monthly household income of $12,000 and below or per capita income of $3,000 and below for larger families with 5 or more members (with at least 3 dependants who are not earning an income)
+        * Only bedrooms from HDB flats that are **3-room or larger** can be rented out
+        * Maximum number of bedrooms that flat owners can rent out and the maximum number of occupants allowed in each flat depends on the flat type - 1 bedroom for 3-room, 2 bedrooms for 4-room and bigger
 
       Benefits
-        * Ranges from $21 - $170
-        * Lower-income families will receive more financial assistance
+        * Monetary amount depending on market rate and agreed terms between landlord and tenant
 
-      To apply, please [download this application form](https://www.ecda.gov.sg/Documents/Subsidies_Financial%20Assistance/KiFAS%20Application%20Forms.zip){:target="_blank"}. Submit the completed form with all relevant supporting documents directly to ECDA through your child's kindergarten.
-      
-      [Find out more](https://www.ecda.gov.sg/Pages/Subsidies-and-Financial-Assistance.aspx#KIFAS){:target="_blank"}<br>
+      [Apply online](https://services2.hdb.gov.sg/webapp/SX05AWSPCP/SX05PSPCPLogin.jsp) through the MyHDBPage. Prior approval from HDB is required. An administrative fee is payable with each application, at **$10 per bedroom**.
 
-  - title: MOE Financial Assistance Scheme (FAS)
-    content: |
-      Eligibility
-        * For Singaporeans with Singapore Citizen children enrolled in a Government or Government-aided school
-        * Gross monthly household income of $2,750 and below or per capita income $690 and below at the time of application
-
-      Benefits (vary depending on academic level)
-        * Subsidies for school fees and standard miscellaneous fees
-        * Free textbooks and school attire (Primary and Secondary)
-        * School meal subsidy(Primary and Secondary)
-        * Transport subsidy
-        * Bursary (Pre-U)
-
-      To apply, please [download this application form](https://beta.moe.gov.sg/uploads/MOE-FAS-Application-Form.pdf){:target="_blank"} or collect a copy at your child's school. Submit the completed form with all relevant supporting documents directly to the school.
-
-      [Find out more](https://beta.moe.gov.sg/fees-assistance-awards-scholarships/financial-assistance/){:target="_blank"} Alternatively, please approach your child's school to learn more on MOE FAS, or other school-based financial assistance.
+      [Find out more](https://www.hdb.gov.sg/cs/infoweb/residential/renting-out-a-flat-room/renting-out-your-room){:target="_blank"}<br>
+      Call: 1800-225-5432
 
   - title: HDB Financial Assistance Measures (FAM)
     content: | 
@@ -101,21 +84,37 @@ accordion:
       Please approach any HDB Branch, or call the toll-free Branch Service Line @ <a href="tel:1800-225-5432">1800-225-5432</a>.
 
       [Find out more](https://www.hdb.gov.sg/cs/infoweb/residential/servicing-your-hdb-loan/mortgage-loan/assistance-measures){:target="_blank"}<br>
-
-  - title: Subletting HDB Bedrooms
+      
+       - title: MOE Financial Assistance Scheme (FAS)
     content: |
       Eligibility
-        * Only bedrooms from HDB flats that are **3-room or larger** can be rented out
-        * Maximum number of bedrooms that flat owners can rent out and the maximum number of occupants allowed in each flat depends on the flat type - 1 bedroom for 3-room, 2 bedrooms for 4-room and bigger
+        * For Singaporeans with Singapore Citizen children enrolled in a Government or Government-aided school
+        * Gross monthly household income of $2,750 and below or per capita income $690 and below at the time of application
+
+      Benefits (vary depending on academic level)
+        * Subsidies for school fees and standard miscellaneous fees
+        * Free textbooks and school attire (Primary and Secondary)
+        * School meal subsidy(Primary and Secondary)
+        * Transport subsidy
+        * Bursary (Pre-U)
+
+      To apply, please [download this application form](https://beta.moe.gov.sg/uploads/MOE-FAS-Application-Form.pdf){:target="_blank"} or collect a copy at your child's school. Submit the completed form with all relevant supporting documents directly to the school.
+
+      [Find out more](https://beta.moe.gov.sg/fees-assistance-awards-scholarships/financial-assistance/){:target="_blank"} Alternatively, please approach your child's school to learn more on MOE FAS, or other school-based financial assistance.
+      
+      - title: Kindergarten Fee Assistance Scheme (KiFAS)
+    content: |
+      Eligibility
+        * For parents with Singapore Citizen children enrolled in enrolled in an Anchor Operator (AOP) or Ministry of Education (MOE) kindergarten to defray kindergarten fees
+        * Gross monthly household income of $12,000 and below or per capita income of $3,000 and below for larger families with 5 or more members (with at least 3 dependants who are not earning an income)
 
       Benefits
-        * Monetary amount depending on market rate and agreed terms between landlord and tenant
+        * Ranges from $21 - $170
+        * Lower-income families will receive more financial assistance
 
-      [Apply online](https://services2.hdb.gov.sg/webapp/SX05AWSPCP/SX05PSPCPLogin.jsp) through the MyHDBPage. Prior approval from HDB is required. An administrative fee is payable with each application, at **$10 per bedroom**.
-
-      [Find out more](https://www.hdb.gov.sg/cs/infoweb/residential/renting-out-a-flat-room/renting-out-your-room){:target="_blank"}<br>
-      Call: 1800-225-5432<br>
-      Download the Mobile@HDB app [here](https://www.hdb.gov.sg/cs/infoweb/mobile-hdb){:target="_blank"} to access our e-services on the go.
+      To apply, please [download this application form](https://www.ecda.gov.sg/Documents/Subsidies_Financial%20Assistance/KiFAS%20Application%20Forms.zip){:target="_blank"}. Submit the completed form with all relevant supporting documents directly to ECDA through your child's kindergarten.
+      
+      [Find out more](https://www.ecda.gov.sg/Pages/Subsidies-and-Financial-Assistance.aspx#KIFAS){:target="_blank"}<br>
 
 accordion2:
   - title: Additional SkillsFuture Credit (Mid-Career Support)
