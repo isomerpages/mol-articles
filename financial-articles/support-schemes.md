@@ -98,7 +98,7 @@ accordion:
       * Deferring the payment of the loan instalments for an initial period of 6 months
       * Allowing more working family members to become co-owners of the flat
 
-      Approach any HDB Branch, or call the toll-free Branch Service Line @ <a href="tel:1800-225-5432">1800-225-5432</a>.
+      Please approach any HDB Branch, or call the toll-free Branch Service Line @ <a href="tel:1800-225-5432">1800-225-5432</a>.
 
       [Find out more](https://www.hdb.gov.sg/cs/infoweb/residential/servicing-your-hdb-loan/mortgage-loan/assistance-measures){:target="_blank"}<br>
 
