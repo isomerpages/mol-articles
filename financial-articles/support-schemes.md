@@ -13,7 +13,7 @@ accordion:
       Benefits 
         * Each eligible child will receive a one-time disbursement of $250 NTUC FairPrice vouchers
 
-      To apply, please [download this application form]https://www.ntuc.org.sg/wps/wcm/connect/446508c0-594b-42cf-b3ed-13ed83886d13/CAP%2BUre+Fund+-+Application+Form_Revised+%28January%29.pdf?MOD=AJPERES){:target="_blank"}. Submit the completed form with all relevant supporting documents directly through your union.
+      To apply, please [download this application form](https://www.ntuc.org.sg/wps/wcm/connect/446508c0-594b-42cf-b3ed-13ed83886d13/CAP%2BUre+Fund+-+Application+Form_Revised+%28January%29.pdf?MOD=AJPERES){:target="_blank"}. Submit the completed form with all relevant supporting documents directly through your union.
 
       [Find out more](https://ntuc.org.sg/wps/portal/up2/home/aboutntuc/ucare/ucareprogrammes){:target="_blank"}<br>
 
@@ -86,7 +86,6 @@ accordion:
       Apply by approaching any HDB Branch, or call the toll-free Branch Service Line at <a href="tel:1800-225-5432">1800-225-5432</a>.
 
       [Find out more](https://www.hdb.gov.sg/cs/infoweb/residential/servicing-your-hdb-loan/mortgage-loan/assistance-measures){:target="_blank"}<br/>
-      Call: <a href="tel:1800-225-5432">1800-225-5432</a><br/>
 
   - title: Kindergarten Fee Assistance Scheme (KiFAS)
     content: |
