@@ -17,22 +17,6 @@ accordion:
 
       [Find out more](https://ntuc.org.sg/wps/portal/up2/home/aboutntuc/ucare/ucareprogrammes){:target="_blank"}<br>
 
-  - title: Community Health Assist Scheme (CHAS)
-    content: |
-      Eligibility
-        * All Singaporeans are eligible for CHAS to receive healthcare subsidies for medical and dental care at participating General Practitioner (GP) and dental clinics near their home.
-
-      Benefits
-        * The [CHAS benefits](https://www.chas.sg/content.aspx?id=636){:target="_blank"} you will receive are tiered according to household monthly income per person or the Annual Value (AV) of the home.
-        * The amount that you pay will be based on the fees charged by the clinic, minus the CHAS subsidies. You may wish to check with CHAS clinics on their fees before receiving treatment at each visit
-
-      While every Singapore Citizen is eligible for CHAS, the enrolment onto CHAS is still on an application basis.
-      
-      [Apply online](https://chas.moh.gov.sg/Home/Welcome){:target="_blank"} ([Online application user guide](https://www-moh-gov-sg-admin.cwp.sg/docs/librariesprovider5/default-document-library/chas-eservice-user-guide.pdf){:target="_blank"})
-     
-      [Find out more](https://www.chas.sg/content.aspx?id=306){:target="_blank"}<br>
-      Call: <a href="tel:1800-275-2427">1800-275-2427</a> (<a href="tel:1800-275-2427">1800-ASK-CHAS</a>), Monday to Friday from 8.30am to 6.00pm (excluding Public Holidays)<br>
-
   - title: ComCare Short to Medium Term Assistance
     content: |
       Eligibility
@@ -54,6 +38,22 @@ accordion:
 
       [Find out more](https://www.msf.gov.sg/Comcare/Pages/Short-to-Medium-Term-Assistance.aspx){:target="_blank"}<br>
       Call: ComCare Hotline @ <a href="tel:1800-222-0000">1800-222-0000</a>
+      
+      - title: Community Health Assist Scheme (CHAS)
+    content: |
+      Eligibility
+        * All Singaporeans are eligible for CHAS to receive healthcare subsidies for medical and dental care at participating General Practitioner (GP) and dental clinics near their home.
+
+      Benefits
+        * The [CHAS benefits](https://www.chas.sg/content.aspx?id=636){:target="_blank"} you will receive are tiered according to household monthly income per person or the Annual Value (AV) of the home.
+        * The amount that you pay will be based on the fees charged by the clinic, minus the CHAS subsidies. You may wish to check with CHAS clinics on their fees before receiving treatment at each visit
+
+      While every Singapore Citizen is eligible for CHAS, the enrolment onto CHAS is still on an application basis.
+      
+      [Apply online](https://chas.moh.gov.sg/Home/Welcome){:target="_blank"} ([Online application user guide](https://www-moh-gov-sg-admin.cwp.sg/docs/librariesprovider5/default-document-library/chas-eservice-user-guide.pdf){:target="_blank"})
+     
+      [Find out more](https://www.chas.sg/content.aspx?id=306){:target="_blank"}<br>
+      Call: <a href="tel:1800-275-2427">1800-275-2427</a> (<a href="tel:1800-275-2427">1800-ASK-CHAS</a>), Monday to Friday from 8.30am to 6.00pm (excluding Public Holidays)<br>
       
       - title: HDB Bedroom Subletting
     content: |
