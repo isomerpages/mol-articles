@@ -130,8 +130,7 @@ accordion2:
       **This is an auto-inclusion scheme - no application is required.** You may login to your SkillsFuture Credit account at MySkillsFuture after 1 October 2020 to check your SkillsFuture Credit balance.
 
       [Find out more](https://www.skillsfuture.sg/credit){:target="_blank"}<br>
-      Call: <a href="tel:6785 5785">6785 5785</a><br>
-      Submit your feedback [here](ssg.gov.sg/feedback){:target="_blank"}
+      Call: <a href="tel:6785 5785">6785 5785</a>
       
   - title: Care and Support Package Additional GST Voucher - U-Save Special Payment
     content: |
@@ -281,8 +280,7 @@ accordion3:
       **This is an auto-inclusion scheme - no application is required.** You may login to your SkillsFuture Credit account at MySkillsFuture after 1 October 2020 to check your SkillsFuture Credit balance.
 
       [Find out more](https://www.skillsfuture.sg/credit){:target="_blank"}.<br>
-      Call: <a href="tel:6785 5785">6785 5785</a><br>
-      Submit your feedback [here](ssg.gov.sg/feedback){:target="_blank"}.
+      Call: <a href="tel:6785 5785">6785 5785</a>
       
   - title: Care and Support Package Additional GST Voucher - U-Save Special Payment
     content: |
@@ -406,8 +404,7 @@ accordion4:
       **This is an auto-inclusion scheme - no application is required.** You may login to your SkillsFuture Credit account at MySkillsFuture after 1 October 2020 to check your SkillsFuture Credit balance.
 
       [Find out more](https://www.skillsfuture.sg/credit){:target="_blank"}.<br>
-      Call: <a href="tel:6785 5785">6785 5785</a><br>
-      Submit your feedback [here](ssg.gov.sg/feedback){:target="_blank"}.
+      Call: <a href="tel:6785 5785">6785 5785</a>
       
   - title: Care and Support Package Additional GST Voucher - U-Save Special Payment
     content: |
@@ -559,8 +556,7 @@ accordion5:
       **This is an auto-inclusion scheme - no application is required.** You may login to your SkillsFuture Credit account at MySkillsFuture after 1 October 2020 to check your SkillsFuture Credit balance.
 
       [Find out more](https://www.skillsfuture.sg/credit){:target="_blank"}.<br>
-      Call: <a href="tel:6785 5785">6785 5785</a><br>
-      Submit your feedback [here](ssg.gov.sg/feedback){:target="_blank"}.
+      Call: <a href="tel:6785 5785">6785 5785</a>
 
   - title: Capability Development Scheme for the Arts (CDSA)
     content: |
@@ -812,3 +808,4 @@ Please contact the respective government agencies if you have any questions abou
 Last updated: 22 June 2020
  
 [Back to top](#top)
+
