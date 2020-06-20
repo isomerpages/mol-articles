@@ -143,7 +143,7 @@ accordion2:
       **This is an auto-inclusion scheme - no application is required.**
 
       [Find out more](www.gstvoucher.gov.sg/pages/u-save.aspx){:target="_blank"}<br>
-      Call: 6671 7117<br>
+      Call: <a href="tel:6671 7117">6671 7117</a><br>
       Email: customersupport@spgroup.com.sg
 
   - title: Care and Support Package Service & Conservancy Charges (S&CC) Rebate
@@ -159,7 +159,7 @@ accordion2:
       **This is an auto-inclusion scheme - no application is required.**
 
       [Find out more](https://www.singaporebudget.gov.sg/budget_2020/budget-measures/care-and-support-package){:target="_blank}<br>
-      Call: 1800-866-3078<br>
+      Call: <a href="tel:1800-866-3078">1800-866-3078</a><br>
       Email: sccrebates@mailbox.hdb.gov.sg
 
   - title: COVID-19 Support Grant
@@ -175,7 +175,7 @@ accordion2:
       [Apply online](https://go.gov.sg/csg){:target="_blank"} from **4 May 2020 to 30 September 2020 (9am to 6pm daily)**. Supporting documents are required. Alternatively, make an appointment with your nearest [Social Service Office](go.gov.sg/ssolocator){:target="_blank"} if you are unable to apply online.
 
       [Find out more](https://www.msf.gov.sg/assistance/Pages/covid19relief.aspx#CSG){:target="_blank"}<br>
-      Call 1800-222-0000 if you need help filling in the online application form.<br>
+      Call <a href="tel:1800-222-0000">1800-222-0000</a> if you need help filling in the online application form.<br>
       Email: ask_sso@msf.gov.sg
     
   - title: Defer Tax Payment for Individual Income Tax (For non-self employed)
@@ -234,7 +234,7 @@ accordion2:
       Generally refer to NTUC union members who work in a company that is not unionised under any of NTUC's affiliated unions and associations. Please download the application form ([English](https://www.ntuc.org.sg/wps/wcm/connect/cb95b76d-eca7-469d-92d8-d1a69d10398f/NTUC+Care+Fund+%28COVID-19%29+-+Application+Form+%28for+GB+members%29.pdf?MOD=AJPERES){:target="_blank"} | [Chinese](https://www.ntuc.org.sg/wps/wcm/connect/96b34778-5b00-42dc-b247-c9a96d1e85e3/NTUC+Care+Fund+%28COVID-19%29+-+Application+Form+for+GB+Members+%28Chinese%29.pdf?MOD=AJPERES){:target="_blank"}). Submission instructions ([English](https://www.ntuc.org.sg/wps/wcm/connect/a48d8ce4-c8e8-42d4-aad4-a016a0a8c213/Instructions+to+apply_Infographic.jpg?MOD=AJPERES){:target="_blank"} | [Chinese](https://www.ntuc.org.sg/wps/wcm/connect/5aeba62d-a563-4004-8ec4-34ee475cfc49/Infographics+%28Chinese%29.jpg?MOD=AJPERES){:target="_blank"})
 
       [Find out more](https://www.ntuc.org.sg/wps/portal/up2/home/aboutntuc/ucare/ucarefund/details?WCM_GLOBAL_CONTEXT=/content_library/ntuc/home/areas+of+interest/care+and+share/u+care+fund/de4345d3-f51f-408c-9963-0d7055c9ab25){:target="_blank"}<br>
-      Call: 6213 8008<br>
+      Call: <a href="tel:6213 8008">6213 8008</a><br>
 
   - title: SkillsFuture Credit Top-Up
     content: |
@@ -248,7 +248,7 @@ accordion2:
         **This is an auto-inclusion scheme - no application is required.** You may login to your SkillsFuture Credit account at MySkillsFuture after 1 October 2020 to check your SkillsFuture Credit balance.
 
       [Find out more](https://www.skillsfuture.sg/credit){:target="_blank"}<br>
-      Call: 6785 5785<br>
+      Call: <a href="tel:6785 5785">6785 5785</a><br>
       Submit your feedback [here](ssg.gov.sg/feedback){:target="_blank"}
 
   - title: The Courage Fund
@@ -279,7 +279,7 @@ accordion3:
       **This is an auto-inclusion scheme - no application is required.** You may login to your SkillsFuture Credit account at MySkillsFuture after 1 October 2020 to check your SkillsFuture Credit balance.
 
       [Find out more](https://www.skillsfuture.sg/credit){:target="_blank"}.<br>
-      Call: 6785 5785<br>
+      Call: <a href="tel:6785 5785">6785 5785</a><br>
       Submit your feedback [here](ssg.gov.sg/feedback){:target="_blank"}.
       
   - title: Care and Support Package Additional GST Voucher - U-Save Special Payment
@@ -295,7 +295,7 @@ accordion3:
       **This is an auto-inclusion scheme - no application is required.**
 
       [Find out more](www.gstvoucher.gov.sg/pages/u-save.aspx){:target="_blank"}.<br>
-      Call: 6671 7117<br>
+      Call: <a href="tel:6671 7117">6671 7117</a><br>
       Email: customersupport@spgroup.com.sg
 
   - title: Care and Support Package Enhanced Workfare Special Payment (WSP)
@@ -310,7 +310,7 @@ accordion3:
       **This is an auto-inclusion scheme - no application is required.**
 
       [Find out more](https://www.singaporebudget.gov.sg/budget_2020/budget-measures/care-and-support-package){:target="_blank"}<br>
-      Call: 1800-227-1188<br>
+      Call: <a href="tel:1800-227-1188">1800-227-1188</a><br>
       Submit your enquiry [here](www.cpf.gov.sg/writetous){:target="_blank"}.
 
   - title: Care and Support Package Service & Conservancy Charges (S&CC) Rebate
@@ -326,7 +326,8 @@ accordion3:
       **This is an auto-inclusion scheme - no application is required.**
 
       [Find out more](https://www.singaporebudget.gov.sg/budget_2020/budget-measures/care-and-support-package){:target="_blank}<br>
-      Call: 1800-866-3078<br>
+      Call: <a href="tel:1800-866-3078">1800-866-3078</a><br>
+
       Email: sccrebates@mailbox.hdb.gov.sg
     
   - title: Defer Tax Payment for Individual Income Tax (For non-self employed)
@@ -373,7 +374,7 @@ accordion3:
         **This is an auto-inclusion scheme - no application is required.** You may login to your SkillsFuture Credit account at MySkillsFuture after 1 October 2020 to check your SkillsFuture Credit balance.
 
       [Find out more](https://www.skillsfuture.sg/credit){:target="_blank"}<br>
-      Call: 6785 5785<br>
+      Call: <a href="tel:6785 5785">6785 5785</a><br>
       Submit your feedback [here](ssg.gov.sg/feedback){:target="_blank"}
 
   - title: The Courage Fund
@@ -404,7 +405,7 @@ accordion4:
       **This is an auto-inclusion scheme - no application is required.** You may login to your SkillsFuture Credit account at MySkillsFuture after 1 October 2020 to check your SkillsFuture Credit balance.
 
       [Find out more](https://www.skillsfuture.sg/credit){:target="_blank"}.<br>
-      Call: 6785 5785<br>
+      Call: <a href="tel:6785 5785">6785 5785</a><br>
       Submit your feedback [here](ssg.gov.sg/feedback){:target="_blank"}.
       
   - title: Care and Support Package Additional GST Voucher - U-Save Special Payment
@@ -420,7 +421,7 @@ accordion4:
       **This is an auto-inclusion scheme - no application is required.**
 
       [Find out more](www.gstvoucher.gov.sg/pages/u-save.aspx){:target="_blank"}.<br>
-      Call: 6671 7117<br>
+      Call: <a href="tel:6671 7117">6671 7117</a><br>
       Email: customersupport@spgroup.com.sg
 
   - title: Care and Support Package Service & Conservancy Charges (S&CC) Rebate
@@ -436,7 +437,7 @@ accordion4:
       **This is an auto-inclusion scheme - no application is required.**
 
       [Find out more](https://www.singaporebudget.gov.sg/budget_2020/budget-measures/care-and-support-package){:target="_blank}<br>
-      Call: 1800-866-3078<br>
+      Call: <a href="tel:1800-866-3078">1800-866-3078</a><br>
       Email: sccrebates@mailbox.hdb.gov.sg
 
   - title: COVID-19 Support Grant
@@ -452,7 +453,7 @@ accordion4:
       [Apply online](https://go.gov.sg/csg){:target="_blank"} from **4 May 2020 to 30 September 2020 (9am to 6pm daily)**. Supporting documents are required. Alternatively, make an appointment with your nearest [Social Service Office](go.gov.sg/ssolocator){:target="_blank"} if you are unable to apply online.
 
       [Find out more](https://www.msf.gov.sg/assistance/Pages/covid19relief.aspx#CSG){:target="_blank"}<br>
-      Call 1800-222-0000 if you need help filling in the online application form.<br>
+      Call <a href="tel:1800-222-0000">1800-222-0000</a> if you need help filling in the online application form.<br>
       Email: ask_sso@msf.gov.sg
     
   - title: Defer Tax Payment for Individual Income Tax (For non-self employed)
@@ -511,7 +512,7 @@ accordion4:
       Generally refer to NTUC union members who work in a company that is not unionised under any of NTUC's affiliated unions and associations. Please download the application form ([English](https://www.ntuc.org.sg/wps/wcm/connect/cb95b76d-eca7-469d-92d8-d1a69d10398f/NTUC+Care+Fund+%28COVID-19%29+-+Application+Form+%28for+GB+members%29.pdf?MOD=AJPERES){:target="_blank"} | [Chinese](https://www.ntuc.org.sg/wps/wcm/connect/96b34778-5b00-42dc-b247-c9a96d1e85e3/NTUC+Care+Fund+%28COVID-19%29+-+Application+Form+for+GB+Members+%28Chinese%29.pdf?MOD=AJPERES){:target="_blank"}). Submission instructions ([English](https://www.ntuc.org.sg/wps/wcm/connect/a48d8ce4-c8e8-42d4-aad4-a016a0a8c213/Instructions+to+apply_Infographic.jpg?MOD=AJPERES){:target="_blank"} | [Chinese](https://www.ntuc.org.sg/wps/wcm/connect/5aeba62d-a563-4004-8ec4-34ee475cfc49/Infographics+%28Chinese%29.jpg?MOD=AJPERES){:target="_blank"})
 
       [Find out more](https://www.ntuc.org.sg/wps/portal/up2/home/aboutntuc/ucare/ucarefund/details?WCM_GLOBAL_CONTEXT=/content_library/ntuc/home/areas+of+interest/care+and+share/u+care+fund/de4345d3-f51f-408c-9963-0d7055c9ab25){:target="_blank"}<br>
-      Call: 6213 8008<br>
+      Call: <a href="tel:6213 8008">6213 8008</a><br>
 
   - title: SkillsFuture Credit Top-Up
     content: |
@@ -525,7 +526,7 @@ accordion4:
         **This is an auto-inclusion scheme - no application is required.** You may login to your SkillsFuture Credit account at MySkillsFuture after 1 October 2020 to check your SkillsFuture Credit balance.
 
       [Find out more](https://www.skillsfuture.sg/credit){:target="_blank"}<br>
-      Call: 6785 5785<br>
+      Call: <a href="tel:6785 5785">6785 5785</a><br>
       Submit your feedback [here](ssg.gov.sg/feedback){:target="_blank"}
 
   - title: The Courage Fund
@@ -556,7 +557,7 @@ accordion5:
       **This is an auto-inclusion scheme - no application is required.** You may login to your SkillsFuture Credit account at MySkillsFuture after 1 October 2020 to check your SkillsFuture Credit balance.
 
       [Find out more](https://www.skillsfuture.sg/credit){:target="_blank"}.<br>
-      Call: 6785 5785<br>
+      Call: <a href="tel:6785 5785">6785 5785</a><br>
       Submit your feedback [here](ssg.gov.sg/feedback){:target="_blank"}.
 
   - title: Capability Development Scheme for the Arts (CDSA)
@@ -584,7 +585,7 @@ accordion5:
       **This is an auto-inclusion scheme - no application is required.**
 
       [Find out more](www.gstvoucher.gov.sg/pages/u-save.aspx){:target="_blank"}.<br>
-      Call: 6671 7117<br>
+      Call: <a href="tel:6671 7117">6671 7117</a><br>
       Email: customersupport@spgroup.com.sg
 
   - title: Care and Support Package Enhanced Workfare Special Payment (WSP)
@@ -599,7 +600,7 @@ accordion5:
       **This is an auto-inclusion scheme - no application is required.**
 
       [Find out more](https://www.singaporebudget.gov.sg/budget_2020/budget-measures/care-and-support-package){:target="_blank"}<br>
-      Call: 1800-227-1188<br>
+      Call: <a href="tel:1800-227-1188">1800-227-1188</a><br>
       Submit your enquiry [here](www.cpf.gov.sg/writetous){:target="_blank"}.
 
   - title: Care and Support Package Service & Conservancy Charges (S&CC) Rebate
@@ -615,7 +616,7 @@ accordion5:
       **This is an auto-inclusion scheme - no application is required.**
 
       [Find out more](https://www.singaporebudget.gov.sg/budget_2020/budget-measures/care-and-support-package){:target="_blank}<br>
-      Call: 1800-866-3078<br>
+      Call: <a href="tel:1800-866-3078">1800-866-3078</a><br>
       Email: sccrebates@mailbox.hdb.gov.sg
 
   - title: Deferment of personal income tax (PIT) for SEPs
@@ -686,7 +687,7 @@ accordion5:
       Generally refer to NTUC union members who work in a company that is not unionised under any of NTUC's affiliated unions and associations. Please download the application form ([English](https://www.ntuc.org.sg/wps/wcm/connect/cb95b76d-eca7-469d-92d8-d1a69d10398f/NTUC+Care+Fund+%28COVID-19%29+-+Application+Form+%28for+GB+members%29.pdf?MOD=AJPERES){:target="_blank"} | [Chinese](https://www.ntuc.org.sg/wps/wcm/connect/96b34778-5b00-42dc-b247-c9a96d1e85e3/NTUC+Care+Fund+%28COVID-19%29+-+Application+Form+for+GB+Members+%28Chinese%29.pdf?MOD=AJPERES){:target="_blank"}). Submission instructions ([English](https://www.ntuc.org.sg/wps/wcm/connect/a48d8ce4-c8e8-42d4-aad4-a016a0a8c213/Instructions+to+apply_Infographic.jpg?MOD=AJPERES){:target="_blank"} | [Chinese](https://www.ntuc.org.sg/wps/wcm/connect/5aeba62d-a563-4004-8ec4-34ee475cfc49/Infographics+%28Chinese%29.jpg?MOD=AJPERES){:target="_blank"})
 
       [Find out more](https://www.ntuc.org.sg/wps/portal/up2/home/aboutntuc/ucare/ucarefund/details?WCM_GLOBAL_CONTEXT=/content_library/ntuc/home/areas+of+interest/care+and+share/u+care+fund/de4345d3-f51f-408c-9963-0d7055c9ab25){:target="_blank"}<br>
-      Call: 6213 8008<br>
+      Call: <a href="tel:6213 8008">6213 8008</a><br>
 
   - title: NTUC Training Fund (SEPs)
     content: |
@@ -702,7 +703,7 @@ accordion5:
       Submit your claims within 30 days of course completion [here](https://e2i.com.sg/sep2020-claimform){:target="_blank"}. **All courses must be completed by 31 Dec 2020**.
 
       [Find out more](https://e2i.com.sg/individuals/ntuc-training-fund){:target="_blank"}<br>
-      Call: 6474 0606<br>
+      Call: <a href="tel:6474 0606">6474 0606</a><br>
       Email: SEP2020@e2i.com.sg<br>
       Walk-in queries:<br>
       e2i west Devan Nair Institute for Employment and Employability<br>
@@ -724,7 +725,7 @@ accordion5:
       For appeal applicants, apply online [here](https://www.ntuc.com.sg/sirs/apply-now/){:target="_blank"}. Only applicable for SEPs who **do not automatically qualify and have marginally missed one of the eligibility criteria and are facing difficult circumstances.**
 
       [Find out more](https://www.ntuc.com.sg/sirs/){:target="_blank"}<br>
-      Call: 6713 5777<br>
+      Call: <a href="tel:6713 5777">6713 5777</a><br>
       Email: SIRS@ntuc.org.sg
 
   - title: Singapore Association of Motion Picture Professionals (SAMPP) COVID-19 Relief Fund
@@ -751,7 +752,7 @@ accordion5:
         **This is an auto-inclusion scheme - no application is required.** You may login to your SkillsFuture Credit account at MySkillsFuture after 1 October 2020 to check your SkillsFuture Credit balance.
 
       [Find out more](https://www.skillsfuture.sg/credit){:target="_blank"}<br>
-      Call: 6785 5785<br>
+      Call: <a href="tel:6785 5785">6785 5785</a><br>
       Submit your feedback [here](ssg.gov.sg/feedback){:target="_blank"}
 ---
 
