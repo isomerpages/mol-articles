@@ -26,7 +26,7 @@ accordion:
         * The [CHAS benefits](https://www.chas.sg/content.aspx?id=636){:target="_blank"} you will receive are tiered according to household monthly income per person or the Annual Value (AV) of the home.
         * The amount that you pay will be based on the fees charged by the clinic, minus the CHAS subsidies. You may wish to check with CHAS clinics on their fees before receiving treatment at each visit
 
-      While every Singapore Citizen is eligible for CHAS, the enrolment onto CHAS is still on an application basis.<br>
+      While every Singapore Citizen is eligible for CHAS, the enrolment onto CHAS is still on an application basis.
       [Apply online](https://chas.moh.gov.sg/Home/Welcome){:target="_blank"} ([Online application user guide](https://www-moh-gov-sg-admin.cwp.sg/docs/librariesprovider5/default-document-library/chas-eservice-user-guide.pdf){:target="_blank"})
      
       [Find out more](https://www.chas.sg/content.aspx?id=306){:target="_blank"}<br>
