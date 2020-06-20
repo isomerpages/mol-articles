@@ -51,7 +51,7 @@ accordion:
       Go to your [nearest Social Service Office (SSO)](https://www.msf.gov.sg/dfcs/sso/default.aspx){:target="_blank"} to find out more. Each SSO administers ComCare financial assistance and links applicants up with other forms of assistance they might need, such as family services. The SSO will assess your eligibility for assistance. 
 
       [Find out more](https://www.msf.gov.sg/Comcare/Pages/Short-to-Medium-Term-Assistance.aspx){:target="_blank"}<br>
-      Call: ComCare Hotline @ 1800-222-0000
+      Call: ComCare Hotline @ <a href="tel:1800-222-0000">1800-222-0000</a>
 
   - title: MOE Financial Assistance Scheme (FAS)
     content: |
