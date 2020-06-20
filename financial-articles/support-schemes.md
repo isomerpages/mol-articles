@@ -87,7 +87,7 @@ accordion:
   - title: Kindergarten Fee Assistance Scheme (KiFAS)
     content: |
       Eligibility
-        * For parents with Singapore Citizen children enrolled in enrolled in an Anchor Operator (AOP) or Ministry of Edcuation (MOE) kindergarten to defray kindergarten fees
+        * For parents with Singapore Citizen children enrolled in enrolled in an Anchor Operator (AOP) or Ministry of Education (MOE) kindergarten to defray kindergarten fees
         * Gross monthly household income of $12,000 and below or per capita income of $3,000 and below for larger families with 5 or more members (with at least 3 dependants who are not earning an income)
 
       Benefits
