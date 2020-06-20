@@ -91,7 +91,6 @@ accordion:
       Eligibility
         * For home owners facing dificulties repaying their housing loans
 
-      Benefits<br>
       If you find yourself in financial hardship, these options may be available to you:
       * Paying the housing loan arrears by instalments within a reasonable period
       * Lowering the monthly instalment amount by extending the housing loan term up to the maximum repayment period
