@@ -23,10 +23,10 @@ accordion:
         * All Singaporeans are eligible for CHAS to receive healthcare subsidies for medical and dental care at participating General Practitioner (GP) and dental clinics near their home.
 
       Benefits
-        * The CHAS benefits you will receive are tiered according to household monthly income per person or the Annual Value (AV) of the home. Refer here for [CHAS subsidies](https://www.chas.sg/content.aspx?id=636){:target="_blank"}
+        * The [CHAS benefits](https://www.chas.sg/content.aspx?id=636){:target="_blank"} you will receive are tiered according to household monthly income per person or the Annual Value (AV) of the home.
         * The amount that you pay will be based on the fees charged by the clinic, minus the CHAS subsidies. You may wish to check with CHAS clinics on their fees before receiving treatment at each visit
 
-      [Apply online](https://chas.moh.gov.sg/Home/Welcome){:target="_blank"} Refer to the CHAS online application[user guide](https://www-moh-gov-sg-admin.cwp.sg/docs/librariesprovider5/default-document-library/chas-eservice-user-guide.pdf){:target="_blank"}.
+      [Apply online](https://chas.moh.gov.sg/Home/Welcome){:target="_blank"}(CHAS online application[user guide](https://www-moh-gov-sg-admin.cwp.sg/docs/librariesprovider5/default-document-library/chas-eservice-user-guide.pdf){:target="_blank"})
 
       [Find out more](https://www.chas.sg/content.aspx?id=306){:target="_blank"}<br>
       Call: 1800-275-2427 (1800-ASK-CHAS), Monday to Friday from 8.30am to 6.00pm (excluding Public Holidays)<br>
