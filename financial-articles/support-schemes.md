@@ -53,7 +53,7 @@ accordion:
       [Find out more](https://www.msf.gov.sg/Comcare/Pages/Short-to-Medium-Term-Assistance.aspx){:target="_blank"}<br>
       Call: ComCare Hotline @ 1800-222-0000
 
-  - title: MOE Financial Assistance Scheme (FAS)
+  - title: MOE Financial Assistance Scheme (FAS) - Government / Government-aided schools
     content: |
       Eligibility:
         * For Singaporeans with Singapore Citizen children enrolled in a Government or Government-aided school
@@ -66,7 +66,9 @@ accordion:
         * School meal subsidy of $2.90 per meal for 10 meals per school week
         * Public transport eVoucher of $15 per month
 
-      To apply, please [complete this application form](https://www.moe.gov.sg/docs/default-source/document/initiatives/financial-assistance/files/moe-fas-application-form.pdf){:target="_blank"} with the relevant supporting documents and submit it to your child's school.
+      To apply, please [download the application form](https://beta.moe.gov.sg/uploads/MOE-FAS-Application-Form.pdf){:target="_blank"} or collect a copy at your child's school.
+
+Submit the completed form with all relevant supporting documents directly to your child's school.
 
       [Find out more](https://beta.moe.gov.sg/fees-assistance-awards-scholarships/financial-assistance/){:target="_blank"}
 
