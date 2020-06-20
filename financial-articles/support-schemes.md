@@ -55,6 +55,20 @@ accordion:
       [Find out more](https://www.msf.gov.sg/Comcare/Pages/Short-to-Medium-Term-Assistance.aspx){:target="_blank"}<br>
       Call: ComCare Hotline @ <a href="tel:1800-222-0000">1800-222-0000</a>
 
+  - title: Kindergarten Fee Assistance Scheme (KiFAS)
+    content: |
+      Eligibility
+        * For parents with Singapore Citizen children enrolled in enrolled in an Anchor Operator (AOP) or Ministry of Education (MOE) kindergarten to defray kindergarten fees
+        * Gross monthly household income of $12,000 and below or per capita income of $3,000 and below for larger families with 5 or more members (with at least 3 dependants who are not earning an income)
+
+      Benefits
+        * Ranges from $21 - $170
+        * Lower-income families will receive more financial assistance
+
+      To apply, please [downnload this application form](https://www.ecda.gov.sg/Documents/Subsidies_Financial%20Assistance/KiFAS%20Application%20Forms.zip){:target="_blank"}. Submit the completed form with all relevant supporting documents directly to ECDA through your child's kindergarten.
+      
+      [Find out more](https://www.ecda.gov.sg/Pages/Subsidies-and-Financial-Assistance.aspx#KIFAS){:target="_blank"}<br>
+
   - title: MOE Financial Assistance Scheme (FAS)
     content: |
       Eligibility
@@ -88,20 +102,6 @@ accordion:
       Approach any HDB Branch, or call the toll-free Branch Service Line @ <a href="tel:1800-225-5432">1800-225-5432</a>.
 
       [Find out more](https://www.hdb.gov.sg/cs/infoweb/residential/servicing-your-hdb-loan/mortgage-loan/assistance-measures){:target="_blank"}<br>
-
-  - title: Kindergarten Fee Assistance Scheme (KiFAS)
-    content: |
-      Eligibility
-        * For parents with Singapore Citizen children enrolled in enrolled in an Anchor Operator (AOP) or Ministry of Education (MOE) kindergarten to defray kindergarten fees
-        * Gross monthly household income of $12,000 and below or per capita income of $3,000 and below for larger families with 5 or more members (with at least 3 dependants who are not earning an income)
-
-      Benefits
-        * Ranges from $21 - $170
-        * Lower-income families will receive more financial assistance
-
-      To apply, please [downnload this application form](https://www.ecda.gov.sg/Documents/Subsidies_Financial%20Assistance/KiFAS%20Application%20Forms.zip){:target="_blank"}. Submit the completed form with all relevant supporting documents directly to ECDA through your child's kindergarten.
-      
-      [Find out more](https://www.ecda.gov.sg/Pages/Subsidies-and-Financial-Assistance.aspx#KIFAS){:target="_blank"}<br>
 
   - title: Subletting HDB Bedrooms
     content: |
