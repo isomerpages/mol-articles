@@ -299,7 +299,7 @@ accordion3:
 
       [Find out more](www.gstvoucher.gov.sg/pages/u-save.aspx){:target="_blank"}.<br>
       Call: <a href="tel:6671 7117">6671 7117</a><br>
-      Email: customersupport@spgroup.com.sg
+      Email: <a href="mailto:customersupport@spgroup.com.sg">customersupport@spgroup.com.sg</a>
 
   - title: Care and Support Package Enhanced Workfare Special Payment (WSP)
     content: |
