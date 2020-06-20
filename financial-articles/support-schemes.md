@@ -15,7 +15,7 @@ accordion:
 
       To apply, please [download this application form](https://ntuc.org.sg/wps/wcm/connect/446508c0-594b-42cf-b3ed-13ed83886d13/CAP%2BUre+Fund+-+Application+Form.docx?MOD=AJPERES){:target="_blank"}. Submit the completed form with all relevant supporting documents directly through your union.
 
-      [Find out more](https://ntuc.org.sg/wps/portal/up2/home/aboutntuc/ucare/ucareprogrammes){:target="_blank"}<br>
+      [Find out more](https://ntuc.org.sg/wps/portal/up2/home/aboutntuc/ucare/ucareprogrammes){:target="_blank"}
 
   - title: ComCare Short to Medium Term Assistance
     content: |
@@ -37,7 +37,7 @@ accordion:
       Visit your [nearest Social Service Office (SSO)](https://www.msf.gov.sg/dfcs/sso/default.aspx){:target="_blank"}. Each SSO administers ComCare financial assistance and links applicants up with other forms of assistance they might need, such as family services. The SSO will assess your eligibility for assistance. 
 
       [Find out more](https://www.msf.gov.sg/Comcare/Pages/Short-to-Medium-Term-Assistance.aspx){:target="_blank"}<br>
-      Call: ComCare Hotline @ <a href="tel:1800-222-0000">1800-222-0000</a>
+      Call: ComCare Hotline @ <a href="tel:1800-222-0000">1800-222-0000</a><br>
       
       - title: Community Health Assist Scheme (CHAS)
     content: |
@@ -53,7 +53,7 @@ accordion:
       [Apply online](https://chas.moh.gov.sg/Home/Welcome){:target="_blank"} ([Online application user guide](https://www-moh-gov-sg-admin.cwp.sg/docs/librariesprovider5/default-document-library/chas-eservice-user-guide.pdf){:target="_blank"})
      
       [Find out more](https://www.chas.sg/content.aspx?id=306){:target="_blank"}<br>
-      Call: <a href="tel:1800-275-2427">1800-275-2427</a> (<a href="tel:1800-275-2427">1800-ASK-CHAS</a>), Monday to Friday from 8.30am to 6.00pm (excluding Public Holidays)
+      Call: <a href="tel:1800-275-2427">1800-275-2427</a> (<a href="tel:1800-275-2427">1800-ASK-CHAS</a>), Monday to Friday from 8.30am to 6.00pm (excluding Public Holidays)<br>
       
       - title: HDB Bedroom Subletting
     content: |
@@ -67,7 +67,7 @@ accordion:
       [Apply online](https://services2.hdb.gov.sg/webapp/SX05AWSPCP/SX05PSPCPLogin.jsp) through the MyHDBPage. Prior approval from HDB is required. An administrative fee is payable with each application, at **$10 per bedroom**.
 
       [Find out more](https://www.hdb.gov.sg/cs/infoweb/residential/renting-out-a-flat-room/renting-out-your-room){:target="_blank"}<br>
-      Call: 1800-225-5432
+      Call: 1800-225-5432<br>
 
   - title: HDB Financial Assistance Measures (FAM)
     content: | 
@@ -83,7 +83,7 @@ accordion:
 
       Please approach any HDB Branch, or call the toll-free Branch Service Line @ <a href="tel:1800-225-5432">1800-225-5432</a>.
 
-      [Find out more](https://www.hdb.gov.sg/cs/infoweb/residential/servicing-your-hdb-loan/mortgage-loan/assistance-measures){:target="_blank"}
+      [Find out more](https://www.hdb.gov.sg/cs/infoweb/residential/servicing-your-hdb-loan/mortgage-loan/assistance-measures){:target="_blank"}<br>
       
        - title: MOE Financial Assistance Scheme (FAS)
     content: |
@@ -100,7 +100,7 @@ accordion:
 
       To apply, please [download this application form](https://beta.moe.gov.sg/uploads/MOE-FAS-Application-Form.pdf){:target="_blank"} or collect a copy at your child's school. Submit the completed form with all relevant supporting documents directly to the school.
 
-      [Find out more](https://beta.moe.gov.sg/fees-assistance-awards-scholarships/financial-assistance/){:target="_blank"} Alternatively, please approach your child's school to learn more on MOE FAS, or other school-based financial assistance.
+      [Find out more](https://beta.moe.gov.sg/fees-assistance-awards-scholarships/financial-assistance/){:target="_blank"} Alternatively, please approach your child's school to learn more on MOE FAS, or other school-based financial assistance.<br>
       
       - title: Kindergarten Fee Assistance Scheme (KiFAS)
     content: |
@@ -114,7 +114,7 @@ accordion:
 
       To apply, please [download this application form](https://www.ecda.gov.sg/Documents/Subsidies_Financial%20Assistance/KiFAS%20Application%20Forms.zip){:target="_blank"}. Submit the completed form with all relevant supporting documents directly to ECDA through your child's kindergarten.
       
-      [Find out more](https://www.ecda.gov.sg/Pages/Subsidies-and-Financial-Assistance.aspx#KIFAS){:target="_blank"}
+      [Find out more](https://www.ecda.gov.sg/Pages/Subsidies-and-Financial-Assistance.aspx#KIFAS){:target="_blank"}<br>
 
 accordion2:
   - title: Additional SkillsFuture Credit (Mid-Career Support)
