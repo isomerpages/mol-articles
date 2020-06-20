@@ -13,9 +13,24 @@ accordion:
       Benefits 
         * Each eligible child will receive a one-time disbursement of $250 NTUC FairPrice vouchers
 
-      To apply, please [download this application form](https://ntuc.org.sg/wps/wcm/connect/446508c0-594b-42cf-b3ed-13ed83886d13/CAP%2BUre+Fund+-+Application+Form.docx?MOD=AJPERES){:target="_blank"}. Submit the completed form with all relevant supporting documents directly through your union.
+      To apply, please [download this application form]https://www.ntuc.org.sg/wps/wcm/connect/446508c0-594b-42cf-b3ed-13ed83886d13/CAP%2BUre+Fund+-+Application+Form_Revised+%28January%29.pdf?MOD=AJPERES){:target="_blank"}. Submit the completed form with all relevant supporting documents directly through your union.
 
-      [Find out more](https://ntuc.org.sg/wps/portal/up2/home/aboutntuc/ucare/ucareprogrammes){:target="_blank"}
+      [Find out more](https://ntuc.org.sg/wps/portal/up2/home/aboutntuc/ucare/ucareprogrammes){:target="_blank"}<br>
+
+  - title: Community Health Assist Scheme (CHAS)
+    content: |
+      Eligibility
+        * All Singaporeans are eligible for CHAS to receive healthcare subsidies for medical and dental care at participating General Practitioner (GP) and dental clinics near their home.
+
+      Benefits
+        * The [CHAS benefits](https://www.chas.sg/content.aspx?id=636){:target="_blank"} you will receive are tiered according to household monthly income per person or the Annual Value (AV) of the home.
+        * The amount that you pay will be based on the fees charged by the clinic, minus the CHAS subsidies. You may wish to check with CHAS clinics on their fees before receiving treatment at each visit
+
+      While every Singapore Citizen is eligible for CHAS, the enrolment onto CHAS is still on an application basis.<br>
+      [Apply online](https://chas.moh.gov.sg/Home/Welcome){:target="_blank"} ([Online application user guide](https://www-moh-gov-sg-admin.cwp.sg/docs/librariesprovider5/default-document-library/chas-eservice-user-guide.pdf){:target="_blank"})
+     
+      [Find out more](https://www.chas.sg/content.aspx?id=306){:target="_blank"}<br>
+      Call: <a href="tel:1800-275-2427">1800-275-2427</a> (<a href="tel:1800-275-2427">1800-ASK-CHAS</a>), Monday to Friday from 8.30am to 6.00pm (excluding Public Holidays)<br>
 
   - title: ComCare Short to Medium Term Assistance
     content: |
@@ -34,58 +49,12 @@ accordion:
         * Employment assistance such as job search and/or training
         * Referrals for other relevant services
 
-      Visit your [nearest Social Service Office (SSO)](https://www.msf.gov.sg/dfcs/sso/default.aspx){:target="_blank"}. Each SSO administers ComCare financial assistance and links applicants up with other forms of assistance they might need, such as family services. The SSO will assess your eligibility for assistance. 
+      Visit your [nearest Social Service Office (SSO)](https://www.msf.gov.sg/dfcs/sso/default.aspx){:target="_blank"} for assistance. Each SSO administers ComCare financial assistance and links applicants up with other forms of assistance they might need, such as family services. The SSO will assess your eligibility for assistance. 
 
       [Find out more](https://www.msf.gov.sg/Comcare/Pages/Short-to-Medium-Term-Assistance.aspx){:target="_blank"}<br>
-      Call: ComCare Hotline @ <a href="tel:1800-222-0000">1800-222-0000</a><br>
-      
-      - title: Community Health Assist Scheme (CHAS)
-    content: |
-      Eligibility
-        * All Singaporeans are eligible for CHAS to receive healthcare subsidies for medical and dental care at participating General Practitioner (GP) and dental clinics near their home.
+      Call: ComCare Hotline @ <a href="tel:1800-222-0000">1800-222-0000</a>
 
-      Benefits
-        * The [CHAS benefits](https://www.chas.sg/content.aspx?id=636){:target="_blank"} you will receive are tiered according to household monthly income per person or the Annual Value (AV) of the home.
-        * The amount that you pay will be based on the fees charged by the clinic, minus the CHAS subsidies. You may wish to check with CHAS clinics on their fees before receiving treatment at each visit
-
-      While every Singapore Citizen is eligible for CHAS, the enrolment onto CHAS is still on an application basis.
-      
-      [Apply online](https://chas.moh.gov.sg/Home/Welcome){:target="_blank"} ([Online application user guide](https://www-moh-gov-sg-admin.cwp.sg/docs/librariesprovider5/default-document-library/chas-eservice-user-guide.pdf){:target="_blank"})
-     
-      [Find out more](https://www.chas.sg/content.aspx?id=306){:target="_blank"}<br>
-      Call: <a href="tel:1800-275-2427">1800-275-2427</a> (<a href="tel:1800-275-2427">1800-ASK-CHAS</a>), Monday to Friday from 8.30am to 6.00pm (excluding Public Holidays)<br>
-      
-      - title: HDB Bedroom Subletting
-    content: |
-      Eligibility
-        * Only bedrooms from HDB flats that are **3-room or larger** can be rented out
-        * Maximum number of bedrooms that flat owners can rent out and the maximum number of occupants allowed in each flat depends on the flat type - 1 bedroom for 3-room, 2 bedrooms for 4-room and bigger
-
-      Benefits
-        * Monetary amount depending on market rate and agreed terms between landlord and tenant
-
-      [Apply online](https://services2.hdb.gov.sg/webapp/SX05AWSPCP/SX05PSPCPLogin.jsp) through the MyHDBPage. Prior approval from HDB is required. An administrative fee is payable with each application, at **$10 per bedroom**.
-
-      [Find out more](https://www.hdb.gov.sg/cs/infoweb/residential/renting-out-a-flat-room/renting-out-your-room){:target="_blank"}<br>
-      Call: 1800-225-5432<br>
-
-  - title: HDB Financial Assistance Measures (FAM)
-    content: | 
-      Eligibility
-        * For home owners facing dificulties repaying their housing loans
-
-      If you find yourself in financial hardship, these options may be available to you:
-      * Paying the housing loan arrears by instalments within a reasonable period
-      * Lowering the monthly instalment amount by extending the housing loan term up to the maximum repayment period
-      * Converting the loan scheme to the reduced repayment scheme for a period of 6 months
-      * Deferring the payment of the loan instalments for an initial period of 6 months
-      * Allowing more working family members to become co-owners of the flat
-
-      Please approach any HDB Branch, or call the toll-free Branch Service Line @ <a href="tel:1800-225-5432">1800-225-5432</a>.
-
-      [Find out more](https://www.hdb.gov.sg/cs/infoweb/residential/servicing-your-hdb-loan/mortgage-loan/assistance-measures){:target="_blank"}<br>
-      
-       - title: MOE Financial Assistance Scheme (FAS)
+  - title: MOE Financial Assistance Scheme (FAS)
     content: |
       Eligibility
         * For Singaporeans with Singapore Citizen children enrolled in a Government or Government-aided school
@@ -100,9 +69,26 @@ accordion:
 
       To apply, please [download this application form](https://beta.moe.gov.sg/uploads/MOE-FAS-Application-Form.pdf){:target="_blank"} or collect a copy at your child's school. Submit the completed form with all relevant supporting documents directly to the school.
 
-      [Find out more](https://beta.moe.gov.sg/fees-assistance-awards-scholarships/financial-assistance/){:target="_blank"} Alternatively, please approach your child's school to learn more on MOE FAS, or other school-based financial assistance.<br>
-      
-      - title: Kindergarten Fee Assistance Scheme (KiFAS)
+      [Find out more](https://beta.moe.gov.sg/fees-assistance-awards-scholarships/financial-assistance/){:target="_blank"} Alternatively, please approach your child's school to learn more on MOE FAS, or other school-based financial assistance.
+
+  - title: HDB Financial Assistance Measures (FAM)
+    content: | 
+      Eligibility
+        * For home owners facing difficulties repaying their housing loans
+
+      If you find yourself in financial hardship, these options may be available to you:
+        * Paying the housing loan arrears by instalments within a reasonable period
+        * Lowering the monthly instalment amount by extending the housing loan term up to the maximum repayment period
+        * Converting the loan scheme to the reduced repayment scheme for a period of 6 months
+        * Deferring the payment of the loan instalments for an initial period of 6 months
+        * Allowing more working family members to become co-owners of the flat
+
+      Apply by approaching any HDB Branch, or call the toll-free Branch Service Line at <a href="tel:1800-225-5432">1800-225-5432</a>.
+
+      [Find out more](https://www.hdb.gov.sg/cs/infoweb/residential/servicing-your-hdb-loan/mortgage-loan/assistance-measures){:target="_blank"}<br/>
+      Call: <a href="tel:1800-225-5432">1800-225-5432</a><br/>
+
+  - title: Kindergarten Fee Assistance Scheme (KiFAS)
     content: |
       Eligibility
         * For parents with Singapore Citizen children enrolled in enrolled in an Anchor Operator (AOP) or Ministry of Education (MOE) kindergarten to defray kindergarten fees
@@ -115,6 +101,22 @@ accordion:
       To apply, please [download this application form](https://www.ecda.gov.sg/Documents/Subsidies_Financial%20Assistance/KiFAS%20Application%20Forms.zip){:target="_blank"}. Submit the completed form with all relevant supporting documents directly to ECDA through your child's kindergarten.
       
       [Find out more](https://www.ecda.gov.sg/Pages/Subsidies-and-Financial-Assistance.aspx#KIFAS){:target="_blank"}<br>
+
+  - title: HDB Bedroom Subletting
+    content: |
+      Eligibility
+        * For flat owners (3-room or bigger) considering to rent out their spare bedroom(s) for additional income
+
+      Benefits
+        * 3-room flat owners can rent out up to 1 bedroom
+        * 4-room (or bigger) flat owners can rent out up to 2 bedrooms
+        
+      Note: A maximum of 6 occupants are allowed in each flat (including owners, authorised occupiers, and tenants).
+
+      [Apply online](https://services2.hdb.gov.sg/webapp/SX05AWSPCP/SX05PSPCPLogin.jsp) through the MyHDBPage. You are required to seek HDB's approval before the commencement of the tenancy. An administrative fee is payable with each application, at $10 per bedroom.
+
+      [Find out more](https://www.hdb.gov.sg/cs/infoweb/residential/renting-out-a-flat-room/renting-out-your-room){:target="_blank"}<br>
+      Call: <a href="tel:1800-225-5432">1800-225-5432</a><br>
 
 accordion2:
   - title: Additional SkillsFuture Credit (Mid-Career Support)
