@@ -50,7 +50,7 @@ accordion:
         * Employment assistance such as job search and/or training
         * Referrals for other relevant services
 
-      Go to your [nearest Social Service Office (SSO)](https://www.msf.gov.sg/dfcs/sso/default.aspx){:target="_blank"} to find out more. Each SSO administers ComCare financial assistance and links applicants up with other forms of assistance they might need, such as family services. The SSO will assess your eligibility for assistance. 
+      Visit your [nearest Social Service Office (SSO)](https://www.msf.gov.sg/dfcs/sso/default.aspx){:target="_blank"}. Each SSO administers ComCare financial assistance and links applicants up with other forms of assistance they might need, such as family services. The SSO will assess your eligibility for assistance. 
 
       [Find out more](https://www.msf.gov.sg/Comcare/Pages/Short-to-Medium-Term-Assistance.aspx){:target="_blank"}<br>
       Call: ComCare Hotline @ <a href="tel:1800-222-0000">1800-222-0000</a>
@@ -72,19 +72,22 @@ accordion:
 
       [Find out more](https://beta.moe.gov.sg/fees-assistance-awards-scholarships/financial-assistance/){:target="_blank"} Alternatively, please approach your child's school to learn more on MOE FAS, or other school-based financial assistance.
 
-  - title: HDB Financial Assistance Measures
+  - title: HDB Financial Assistance Measures (FAM)
     content: | 
       Eligibility
-        * For home owners facing difficulties repaying their housing loans
+        * For home owners facing dificulties repaying their housing loans
 
-      Benefits
-        * Assistance is granted based on the merits of each case
+      Benefits<br>
+      If you find yourself in financial hardship, these options may be available to you:
+      * Paying the housing loan arrears by instalments within a reasonable period
+      * Lowering the monthly instalment amount by extending the housing loan term up to the maximum repayment period
+      * Converting the loan scheme to the reduced repayment scheme for a period of 6 months
+      * Deferring the payment of the loan instalments for an initial period of 6 months
+      * Allowing more working family members to become co-owners of the flat
 
-      Apply by approaching any HDB Branch, or call the toll-free Branch Service Line at 1800-225-5432.
+      Approach any HDB Branch, or call the toll-free Branch Service Line @ <a href="tel:1800-225-5432">1800-225-5432</a>.
 
-      [Find out more](https://www.hdb.gov.sg/cs/infoweb/residential/servicing-your-hdb-loan/mortgage-loan/assistance-measures){:target="_blank"}<br/>
-      Call: 1800-225-5432<br/>
-
+      [Find out more](https://www.hdb.gov.sg/cs/infoweb/residential/servicing-your-hdb-loan/mortgage-loan/assistance-measures){:target="_blank"}<br>
 
   - title: Kindergarten Fee Assistance Scheme (KiFAS)
     content: |
