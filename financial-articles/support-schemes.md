@@ -761,7 +761,7 @@ The government has committed close to 100 billion dollars to stabilise the econo
 
 Those in need may also consider pre-existing support schemes which offer additional support ranging from housing and medical to employment.
 
-<img src="/images/support-img.jpg" alt="support" width="600" height="400" style="vertical-align:middle">> 
+<img src="/images/support-img.jpg" alt="support" style="vertical-align:middle"> 
 
 Find out what you are eligible for, learn about the benefits, and where you can apply.
 
