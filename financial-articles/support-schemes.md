@@ -54,22 +54,21 @@ accordion:
       [Find out more](https://www.msf.gov.sg/Comcare/Pages/Short-to-Medium-Term-Assistance.aspx){:target="_blank"}<br>
       Call: ComCare Hotline @ <a href="tel:1800-222-0000">1800-222-0000</a>
 
-  - title: MOE Financial Assistance Scheme (FAS)
+  - title: HDB Bedroom Subletting
     content: |
       Eligibility
-        * For Singaporeans with Singapore Citizen children enrolled in a Government or Government-aided school
-        * Gross monthly household income of $2,750 and below or per capita income $690 and below at the time of application
+        * For flat owners (3-room or bigger) considering to rent out their spare bedroom(s) for additional income
 
-      Benefits (vary depending on academic level)
-        * Subsidies for school fees and standard miscellaneous fees
-        * Free textbooks and school attire (Primary and Secondary)
-        * School meal subsidy(Primary and Secondary)
-        * Transport subsidy
-        * Bursary (Pre-U)
+      Benefits
+        * 3-room flat owners can rent out up to 1 bedroom
+        * 4-room (or bigger) flat owners can rent out up to 2 bedrooms
+        
+      Note: A maximum of 6 occupants are allowed in each flat (including owners, authorised occupiers, and tenants).
 
-      To apply, please [download this application form](https://beta.moe.gov.sg/uploads/MOE-FAS-Application-Form.pdf){:target="_blank"} or collect a copy at your child's school. Submit the completed form with all relevant supporting documents directly to the school.
+      [Apply online](https://services2.hdb.gov.sg/webapp/SX05AWSPCP/SX05PSPCPLogin.jsp) through the MyHDBPage. You are required to seek HDB's approval before the commencement of the tenancy. An administrative fee is payable with each application, at $10 per bedroom.
 
-      [Find out more](https://beta.moe.gov.sg/fees-assistance-awards-scholarships/financial-assistance/){:target="_blank"} Alternatively, please approach your child's school to learn more on MOE FAS, or other school-based financial assistance.
+      [Find out more](https://www.hdb.gov.sg/cs/infoweb/residential/renting-out-a-flat-room/renting-out-your-room){:target="_blank"}<br>
+      Call: <a href="tel:1800-225-5432">1800-225-5432</a><br>
 
   - title: HDB Financial Assistance Measures (FAM)
     content: | 
@@ -101,21 +100,22 @@ accordion:
       
       [Find out more](https://www.ecda.gov.sg/Pages/Subsidies-and-Financial-Assistance.aspx#KIFAS){:target="_blank"}<br>
 
-  - title: HDB Bedroom Subletting
+  - title: MOE Financial Assistance Scheme (FAS)
     content: |
       Eligibility
-        * For flat owners (3-room or bigger) considering to rent out their spare bedroom(s) for additional income
+        * For Singaporeans with Singapore Citizen children enrolled in a Government or Government-aided school
+        * Gross monthly household income of $2,750 and below or per capita income $690 and below at the time of application
 
-      Benefits
-        * 3-room flat owners can rent out up to 1 bedroom
-        * 4-room (or bigger) flat owners can rent out up to 2 bedrooms
-        
-      Note: A maximum of 6 occupants are allowed in each flat (including owners, authorised occupiers, and tenants).
+      Benefits (vary depending on academic level)
+        * Subsidies for school fees and standard miscellaneous fees
+        * Free textbooks and school attire (Primary and Secondary)
+        * School meal subsidy(Primary and Secondary)
+        * Transport subsidy
+        * Bursary (Pre-U)
 
-      [Apply online](https://services2.hdb.gov.sg/webapp/SX05AWSPCP/SX05PSPCPLogin.jsp) through the MyHDBPage. You are required to seek HDB's approval before the commencement of the tenancy. An administrative fee is payable with each application, at $10 per bedroom.
+      To apply, please [download this application form](https://beta.moe.gov.sg/uploads/MOE-FAS-Application-Form.pdf){:target="_blank"} or collect a copy at your child's school. Submit the completed form with all relevant supporting documents directly to the school.
 
-      [Find out more](https://www.hdb.gov.sg/cs/infoweb/residential/renting-out-a-flat-room/renting-out-your-room){:target="_blank"}<br>
-      Call: <a href="tel:1800-225-5432">1800-225-5432</a><br>
+      [Find out more](https://beta.moe.gov.sg/fees-assistance-awards-scholarships/financial-assistance/){:target="_blank"} Alternatively, please approach your child's school to learn more on MOE FAS, or other school-based financial assistance.
 
 accordion2:
   - title: Additional SkillsFuture Credit (Mid-Career Support)
