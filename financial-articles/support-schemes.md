@@ -121,13 +121,13 @@ accordion2:
   - title: Additional SkillsFuture Credit (Mid-Career Support)
     content: |
       Eligibility
-        * For all Singaporeans who are 40 to 60 years old by 31 December 2020
+        * For all Singaporeans who are 40 to 60 years old as at 31 December 2020
 
       Benefits
         * One-time $500 credit top-up
         * Eligible citizens will receive the top-up in their SkillsFuture Credit accounts on **1 October 2020**
       
-      **This is an auto-inclusion scheme - no application is required.** You may login to your SkillsFuture Credit account at MySkillsFuture after 1 October 2020 to check your SkillsFuture Credit balance.
+      **This is an auto-inclusion scheme - no application is required.** You may login to your SkillsFuture Credit account at MySkillsFuture from 1 October 2020 to check your SkillsFuture Credit balance.
 
       [Find out more](https://www.skillsfuture.sg/credit){:target="_blank"}<br>
       Call: <a href="tel:6785 5785">6785 5785</a>
@@ -271,13 +271,13 @@ accordion3:
   - title: Additional SkillsFuture Credit (Mid-Career Support)
     content: |
       Eligibility
-        * For all Singaporeans who are 40 to 60 years old by 31 December 2020
+        * For all Singaporeans who are 40 to 60 years old as at 31 December 2020
 
       Benefits
         * One-time $500 credit top-up
         * Eligible citizens will receive the top-up in their SkillsFuture Credit accounts on **1 October 2020**
       
-      **This is an auto-inclusion scheme - no application is required.** You may login to your SkillsFuture Credit account at MySkillsFuture after 1 October 2020 to check your SkillsFuture Credit balance.
+      **This is an auto-inclusion scheme - no application is required.** You may login to your SkillsFuture Credit account at MySkillsFuture from 1 October 2020 to check your SkillsFuture Credit balance.
 
       [Find out more](https://www.skillsfuture.sg/credit){:target="_blank"}.<br>
       Call: <a href="tel:6785 5785">6785 5785</a>
@@ -395,13 +395,13 @@ accordion4:
   - title: Additional SkillsFuture Credit (Mid-Career Support)
     content: |
       Eligibility
-        * For all Singaporeans who are 40 to 60 years old by 31 December 2020
+        * For all Singaporeans who are 40 to 60 years old as at 31 December 2020
 
       Benefits
         * One-time $500 credit top-up
         * Eligible citizens will receive the top-up in their SkillsFuture Credit accounts on **1 October 2020**
       
-      **This is an auto-inclusion scheme - no application is required.** You may login to your SkillsFuture Credit account at MySkillsFuture after 1 October 2020 to check your SkillsFuture Credit balance.
+      **This is an auto-inclusion scheme - no application is required.** You may login to your SkillsFuture Credit account at MySkillsFuture from 1 October 2020 to check your SkillsFuture Credit balance.
 
       [Find out more](https://www.skillsfuture.sg/credit){:target="_blank"}.<br>
       Call: <a href="tel:6785 5785">6785 5785</a>
@@ -547,13 +547,13 @@ accordion5:
   - title: Additional SkillsFuture Credit (Mid-Career Support)
     content: |
       Eligibility
-      * For all Singaporeans who are 40 to 60 years old by 31 December 2020
+      * For all Singaporeans who are 40 to 60 years old as at 31 December 2020
 
       Benefits
       * One-time $500 credit top-up
       * Eligible citizens will receive the top-up in their SkillsFuture Credit accounts on **1 October 2020**
       
-      **This is an auto-inclusion scheme - no application is required.** You may login to your SkillsFuture Credit account at MySkillsFuture after 1 October 2020 to check your SkillsFuture Credit balance.
+      **This is an auto-inclusion scheme - no application is required.** You may login to your SkillsFuture Credit account at MySkillsFuture from 1 October 2020 to check your SkillsFuture Credit balance.
 
       [Find out more](https://www.skillsfuture.sg/credit){:target="_blank"}.<br>
       Call: <a href="tel:6785 5785">6785 5785</a>
@@ -810,4 +810,3 @@ Please contact the respective government agencies if you have any questions abou
 Last updated: 22 June 2020
  
 [Back to top](#top)
-
