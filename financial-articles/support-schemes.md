@@ -241,13 +241,13 @@ accordion2:
   - title: SkillsFuture Credit Top-Up
     content: |
       Eligibility
-        * For all Singaporeans who are 25 years and above by 31 December 2020
+        * For all Singaporeans who are 25 years and above as at 31 December 2020
 
       Benefits
         * One-time $500 credit top-up
         * Eligible citizens will receive the top-up in their SkillsFuture Credit accounts on **1 October 2020**
         
-        **This is an auto-inclusion scheme - no application is required.** You may login to your SkillsFuture Credit account at MySkillsFuture after 1 October 2020 to check your SkillsFuture Credit balance.
+        **This is an auto-inclusion scheme - no application is required.** You may login to your SkillsFuture Credit account at MySkillsFuture from 1 October 2020 to check your SkillsFuture Credit balance.
 
       [Find out more](https://www.skillsfuture.sg/credit){:target="_blank"}<br>
       Call: <a href="tel:6785 5785">6785 5785</a>
@@ -365,13 +365,13 @@ accordion3:
   - title: SkillsFuture Credit Top-Up
     content: |
       Eligibility
-        * For all Singaporeans who are 25 years and above by 31 December 2020
+        * For all Singaporeans who are 25 years and above as at 31 December 2020
 
       Benefits
         * One-time $500 credit top-up
         * Eligible citizens will receive the top-up in their SkillsFuture Credit accounts on **1 October 2020**
         
-        **This is an auto-inclusion scheme - no application is required.** You may login to your SkillsFuture Credit account at MySkillsFuture after 1 October 2020 to check your SkillsFuture Credit balance.
+        **This is an auto-inclusion scheme - no application is required.** You may login to your SkillsFuture Credit account at MySkillsFuture from 1 October 2020 to check your SkillsFuture Credit balance.
 
       [Find out more](https://www.skillsfuture.sg/credit){:target="_blank"}<br>
       Call: <a href="tel:6785 5785">6785 5785</a>
@@ -517,13 +517,13 @@ accordion4:
   - title: SkillsFuture Credit Top-Up
     content: |
       Eligibility
-        * For all Singaporeans who are 25 years and above by 31 December 2020
+        * For all Singaporeans who are 25 years and above as at 31 December 2020
 
       Benefits
         * One-time $500 credit top-up
         * Eligible citizens will receive the top-up in their SkillsFuture Credit accounts on **1 October 2020**
         
-        **This is an auto-inclusion scheme - no application is required.** You may login to your SkillsFuture Credit account at MySkillsFuture after 1 October 2020 to check your SkillsFuture Credit balance.
+        **This is an auto-inclusion scheme - no application is required.** You may login to your SkillsFuture Credit account at MySkillsFuture from 1 October 2020 to check your SkillsFuture Credit balance.
 
       [Find out more](https://www.skillsfuture.sg/credit){:target="_blank"}<br>
       Call: <a href="tel:6785 5785">6785 5785</a>
@@ -741,13 +741,13 @@ accordion5:
   - title: SkillsFuture Credit Top-Up
     content: |
       Eligibility
-        * For all Singaporeans who are 25 years and above by 31 December 2020
+        * For all Singaporeans who are 25 years and above as at 31 December 2020
 
       Benefits
         * One-time $500 credit top-up
         * Eligible citizens will receive the top-up in their SkillsFuture Credit accounts on **1 October 2020**
         
-        **This is an auto-inclusion scheme - no application is required.** You may login to your SkillsFuture Credit account at MySkillsFuture after 1 October 2020 to check your SkillsFuture Credit balance.
+        **This is an auto-inclusion scheme - no application is required.** You may login to your SkillsFuture Credit account at MySkillsFuture from 1 October 2020 to check your SkillsFuture Credit balance.
 
       [Find out more](https://www.skillsfuture.sg/credit){:target="_blank"}<br>
       Call: <a href="tel:6785 5785">6785 5785</a>
