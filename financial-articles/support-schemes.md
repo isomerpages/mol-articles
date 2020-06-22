@@ -780,7 +780,7 @@ Find out what you are eligible for, learn about the benefits, and where you can 
 {% include accordion.html %}
 [Back to top](#top)
 
-### BENEFIT RELIEF MEASURES
+### BUDGET RELIEF MEASURES
 
 ## <a name="unemployed"></a>UNEMPLOYED INDIVIDUALS
 
