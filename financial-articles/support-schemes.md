@@ -753,7 +753,7 @@ accordion5:
       Call: <a href="tel:6785 5785">6785 5785</a>
 ---
 
-# <a name="top"></a>The economic fallout of COVID-19 continues to take its toll.
+# <a name="top"></a>Support is available for Singaporeans affected by COVID-19.
 
 Whether you have lost your job (including self-employment) or suffered a drop in income due to COVID-19, you should know that help is available to get you through this. 
 
