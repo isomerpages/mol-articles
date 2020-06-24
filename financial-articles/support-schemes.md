@@ -214,7 +214,7 @@ accordion2:
 
   - title: NTUC Care Fund (COVID-19)
     content: |
-      Eligibility
+      Eligibility<br>
       For union members who are facing financial hardship as follows:
         * Suffered from an income drop of at least 30 per cent of your monthly salary/earnings due to COVID-19, or 
         * A self-employed person (SEP) whose income has been adversely affected due to COVID-19 related job or event cancellations, or 
@@ -486,7 +486,7 @@ accordion4:
 
   - title: NTUC Care Fund (COVID-19)
     content: |
-      Eligibility
+      Eligibility<br>
       For union members who are facing financial hardship as follows:
         * Suffered from an income drop of at least 30 per cent of your monthly salary/earnings due to COVID-19, or 
         * A self-employed person (SEP) whose income has been adversely affected due to COVID-19 related job or event cancellations, or 
@@ -656,7 +656,7 @@ accordion5:
 
   - title: NTUC Care Fund (COVID-19)
     content: |
-      Eligibility
+      Eligibility<br>
       For union members who are facing financial hardship as follows:
         * Suffered from an income drop of at least 30 per cent of your monthly salary/earnings due to COVID-19, or 
         * A self-employed person (SEP) whose income has been adversely affected due to COVID-19 related job or event cancellations, or 
