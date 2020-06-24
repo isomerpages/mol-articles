@@ -752,11 +752,11 @@ accordion5:
 
 # <a name="top"></a>Support is available for Singaporeans affected by COVID-19.
 
-Whether you have lost your job (including self-employment) or suffered a drop in income due to COVID-19, you should know that help is available to get you through this. 
+Whether you have lost your job (including self-employment) or suffered a drop in income due to COVID-19, know that help is available to get you through this. 
 
-The government has committed close to 100 billion dollars to stabilise the economy and protect livelihoods. Out of which, an extensive portion is set aside as cash relief and subsidies for affected individuals. 
+The Government has committed close to $100 billion to stabilise the economy and protect livelihoods. A significant portion is set aside as cash relief and subsidies for affected individuals. 
 
-Those in need may also consider pre-existing support schemes which offer additional support ranging from housing and medical to employment.
+Those in need may also consider existing support schemes which offer additional support in the various areas of housing, healthcare and education.
 
 <img src="/images/holistic-support.jpg" alt="support"> 
 
