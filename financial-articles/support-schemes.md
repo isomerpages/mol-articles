@@ -195,7 +195,7 @@ accordion2:
     content: |
       Eligibility
         * For all non-self employed persons
-        * **Does not** apply to non-Singaporean citizen employees who have sought tax clearance and employees of foreign employers
+        * Does not apply to non-Singaporean citizen employees who have sought tax clearance and employees of foreign employers
 
       Benefits
         * Defer your income tax payments due in May, June and July 2020, to help ease your cash flow
@@ -314,7 +314,7 @@ accordion3:
     content: |
       Eligibility
         * For all non-self employed persons
-        * **Does not** apply to non-Singaporean citizen employees who have sought tax clearance and employees of foreign employers
+        * Does not apply to non-Singaporean citizen employees who have sought tax clearance and employees of foreign employers
 
       Benefits
         * Defer your income tax payments due in May, June and July 2020, to help ease your cash flow
@@ -411,7 +411,7 @@ accordion4:
     content: |
       Eligibility
         * For all non-self employed persons
-        * **Does not** apply to non-Singaporean citizen employees who have sought tax clearance and employees of foreign employers
+        * Does not apply to non-Singaporean citizen employees who have sought tax clearance and employees of foreign employers
 
       Benefits
         * Defer your income tax payments due in May, June and July 2020, to help ease your cash flow
