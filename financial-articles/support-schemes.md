@@ -310,14 +310,14 @@ accordion3:
       Call: <a href="tel:1800-227-1188">1800-227-1188</a><br>
       Submit your enquiry [here](www.cpf.gov.sg/writetous){:target="_blank"}.
     
-  - title: Defer Tax Payment for Individual Income Tax (For Employees)
+  - title: Defer Tax Payment for Income Tax (For Employees)
     content: |
       Eligibility
         * For all non-self employed persons
-        * This deferment does **not** apply to non-Singaporean citizen employees who have sought tax clearance and employees of foreign employers
+        * **Does not** apply to non-Singaporean citizen employees who have sought tax clearance and employees of foreign employers
 
       Benefits
-        * Receive a deferment on your income tax payments due in May, June and July 2020, to help ease cash flow
+        * Defer your income tax payments due in May, June and July 2020, to help ease your cash flow
         * Income tax deduction to resume in August, September or October 2020
         * The end-date of your instalment plan will be extended by 3 months
 
@@ -407,11 +407,11 @@ accordion4:
       Call the ComCare Call Hotline <a href="tel:1800-222-0000">1800-222-0000</a> for assistance form.<br>
       Email: <a href="mailto:ask_sso@msf.gov.sg">ask_sso@msf.gov.sg</a>
     
-  - title: Defer Tax Payment for Individual Income Tax (For Employees)
+  - title: Defer Tax Payment for Income Tax (For Employees)
     content: |
       Eligibility
         * For all non-self employed persons
-        * ** Does not** apply to non-Singaporean citizen employees who have sought tax clearance and employees of foreign employers
+        * **Does not** apply to non-Singaporean citizen employees who have sought tax clearance and employees of foreign employers
 
       Benefits
         * Defer your income tax payments due in May, June and July 2020, to help ease your cash flow
