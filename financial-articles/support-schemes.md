@@ -132,7 +132,7 @@ accordion:
         * This is an auto-inclusion scheme - no application is required. Find out more [here.](https://www.workfare.gov.sg/Pages/WISEmployee.aspx){:target="_blank"}
 
       For SEP:<br> 
-        * Declare your income to IRAS or CPFB and make MediSave contributions. The funds will be credited to your account directly after you have passed backend checks. Find out more [here.](https://www.workfare.gov.sg/Pages/WISSelfEmployed.aspx){:target="_blank"}
+        * Declare your income to IRAS or CPFB and make MediSave contributions. The funds will be credited to your account directly after you have passed backend checks. [Find out more](https://www.workfare.gov.sg/Pages/WISSelfEmployed.aspx){:target="_blank"}
 
   - title: Workfare Skills Support (WSS) Scheme
     content: |
@@ -156,7 +156,7 @@ accordion:
       For SEP:<br> 
         * **For TA**: Within 120 days after completing the course, go to a WSG or e2i Career Centres to submit an application. Remember to bring along your NRIC, WTS notification letter, valid bank book/statement, course certification slip and valid employment documentation (e.g. payslip, employment letter or ACRA documents). After processing, the monies will be credited directly to your account or mailed to you as a cheque. 
         * **For TCA**: This is an auto-inclusion scheme - no application is required.
-        * Find out more [here.](https://www.workfare.gov.sg/Pages/WTSSelfEmployed.aspx){:target="_blank"}
+        * [Find out more](https://www.workfare.gov.sg/Pages/WTSSelfEmployed.aspx){:target="_blank"}
 
 
 accordion2:
@@ -310,7 +310,7 @@ accordion3:
       Call: <a href="tel:1800-227-1188">1800-227-1188</a><br>
       Submit your enquiry [here](www.cpf.gov.sg/writetous){:target="_blank"}.
     
-  - title: Defer Tax Payment for Individual Income Tax (For non-self employed)
+  - title: Defer Tax Payment for Individual Income Tax (For Employees)
     content: |
       Eligibility
         * For all non-self employed persons
@@ -407,7 +407,7 @@ accordion4:
       Call the ComCare Call Hotline <a href="tel:1800-222-0000">1800-222-0000</a> for assistance form.<br>
       Email: <a href="mailto:ask_sso@msf.gov.sg">ask_sso@msf.gov.sg</a>
     
-  - title: Defer Tax Payment for Individual Income Tax (For non-self employed)
+  - title: Defer Tax Payment for Individual Income Tax (For Employees)
     content: |
       Eligibility
         * For all non-self employed persons
@@ -679,6 +679,22 @@ accordion5:
 
       [Find out more](https://www.skillsfuture.sg/credit){:target="_blank"}<br>
       Call: <a href="tel:6785 5785">6785 5785</a>
+      
+  - title: The Courage Fund – For Households Affected by COVID-19
+    content: |
+      Eligibility
+        * For lower-income households with at least one Singapore Citizen or Permanent Resident whose family member(s) have contracted COVID-19, or are on Stay-Home Notice (SHN), mandatory Leave of Absence (LOA), or Home Quarantine Order (HQO)
+        * Loss of complete or partial (at least 10%) household income due to COVID-19
+        * [As of 1 June 2020] Household has gross monthly income of ≤$6,200, or gross monthly per capita income of ≤$2,000, prior to being affected by COVID-19
+
+      Benefits
+        * One-time lump sum of up to $1,000 (depending on the household's per capita income after being affected by COVID-19), credited into bank account
+
+      Download the [Courage Fund application form](https://www.msf.gov.sg/assistance/Documents/TCF%20Scheme-E-application-fund.pdf){:target="_blank:} and submit it to any of the 24 SSOs. Form is also available at any SSO. Please bring along supporting documents. Applications should be made **within 6 months from the end of the QO, LOA or SHN or discharge from hospitalisation due to COVID-19 (whichever is later)**.
+
+      [Find out more](https://www.msf.gov.sg/assistance/Pages/covid19relief.aspx#TCF){:target="_blank"}<br>
+
+      For healthcare workers,  frontline workers and community volunteers who have contracted COVID-19 in the line of duty; and dependents of individuals who have succumbed to COVID-19, the Courage Fund has [other schemes to help you.](https://www.ncss.gov.sg/Our-Initiatives/The-Courage-Fund){:target="_blank"}
 ---
 
 # <a name="top"></a>Support is available for Singaporeans affected by COVID-19.
