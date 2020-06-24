@@ -227,7 +227,7 @@ accordion2:
 
   - title: NTUC Care Fund (COVID-19)
     content: |
-      Eligibility
+      Eligibility<br>
       For union members who are facing financial hardship as follows:
         * Suffered from an income drop of at least 30 per cent of your monthly salary/earnings due to COVID-19, or 
         * A self-employed person (SEP) whose income has been adversely affected due to COVID-19 related job or event cancellations, or 
@@ -256,7 +256,8 @@ accordion2:
 
       Benefits
         * One-time $500 credit top-up
-        * Eligible citizens will receive the top-up in their SkillsFuture Credit accounts on **1 October 2020**
+      
+      Eligible citizens will receive the top-up in their SkillsFuture Credit accounts on **1 October 2020**
         
         **This is an auto-inclusion scheme - no application is required.** You may login to your SkillsFuture Credit account at MySkillsFuture from 1 October 2020 to check your SkillsFuture Credit balance.
 
@@ -350,7 +351,8 @@ accordion3:
 
       Benefits
         * One-time $500 credit top-up
-        * Eligible citizens will receive the top-up in their SkillsFuture Credit accounts on **1 October 2020**
+      
+      Eligible citizens will receive the top-up in their SkillsFuture Credit accounts on **1 October 2020**
         
         **This is an auto-inclusion scheme - no application is required.** You may login to your SkillsFuture Credit account at MySkillsFuture from 1 October 2020 to check your SkillsFuture Credit balance.
 
@@ -441,7 +443,7 @@ accordion4:
 
   - title: NTUC Care Fund (COVID-19)
     content: |
-      Eligibility
+      Eligibility<br>
       For union members who are facing financial hardship as follows:
         * Suffered from an income drop of at least 30 per cent of your monthly salary/earnings due to COVID-19, or 
         * A self-employed person (SEP) whose income has been adversely affected due to COVID-19 related job or event cancellations, or 
@@ -470,7 +472,8 @@ accordion4:
 
       Benefits
         * One-time $500 credit top-up
-        * Eligible citizens will receive the top-up in their SkillsFuture Credit accounts on **1 October 2020**
+      
+      Eligible citizens will receive the top-up in their SkillsFuture Credit accounts on **1 October 2020**
         
         **This is an auto-inclusion scheme - no application is required.** You may login to your SkillsFuture Credit account at MySkillsFuture from 1 October 2020 to check your SkillsFuture Credit balance.
 
@@ -583,7 +586,7 @@ accordion5:
 
   - title: NTUC Care Fund (COVID-19)
     content: |
-      Eligibility
+      Eligibility<br>
       For union members who are facing financial hardship as follows:
         * Suffered from an income drop of at least 30 per cent of your monthly salary/earnings due to COVID-19, or 
         * A self-employed person (SEP) whose income has been adversely affected due to COVID-19 related job or event cancellations, or 
@@ -628,7 +631,7 @@ accordion5:
 
   - title: Self-Employed Person Income Relief Scheme (SIRS)
     content: |
-      Eligibility
+      Eligibility<br>
       For Singaporean SEPs who meet all of the following criteria will be automatically eligible for SIRS.
       * Started work as an SEP on or before 25 March 2020;
       * Declared a positive Net Trade Income (NTI) of not more than $100,000 for Work Year 2018;
@@ -643,8 +646,8 @@ accordion5:
       Benefits
         * Receive three quarterly cash payouts of $3,000 in end-May, July and Oct 2020
       
-      For eligible applicants, you will **automatically receive SIRS payout** - there is no need to submit an application.
-      Individuals who marginally missed one of the eligibility criteria and are facing difficult circumstances can [submit an application[https://www.ntuc.com.sg/sirs/apply-now/){:target="_blank"} to NTUC for consideration.
+      For eligible applicants, you will **automatically receive SIRS payout** - there is no need to submit an application.<br><br>
+      Individuals who marginally missed one of the eligibility criteria and are facing difficult circumstances can [submit an application](https://www.ntuc.com.sg/sirs/apply-now/){:target="_blank"} to NTUC for consideration.
 
       [Find out more](https://www.ntuc.com.sg/sirs/){:target="_blank"}<br>
       Call: <a href="tel:6713 5777">6713 5777</a><br>
@@ -669,7 +672,8 @@ accordion5:
 
       Benefits
         * One-time $500 credit top-up
-        * Eligible citizens will receive the top-up in their SkillsFuture Credit accounts on **1 October 2020**
+      
+      Eligible citizens will receive the top-up in their SkillsFuture Credit accounts on **1 October 2020**
         
         **This is an auto-inclusion scheme - no application is required.** You may login to your SkillsFuture Credit account at MySkillsFuture from 1 October 2020 to check your SkillsFuture Credit balance.
 
