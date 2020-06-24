@@ -258,7 +258,6 @@ accordion2:
         * For lower-income households with at least one Singapore Citizen or Permanent Resident whose family member(s) have contracted COVID-19, or are on Stay-Home Notice (SHN), mandatory Leave of Absence (LOA), or Home Quarantine Order (HQO)
         * Loss of complete or partial (at least 10%) household income due to COVID-19
         * Prior household income of $3,900, or per capita household income of $1,350
-        * ComCare clients may apply
 
       Benefits
         * One-time lump sum of up to $1,000 (depending on the household's per capita income after being affected by COVID-19), credited into bank account
@@ -382,7 +381,6 @@ accordion3:
         * For lower-income households with at least one Singapore Citizen or Permanent Resident whose family member(s) have contracted COVID-19, or are on Stay-Home Notice (SHN), mandatory Leave of Absence (LOA), or Home Quarantine Order (HQO)
         * Loss of complete or partial (at least 10%) household income due to COVID-19
         * Prior household income of $3,900, or per capita household income of $1,350
-        * ComCare clients may apply
 
       Benefits
         * One-time lump sum of up to $1,000 (depending on the household's per capita income after being affected by COVID-19), credited into bank account
@@ -534,7 +532,6 @@ accordion4:
         * For lower-income households with at least one Singapore Citizen or Permanent Resident whose family member(s) have contracted COVID-19, or are on Stay-Home Notice (SHN), mandatory Leave of Absence (LOA), or Home Quarantine Order (HQO)
         * Loss of complete or partial (at least 10%) household income due to COVID-19
         * Prior household income of $3,900, or per capita household income of $1,350
-        * ComCare clients may apply
 
       Benefits
         * One-time lump sum of up to $1,000 (depending on the household's per capita income after being affected by COVID-19), credited into bank account
