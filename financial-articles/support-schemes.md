@@ -704,7 +704,7 @@ accordion5:
 
   - title: Self-Employed Person Income Relief Scheme (SIRS)
     content: |
-      Eligibility
+      Eligibility<br>
       For Singaporean SEPs who meet all of the following criteria will be automatically eligible for SIRS.
       * Started work as an SEP on or before 25 March 2020;
       * Declared a positive Net Trade Income (NTI) of not more than $100,000 for Work Year 2018;
@@ -719,8 +719,8 @@ accordion5:
       Benefits
         * Receive three quarterly cash payouts of $3,000 in end-May, July and Oct 2020
       
-      For eligible applicants, you will **automatically receive SIRS payout** - there is no need to submit an application.
-      Individuals who marginally missed one of the eligibility criteria and are facing difficult circumstances can [submit an application[https://www.ntuc.com.sg/sirs/apply-now/){:target="_blank"} to NTUC for consideration.
+      For eligible applicants, you will **automatically receive SIRS payout** - there is no need to submit an application.<br>
+      Individuals who marginally missed one of the eligibility criteria and are facing difficult circumstances can [submit an application](https://www.ntuc.com.sg/sirs/apply-now/){:target="_blank"} to NTUC for consideration.
 
       [Find out more](https://www.ntuc.com.sg/sirs/){:target="_blank"}<br>
       Call: <a href="tel:6713 5777">6713 5777</a><br>
