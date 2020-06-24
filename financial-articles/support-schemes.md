@@ -185,7 +185,7 @@ accordion2:
         * For loss of at least 30% of salary: Up to $500/month (for 3 months) credited into bank account
         * Job and Training Support by Workforce Singapore (WSG) or the Employment and Employability Institute (e2i)
 
-      [Apply online](https://go.gov.sg/csg){:target="_blank"} **(9am to 6pm daily) till 30 September 2020.**. Supporting documents are required. Those who are not able to apply online can call the ComCare hotline to schedule an application slot at their [nearest Social Service office.](go.gov.sg/ssolocator){:target="_blank"}
+      [Apply online](https://go.gov.sg/csg){:target="_blank"} **(9am to 6pm daily) till 30 September 2020.** Supporting documents are required. Those who are not able to apply online can call the ComCare hotline to schedule an application slot at their [nearest Social Service office.](go.gov.sg/ssolocator){:target="_blank"}
 
       [Find out more](https://www.msf.gov.sg/assistance/Pages/covid19relief.aspx#CSG){:target="_blank"}<br>
       Call the ComCare Call Hotline <a href="tel:1800-222-0000">1800-222-0000</a> for assistance form.<br>
@@ -401,7 +401,7 @@ accordion4:
         * For loss of at least 30% of salary: Up to $500/month (for 3 months) credited into bank account
         * Job and Training Support by Workforce Singapore (WSG) or the Employment and Employability Institute (e2i)
 
-      [Apply online](https://go.gov.sg/csg){:target="_blank"} **(9am to 6pm daily) till 30 September 2020.**. Supporting documents are required. Those who are not able to apply online can call the ComCare hotline to schedule an application slot at their [nearest Social Service office.](go.gov.sg/ssolocator){:target="_blank"}
+      [Apply online](https://go.gov.sg/csg){:target="_blank"} **(9am to 6pm daily) till 30 September 2020.** Supporting documents are required. Those who are not able to apply online can call the ComCare hotline to schedule an application slot at their [nearest Social Service office.](go.gov.sg/ssolocator){:target="_blank"}
 
       [Find out more](https://www.msf.gov.sg/assistance/Pages/covid19relief.aspx#CSG){:target="_blank"}<br>
       Call the ComCare Call Hotline <a href="tel:1800-222-0000">1800-222-0000</a> for assistance form.<br>
