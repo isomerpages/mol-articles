@@ -212,18 +212,16 @@ accordion2:
 
       [Find out more](https://eservice.imda.gov.sg/das/homepage#){:target="_blank"}<br>
 
-  - title: NTUC Care Fund
+  - title: NTUC Care Fund (COVID-19)
     content: |
-      A one-off cash relief to eligible union members who are facing hardship due to COVID-19, to help you tide over daily necessities during this challenging period.
-
       Eligibility
+      For union members who are facing financial hardship as follows:
         * Suffered from an income drop of at least 30 per cent of your monthly salary/earnings due to COVID-19, or 
         * A self-employed person (SEP) whose income has been adversely affected due to COVID-19 related job or event cancellations, or 
         * Retrenched with retrenchment benefits of not more than $6,500  
 
       Benefits
         * A one-off cash relief of up to $300
-        * Pay-out quantum of between $50 to $300 per applicant varies depending on eligibility criteria.
 
       Apply via your unions or NTUC membership from **25 March 2020 to 30 September 2020**. Both existing union members as well as new sign-ups may apply. Sign up for the NTUC union membership beforehand [here.](https://ntuc.org.sg/wps/portal/up2/home/eserviceslanding?id=c2277849-0963-48aa-88aa-8d38f7ea3712){:target="_blank"}
       
@@ -297,13 +295,13 @@ accordion3:
       Call: <a href="tel:6671 7117">6671 7117</a><br>
       Email: <a href="mailto:customersupport@spgroup.com.sg">customersupport@spgroup.com.sg</a>
 
-  - title: Care and Support Package Enhanced Workfare Special Payment (WSP)
+  - title: Enhanced Workfare Special Payment (WSP)
     content: |
       Eligibility
         * For all Singaporean employees and self-employed persons who received Workfare Income Supplement (WIS) payments in Work Year 2019
 
       Benefits
-        * Eligible Singaporeans will receive $3,000. You can expect to receive your WSP in two payments - $1,500 in July 2020 and $1,500 in October 2020
+        * Eligible Singaporeans will receive a cash payout of $3,000, which will be paid in two equal payments of $1,500 each in July and October 2020
         * The WSP will be given to eligible Singaporeans in the same way they receive their WIS payments – direct crediting into their bank account, or cheque sent to their NRIC address
 
       **This is an auto-inclusion scheme - no application is required.**
@@ -486,18 +484,16 @@ accordion4:
 
       [Find out more](https://eservice.imda.gov.sg/das/homepage#){:target="_blank"}<br>
 
-  - title: NTUC Care Fund
+  - title: NTUC Care Fund (COVID-19)
     content: |
-      A one-off cash relief to eligible union members who are facing hardship due to COVID-19, to help you tide over daily necessities during this challenging period.
-
       Eligibility
+      For union members who are facing financial hardship as follows:
         * Suffered from an income drop of at least 30 per cent of your monthly salary/earnings due to COVID-19, or 
         * A self-employed person (SEP) whose income has been adversely affected due to COVID-19 related job or event cancellations, or 
         * Retrenched with retrenchment benefits of not more than $6,500  
 
       Benefits
         * A one-off cash relief of up to $300
-        * Pay-out quantum of between $50 to $300 per applicant varies depending on eligibility criteria.
 
       Apply via your unions or NTUC membership from **25 March 2020 to 30 September 2020**. Both existing union members as well as new sign-ups may apply. Sign up for the NTUC union membership beforehand [here.](https://ntuc.org.sg/wps/portal/up2/home/eserviceslanding?id=c2277849-0963-48aa-88aa-8d38f7ea3712){:target="_blank"}
       
@@ -583,13 +579,13 @@ accordion5:
       Call: <a href="tel:6671 7117">6671 7117</a><br>
       Email: <a href="mailto:customersupport@spgroup.com.sg">customersupport@spgroup.com.sg</a>
 
-  - title: Care and Support Package Enhanced Workfare Special Payment (WSP)
+  - title: Enhanced Workfare Special Payment (WSP)
     content: |
       Eligibility
         * For all Singaporean employees and self-employed persons who received Workfare Income Supplement (WIS) payments in Work Year 2019
 
       Benefits
-        * Eligible Singaporeans will receive $3,000. You can expect to receive your WSP in two payments - $1,500 in July 2020 and $1,500 in October 2020
+        * Eligible Singaporeans will receive a cash payout of $3,000, which will be paid in two equal payments of $1,500 each in July and October 2020
         * The WSP will be given to eligible Singaporeans in the same way they receive their WIS payments – direct crediting into their bank account, or cheque sent to their NRIC address
 
       **This is an auto-inclusion scheme - no application is required.**
@@ -614,7 +610,7 @@ accordion5:
       Call: <a href="tel:1800-866-3078">1800-866-3078</a><br>
       Email: <a href="mailto:sccrebates@mailbox.hdb.gov.sg">sccrebates@mailbox.hdb.gov.sg</a>
 
-  - title: Deferment of personal income tax (PIT) for SEPs
+  - title: Defer Tax Payment for Income Tax (SEPs)
     content: |
       Eligibility
         * For Self-Employed Persons (SEPs) who are to file their personal income tax (PIT) returns for YA2020 by 18 April 2020
@@ -658,18 +654,16 @@ accordion5:
 
       [Find out more](https://eservice.imda.gov.sg/das/homepage#){:target="_blank"}<br>
 
-  - title: NTUC Care Fund
+  - title: NTUC Care Fund (COVID-19)
     content: |
-      A one-off cash relief to eligible union members who are facing hardship due to COVID-19, to help you tide over daily necessities during this challenging period.
-
       Eligibility
+      For union members who are facing financial hardship as follows:
         * Suffered from an income drop of at least 30 per cent of your monthly salary/earnings due to COVID-19, or 
         * A self-employed person (SEP) whose income has been adversely affected due to COVID-19 related job or event cancellations, or 
         * Retrenched with retrenchment benefits of not more than $6,500  
 
       Benefits
         * A one-off cash relief of up to $300
-        * Pay-out quantum of between $50 to $300 per applicant varies depending on eligibility criteria.
 
       Apply via your unions or NTUC membership from **25 March 2020 to 30 September 2020**. Both existing union members as well as new sign-ups may apply. Sign up for the NTUC union membership beforehand [here.](https://ntuc.org.sg/wps/portal/up2/home/eserviceslanding?id=c2277849-0963-48aa-88aa-8d38f7ea3712){:target="_blank"}
       
@@ -705,19 +699,25 @@ accordion5:
       80 Jurong East St 21 Level 2<br>
       Singapore 609607
 
-  - title: Self-Employed Persons Income Relief Scheme (SIRS)
+  - title: Self-Employed Person Income Relief Scheme (SIRS)
     content: |
       Eligibility
-      * For Singaporean Self-Employed Persons (SEPs) aged 37 (as at 31 Dec 2020) and over
-      * Declared positive Net Trade Income to the Inland Revenue Authority of Singapore (IRAS) / CPF Board (CPFB) for Work Year 2018 
-      * Individuals who marginally missed one of the eligibility criteria and are facing difficult circumstances, you can now submit an application to NTUC for consideration
+      For Singaporean SEPs who meet all of the following criteria will be automatically eligible for SIRS.
+      * Started work as an SEP on or before 25 March 2020;
+      * Declared a positive Net Trade Income (NTI) of not more than $100,000 for Work Year 2018;
+      * If SEP also has employment (i.e. dual status worker), the income earned as an employee must be not more than $2,300/month;
+      * Live in a property with an AV not more than $21,000; and
+      * Do not own two or more properties.
+      
+      For married Singaporean SEPs, the following additional criteria apply:
+      * The individual and spouse together do not own two or more properties; and
+      * The Assessable Income of his/her spouse does not exceed $70,000.
 
       Benefits
         * Receive three quarterly cash payouts of $3,000 in end-May, July and Oct 2020
       
       For eligible applicants, you will **automatically receive SIRS payout** - there is no need to submit an application.
-
-      For appeal applicants, apply online [here](https://www.ntuc.com.sg/sirs/apply-now/){:target="_blank"}. Only applicable for SEPs who **do not automatically qualify and have marginally missed one of the eligibility criteria and are facing difficult circumstances.**
+      Individuals who marginally missed one of the eligibility criteria and are facing difficult circumstances can [submit an application[https://www.ntuc.com.sg/sirs/apply-now/){:target="_blank"} to NTUC for consideration.
 
       [Find out more](https://www.ntuc.com.sg/sirs/){:target="_blank"}<br>
       Call: <a href="tel:6713 5777">6713 5777</a><br>
