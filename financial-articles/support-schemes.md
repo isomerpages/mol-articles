@@ -719,7 +719,7 @@ accordion5:
       Benefits
         * Receive three quarterly cash payouts of $3,000 in end-May, July and Oct 2020
       
-      For eligible applicants, you will **automatically receive SIRS payout** - there is no need to submit an application.<br>
+      For eligible applicants, you will **automatically receive SIRS payout** - there is no need to submit an application.<br><br>
       Individuals who marginally missed one of the eligibility criteria and are facing difficult circumstances can [submit an application](https://www.ntuc.com.sg/sirs/apply-now/){:target="_blank"} to NTUC for consideration.
 
       [Find out more](https://www.ntuc.com.sg/sirs/){:target="_blank"}<br>
