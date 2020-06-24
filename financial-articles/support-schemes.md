@@ -278,7 +278,7 @@ accordion2:
 
       [Find out more](https://www.msf.gov.sg/assistance/Pages/covid19relief.aspx#TCF){:target="_blank"}<br>
 
-      For healthcare workers,  frontline workers and community volunteers who have contracted COVID-19 in the line of duty; and dependents of individuals who have succumbed to COVID-19, the Courage Fund has [other schemes to help you](https://www.ncss.gov.sg/Our-Initiatives/The-Courage-Fund){:target="_blank"}.
+      For healthcare workers,  frontline workers and community volunteers who have contracted COVID-19 in the line of duty; and dependents of individuals who have succumbed to COVID-19, the Courage Fund has [other schemes to help you](https://www.ncss.gov.sg/Our-Initiatives/The-Courage-Fund){:target="_blank"}
 
 accordion3:
   - title: Additional SkillsFuture Credit (Mid-Career Support)
@@ -373,7 +373,7 @@ accordion3:
 
       [Find out more](https://www.msf.gov.sg/assistance/Pages/covid19relief.aspx#TCF){:target="_blank"}<br>
 
-      For healthcare workers,  frontline workers and community volunteers who have contracted COVID-19 in the line of duty; and dependents of individuals who have succumbed to COVID-19, the Courage Fund has [other schemes to help you](https://www.ncss.gov.sg/Our-Initiatives/The-Courage-Fund){:target="_blank"}.
+      For healthcare workers,  frontline workers and community volunteers who have contracted COVID-19 in the line of duty; and dependents of individuals who have succumbed to COVID-19, the Courage Fund has [other schemes to help you](https://www.ncss.gov.sg/Our-Initiatives/The-Courage-Fund){:target="_blank"}
 
 accordion4:
   - title: Additional SkillsFuture Credit (Mid-Career Support)
@@ -494,7 +494,7 @@ accordion4:
 
       [Find out more](https://www.msf.gov.sg/assistance/Pages/covid19relief.aspx#TCF){:target="_blank"}<br>
 
-      For healthcare workers,  frontline workers and community volunteers who have contracted COVID-19 in the line of duty; and dependents of individuals who have succumbed to COVID-19, the Courage Fund has [other schemes to help you](https://www.ncss.gov.sg/Our-Initiatives/The-Courage-Fund){:target="_blank"}.
+      For healthcare workers,  frontline workers and community volunteers who have contracted COVID-19 in the line of duty; and dependents of individuals who have succumbed to COVID-19, the Courage Fund has [other schemes to help you](https://www.ncss.gov.sg/Our-Initiatives/The-Courage-Fund){:target="_blank"}
 
 accordion5:
   - title: Additional SkillsFuture Credit (Mid-Career Support)
@@ -694,7 +694,7 @@ accordion5:
 
       [Find out more](https://www.msf.gov.sg/assistance/Pages/covid19relief.aspx#TCF){:target="_blank"}<br>
 
-      For healthcare workers,  frontline workers and community volunteers who have contracted COVID-19 in the line of duty; and dependents of individuals who have succumbed to COVID-19, the Courage Fund has [other schemes to help you](https://www.ncss.gov.sg/Our-Initiatives/The-Courage-Fund){:target="_blank"}.
+      For healthcare workers,  frontline workers and community volunteers who have contracted COVID-19 in the line of duty; and dependents of individuals who have succumbed to COVID-19, the Courage Fund has [other schemes to help you](https://www.ncss.gov.sg/Our-Initiatives/The-Courage-Fund){:target="_blank"}
 ---
 
 # <a name="top"></a>Support is available for Singaporeans affected by COVID-19.
