@@ -243,7 +243,8 @@ accordion2:
 
       Benefits
         * One-time $500 credit top-up
-        * Eligible citizens will receive the top-up in their SkillsFuture Credit accounts on **1 October 2020**
+      
+      Eligible citizens will receive the top-up in their SkillsFuture Credit accounts on **1 October 2020**
         
         **This is an auto-inclusion scheme - no application is required.** You may login to your SkillsFuture Credit account at MySkillsFuture from 1 October 2020 to check your SkillsFuture Credit balance.
 
@@ -366,7 +367,8 @@ accordion3:
 
       Benefits
         * One-time $500 credit top-up
-        * Eligible citizens will receive the top-up in their SkillsFuture Credit accounts on **1 October 2020**
+      
+      Eligible citizens will receive the top-up in their SkillsFuture Credit accounts on **1 October 2020**
         
         **This is an auto-inclusion scheme - no application is required.** You may login to your SkillsFuture Credit account at MySkillsFuture from 1 October 2020 to check your SkillsFuture Credit balance.
 
@@ -515,7 +517,8 @@ accordion4:
 
       Benefits
         * One-time $500 credit top-up
-        * Eligible citizens will receive the top-up in their SkillsFuture Credit accounts on **1 October 2020**
+      
+      Eligible citizens will receive the top-up in their SkillsFuture Credit accounts on **1 October 2020**
         
         **This is an auto-inclusion scheme - no application is required.** You may login to your SkillsFuture Credit account at MySkillsFuture from 1 October 2020 to check your SkillsFuture Credit balance.
 
@@ -742,7 +745,8 @@ accordion5:
 
       Benefits
         * One-time $500 credit top-up
-        * Eligible citizens will receive the top-up in their SkillsFuture Credit accounts on **1 October 2020**
+      
+      Eligible citizens will receive the top-up in their SkillsFuture Credit accounts on **1 October 2020**
         
         **This is an auto-inclusion scheme - no application is required.** You may login to your SkillsFuture Credit account at MySkillsFuture from 1 October 2020 to check your SkillsFuture Credit balance.
 
