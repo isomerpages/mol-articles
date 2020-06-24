@@ -764,20 +764,20 @@ Find out what you are eligible for, learn about the benefits, and where you can 
 
 ### Jump to Section
 
-> [Pre-Existing Support Schemes](#schemes)
+> [Existing Support Schemes](#schemes)
 
-### Budget Relief Measures for
+### 2020 Budget Relief Measures for
 > [Unemployed Individuals](#unemployed)<br>
 > [Lower-Income Individuals](#lower-income)<br>
 > [Individuals with Reduced Income](#reduced-income)<br>
 > [Self-Employed Persons (SEPs)](#seps)<br>
 
-### <a name="schemes"></a>PRE-EXISTING SUPPORT SCHEMES
+### <a name="schemes"></a>EXISTING SUPPORT SCHEMES
 
 {% include accordion.html %}
 [Back to top](#top)
 
-### BUDGET RELIEF MEASURES
+### 2020 BUDGET RELIEF MEASURES
 
 ## <a name="unemployed"></a>UNEMPLOYED INDIVIDUALS
 
@@ -804,6 +804,6 @@ This page will be updated as additional schemes and measures are introduced.
 
 Please contact the respective government agencies if you have any questions about the listings on this page.  
 
-Last updated: 22 June 2020
+Last updated: 26 June 2020
  
 [Back to top](#top)
