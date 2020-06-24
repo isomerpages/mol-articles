@@ -117,6 +117,48 @@ accordion:
 
       [Find out more](https://beta.moe.gov.sg/fees-assistance-awards-scholarships/financial-assistance/){:target="_blank"} Alternatively, please approach your child's school to learn more on MOE FAS, or other school-based financial assistance.
 
+  - title: Workfare Income Supplement (WIS) Scheme
+    content: |
+      Eligiblity
+        * ≥35 years old on 31 Dec of the work year
+        * Earn ≤$2,300 in average gross monthly income
+        * Live in a property with annual value of ≤$13,000 and own maximum of 1 property
+        * If married, you and your spouse own 1 property and your spouse earns <$70,000 a year
+
+      Benefits
+        * Cash and CPF contribution up to a maximum of $4,000 a year (varies depending on age and pay)
+      
+      For Lower Income:<br>
+        * This is an auto-inclusion scheme - no application is required. Find out more [here.](https://www.workfare.gov.sg/Pages/WISEmployee.aspx){:target="_blank"}
+
+      For SEP:<br> 
+        * Declare your income to IRAS or CPFB and make MediSave contributions. The funds will be credited to your account directly after you have passed backend checks. Find out more [here.](https://www.workfare.gov.sg/Pages/WISSelfEmployed.aspx){:target="_blank"}
+
+  - title: Workfare Skills Support (WSS) Scheme
+    content: |
+      WTS will be replaced by Workfare Skills Support (WSS) Scheme on 1 July 2020.
+
+      Eligiblity
+        * ≥35 years old on 31 Dec of the work year (13 years old for Persons with Disabilities)
+        * Earn ≤$2,300 in average gross monthly income
+        * Live in a property with annual value of ≤$13,000 and own maximum of 1 property
+        * If married, you and your spouse own 1 property and your spouse earns <$70,000 a year
+
+      Benefits
+        * Training Allowance (TA) of $6 per hour, up to 180 hours per year, to attend training
+        * Training Commitment Award (TCA) when you complete training (up to $1,000 per year):
+          * $100 for 2 Statement of Attainments (SOAs)
+          * $500 for full qualification
+      
+      For Lower Income:<br>
+        * This is an auto-inclusion scheme - no application is required. Find out more [here.](https://www.workfare.gov.sg/Pages/WTSEmployee.aspx){:target="_blank"}
+
+      For SEP:<br> 
+        * **For TA**: Within 120 days after completing the course, go to a WSG or e2i Career Centres to submit an application. Remember to bring along your NRIC, WTS notification letter, valid bank book/statement, course certification slip and valid employment documentation (e.g. payslip, employment letter or ACRA documents). After processing, the monies will be credited directly to your account or mailed to you as a cheque. 
+        * **For TCA**: This is an auto-inclusion scheme - no application is required.
+        * Find out more [here.](https://www.workfare.gov.sg/Pages/WTSSelfEmployed.aspx){:target="_blank"}
+
+
 accordion2:
   - title: Additional SkillsFuture Credit (Mid-Career Support)
     content: |
@@ -131,63 +173,32 @@ accordion2:
 
       [Find out more](https://www.skillsfuture.sg/credit){:target="_blank"}<br>
       Call: <a href="tel:6785 5785">6785 5785</a>
-      
-  - title: Care and Support Package Additional GST Voucher - U-Save Special Payment
-    content: |
-      Eligibility
-        * For all eligible HDB households. Eligible larger households with 5 or more members will receive additional rebate.
-
-      Benefits
-        * 2 times or 2.5 times their regular GST Voucher
-        * Eligible households will receive their regular GSTV – U-Save for FY2020 over four quarters: in April 2020, July 2020, October 2020 and January 2021
-        * Rebates will be credited to the eligible households’ utilities account to directly offset their utilities bills
-
-      **This is an auto-inclusion scheme - no application is required.**
-
-      [Find out more](www.gstvoucher.gov.sg/pages/u-save.aspx){:target="_blank"}<br>
-      Call: <a href="tel:6671 7117">6671 7117</a><br>
-      Email: <a href="mailto:customersupport@spgroup.com.sg">customersupport@spgroup.com.sg</a>
-
-  - title: Care and Support Package Service & Conservancy Charges (S&CC) Rebate
-    content: |
-      Eligibility
-        * For all eligible Singaporean households living in HDB flats
-
-      Benefits
-        * Between 1.5 and 3.5 months of S&CC over FY2020
-        * Eligible households will receive their S&CC Rebate over four quarters: in April 2020, July 2020, October 2020 and January 2021
-        * The rebate will be used to directly offset your S&CC bills of the corresponding month
-
-      **This is an auto-inclusion scheme - no application is required.**
-
-      [Find out more](https://www.singaporebudget.gov.sg/budget_2020/budget-measures/care-and-support-package){:target="_blank}<br>
-      Call: <a href="tel:1800-866-3078">1800-866-3078</a><br>
-      Email: <a href="mailto: sccrebates@mailbox.hdb.gov.sg">sccrebates@mailbox.hdb.gov.sg</a>
 
   - title: COVID-19 Support Grant
     content: |
       Eligibility
-        * For full/part time permanent or contract employees who are presently unemployed due to loss of job, involuntary No-Pay Leave (for 3 consecutive months), loss of at least 30% of salary (for 3 consecutive months) after 23 January 2020 as a result of the economic impact of COVID-19
-        * Those on ComCare, Self-Employed Person Income Relief Scheme, NSFs and interns are **not eligible**
+        * For Singaporeans or Permanent Residents, aged 16 and above, who are presently involuntarily unemployed due to retrenchment or contract termination, placed on involuntary No-Pay Leave (for 3 consecutive months), or are experiencing reduced monthly salary of at least 30 (for 3 consecutive months) after 23 January 2020, as a result of the economic impact of COVID-19
+        * Those on ComCare, Self-Employed Person Income Relief Scheme (SIRS), NSFs and interns are **not eligible**
 
       Benefits
-        * For loss of job and involuntary No-Pay Leave: Up to $800/month (for 3 months) credited into bank account
+        * For loss of job or involuntary No-Pay Leave: Up to $800/month (for 3 months) credited into bank account
         * For loss of at least 30% of salary: Up to $500/month (for 3 months) credited into bank account
+        * Job and Training Support by Workforce Singapore (WSG) or the Employment and Employability Institute (e2i)
 
-      [Apply online](https://go.gov.sg/csg){:target="_blank"} from **4 May 2020 to 30 September 2020 (9am to 6pm daily)**. Supporting documents are required. Alternatively, make an appointment with your nearest [Social Service Office](go.gov.sg/ssolocator){:target="_blank"} if you are unable to apply online.
+      [Apply online](https://go.gov.sg/csg){:target="_blank"} **till 30 September 2020 (9am to 6pm daily)**. Supporting documents are required. Those who are not able to apply online can call the ComCare hotline to schedule an application slot at their [nearest Social Service office.](go.gov.sg/ssolocator){:target="_blank"}
 
       [Find out more](https://www.msf.gov.sg/assistance/Pages/covid19relief.aspx#CSG){:target="_blank"}<br>
-      Call <a href="tel:1800-222-0000">1800-222-0000</a> if you need help filling in the online application form.<br>
+      Call the ComCare Call Hotline <a href="tel:1800-222-0000">1800-222-0000</a> for assistance form.<br>
       Email: <a href="mailto:ask_sso@msf.gov.sg">ask_sso@msf.gov.sg</a>
     
-  - title: Defer Tax Payment for Individual Income Tax (For non-self employed)
+  - title: Defer Tax Payment for Income Tax (For Employees)
     content: |
       Eligibility
         * For all non-self employed persons
-        * This deferment does **not** apply to non-Singaporean citizen employees who have sought tax clearance and employees of foreign employers
+        * **Does not** apply to non-Singaporean citizen employees who have sought tax clearance and employees of foreign employers
 
       Benefits
-        * Receive a deferment on your income tax payments due in May, June and July 2020, to help ease cash flow
+        * Defer your income tax payments due in May, June and July 2020, to help ease your cash flow
         * Income tax deduction to resume in August, September or October 2020
         * The end-date of your instalment plan will be extended by 3 months
 
@@ -211,6 +222,8 @@ accordion2:
       Singapore 911141
 
       [Find out more](https://eservice.imda.gov.sg/das/homepage#){:target="_blank"}<br>
+      Call: <a href="tel:6377 3800">6377 3800</a><br>
+      Email: <a href="mailto:digitalaccess@imda.gov.sg">digitalaccess@imda.gov.sg</a>
 
   - title: NTUC Care Fund (COVID-19)
     content: |
@@ -250,12 +263,12 @@ accordion2:
       [Find out more](https://www.skillsfuture.sg/credit){:target="_blank"}<br>
       Call: <a href="tel:6785 5785">6785 5785</a>
 
-  - title: The Courage Fund
+  - title: The Courage Fund – For Households Affected by COVID-19
     content: |
       Eligibility
         * For lower-income households with at least one Singapore Citizen or Permanent Resident whose family member(s) have contracted COVID-19, or are on Stay-Home Notice (SHN), mandatory Leave of Absence (LOA), or Home Quarantine Order (HQO)
         * Loss of complete or partial (at least 10%) household income due to COVID-19
-        * Prior household income of $3,900, or per capita household income of $1,350
+        * [As of 1 June 2020] Household has gross monthly income of ≤$6,200, or gross monthly per capita income of ≤$2,000, prior to being affected by COVID-19
 
       Benefits
         * One-time lump sum of up to $1,000 (depending on the household's per capita income after being affected by COVID-19), credited into bank account
@@ -263,6 +276,8 @@ accordion2:
       Download the [Courage Fund application form](https://www.msf.gov.sg/assistance/Documents/TCF%20Scheme-E-application-fund.pdf){:target="_blank:} and submit it to any of the 24 SSOs. Form is also available at any SSO. Please bring along supporting documents. Applications should be made **within 6 months from the end of the QO, LOA or SHN or discharge from hospitalisation due to COVID-19 (whichever is later)**.
 
       [Find out more](https://www.msf.gov.sg/assistance/Pages/covid19relief.aspx#TCF){:target="_blank"}<br>
+
+      For healthcare workers,  frontline workers and community volunteers who have contracted COVID-19 in the line of duty; and dependents of individuals who have succumbed to COVID-19, the Courage Fund has [other schemes to help you.](https://www.ncss.gov.sg/Our-Initiatives/The-Courage-Fund){:target="_blank"}
 
 accordion3:
   - title: Additional SkillsFuture Credit (Mid-Career Support)
@@ -278,22 +293,6 @@ accordion3:
 
       [Find out more](https://www.skillsfuture.sg/credit){:target="_blank"}.<br>
       Call: <a href="tel:6785 5785">6785 5785</a>
-      
-  - title: Care and Support Package Additional GST Voucher - U-Save Special Payment
-    content: |
-      Eligibility
-        * For all eligible HDB households. Eligible larger households with 5 or more members will receive additional rebate.
-
-      Benefits
-        * 2 times or 2.5 times their regular GST Voucher
-        * Eligible households will receive their regular GSTV – U-Save for FY2020 over four quarters: in April 2020, July 2020, October 2020 and January 2021
-        * Rebates will be credited to the eligible households’ utilities account to directly offset their utilities bills
-
-      **This is an auto-inclusion scheme - no application is required.**
-
-      [Find out more](www.gstvoucher.gov.sg/pages/u-save.aspx){:target="_blank"}.<br>
-      Call: <a href="tel:6671 7117">6671 7117</a><br>
-      Email: <a href="mailto:customersupport@spgroup.com.sg">customersupport@spgroup.com.sg</a>
 
   - title: Enhanced Workfare Special Payment (WSP)
     content: |
@@ -309,23 +308,6 @@ accordion3:
       [Find out more](https://www.singaporebudget.gov.sg/budget_2020/budget-measures/care-and-support-package){:target="_blank"}<br>
       Call: <a href="tel:1800-227-1188">1800-227-1188</a><br>
       Submit your enquiry [here](www.cpf.gov.sg/writetous){:target="_blank"}.
-
-  - title: Care and Support Package Service & Conservancy Charges (S&CC) Rebate
-    content: |
-      Eligibility
-        * For all eligible Singaporean households living in HDB flats
-
-      Benefits
-        * Between 1.5 and 3.5 months of S&CC over FY2020
-        * Eligible households will receive their S&CC Rebate over four quarters: in April 2020, July 2020, October 2020 and January 2021
-        * The rebate will be used to directly offset your S&CC bills of the corresponding month
-
-      **This is an auto-inclusion scheme - no application is required.**
-
-      [Find out more](https://www.singaporebudget.gov.sg/budget_2020/budget-measures/care-and-support-package){:target="_blank}<br>
-      Call: <a href="tel:1800-866-3078">1800-866-3078</a><br>
-
-      Email: <a href="mailto:sccrebates@mailbox.hdb.gov.sg">sccrebates@mailbox.hdb.gov.sg</a>
     
   - title: Defer Tax Payment for Individual Income Tax (For non-self employed)
     content: |
@@ -358,6 +340,8 @@ accordion3:
       Singapore 911141
 
       [Find out more](https://eservice.imda.gov.sg/das/homepage#){:target="_blank"}<br>
+      Call: <a href="tel:6377 3800">6377 3800</a><br>
+      Email: <a href="mailto:digitalaccess@imda.gov.sg">digitalaccess@imda.gov.sg</a>
 
   - title: SkillsFuture Credit Top-Up
     content: |
@@ -373,12 +357,12 @@ accordion3:
       [Find out more](https://www.skillsfuture.sg/credit){:target="_blank"}<br>
       Call: <a href="tel:6785 5785">6785 5785</a>
 
-  - title: The Courage Fund
+  - title: The Courage Fund – For Households Affected by COVID-19
     content: |
       Eligibility
         * For lower-income households with at least one Singapore Citizen or Permanent Resident whose family member(s) have contracted COVID-19, or are on Stay-Home Notice (SHN), mandatory Leave of Absence (LOA), or Home Quarantine Order (HQO)
         * Loss of complete or partial (at least 10%) household income due to COVID-19
-        * Prior household income of $3,900, or per capita household income of $1,350
+        * [As of 1 June 2020] Household has gross monthly income of ≤$6,200, or gross monthly per capita income of ≤$2,000, prior to being affected by COVID-19
 
       Benefits
         * One-time lump sum of up to $1,000 (depending on the household's per capita income after being affected by COVID-19), credited into bank account
@@ -386,6 +370,8 @@ accordion3:
       Download the [Courage Fund application form](https://www.msf.gov.sg/assistance/Documents/TCF%20Scheme-E-application-fund.pdf){:target="_blank:} and submit it to any of the 24 SSOs. Form is also available at any SSO. Please bring along supporting documents. Applications should be made **within 6 months from the end of the QO, LOA or SHN or discharge from hospitalisation due to COVID-19 (whichever is later)**.
 
       [Find out more](https://www.msf.gov.sg/assistance/Pages/covid19relief.aspx#TCF){:target="_blank"}<br>
+
+      For healthcare workers,  frontline workers and community volunteers who have contracted COVID-19 in the line of duty; and dependents of individuals who have succumbed to COVID-19, the Courage Fund has [other schemes to help you.](https://www.ncss.gov.sg/Our-Initiatives/The-Courage-Fund){:target="_blank"}
 
 accordion4:
   - title: Additional SkillsFuture Credit (Mid-Career Support)
@@ -401,65 +387,32 @@ accordion4:
 
       [Find out more](https://www.skillsfuture.sg/credit){:target="_blank"}.<br>
       Call: <a href="tel:6785 5785">6785 5785</a>
-      
-  - title: Care and Support Package Additional GST Voucher - U-Save Special Payment
-    content: |
-      Eligibility
-        * For all eligible HDB households. Eligible larger households with 5 or more members will receive additional rebate.
-
-      Benefits
-        * 2 times or 2.5 times their regular GST Voucher
-        * Eligible households will receive their regular GSTV – U-Save for FY2020 over four quarters: in April 2020, July 2020, October 2020 and January 2021
-        * Rebates will be credited to the eligible households’ utilities account to directly offset their utilities bills
-
-      **This is an auto-inclusion scheme - no application is required.**
-
-      [Find out more](www.gstvoucher.gov.sg/pages/u-save.aspx){:target="_blank"}.<br>
-      Call: <a href="tel:6671 7117">6671 7117</a><br>
-      Email: <a href="mailto:customersupport@spgroup.com.sg">customersupport@spgroup.com.sg</a>
-
-
-  - title: Care and Support Package Service & Conservancy Charges (S&CC) Rebate
-    content: |
-      Eligibility
-        * For all eligible Singaporean households living in HDB flats
-
-      Benefits
-        * Between 1.5 and 3.5 months of S&CC over FY2020
-        * Eligible households will receive their S&CC Rebate over four quarters: in April 2020, July 2020, October 2020 and January 2021
-        * The rebate will be used to directly offset your S&CC bills of the corresponding month
-
-      **This is an auto-inclusion scheme - no application is required.**
-
-      [Find out more](https://www.singaporebudget.gov.sg/budget_2020/budget-measures/care-and-support-package){:target="_blank}<br>
-      Call: <a href="tel:1800-866-3078">1800-866-3078</a><br>
-      Email: <a href="mailto:sccrebates@mailbox.hdb.gov.sg">sccrebates@mailbox.hdb.gov.sg</a>
-
 
   - title: COVID-19 Support Grant
     content: |
       Eligibility
-        * For full/part time permanent or contract employees who are presently unemployed due to loss of job, involuntary No-Pay Leave (for 3 consecutive months), loss of at least 30% of salary (for 3 consecutive months) after 23 January 2020 as a result of the economic impact of COVID-19
-        * Those on ComCare, Self-Employed Person Income Relief Scheme, NSFs and interns are **not eligible**
+        * For Singaporeans or Permanent Residents, aged 16 and above, who are presently involuntarily unemployed due to retrenchment or contract termination, placed on involuntary No-Pay Leave (for 3 consecutive months), or are experiencing reduced monthly salary of at least 30 (for 3 consecutive months) after 23 January 2020, as a result of the economic impact of COVID-19
+        * Those on ComCare, Self-Employed Person Income Relief Scheme (SIRS), NSFs and interns are **not eligible**
 
       Benefits
-        * For loss of job and involuntary No-Pay Leave: Up to $800/month (for 3 months) credited into bank account
+        * For loss of job or involuntary No-Pay Leave: Up to $800/month (for 3 months) credited into bank account
         * For loss of at least 30% of salary: Up to $500/month (for 3 months) credited into bank account
+        * Job and Training Support by Workforce Singapore (WSG) or the Employment and Employability Institute (e2i)
 
-      [Apply online](https://go.gov.sg/csg){:target="_blank"} from **4 May 2020 to 30 September 2020 (9am to 6pm daily)**. Supporting documents are required. Alternatively, make an appointment with your nearest [Social Service Office](go.gov.sg/ssolocator){:target="_blank"} if you are unable to apply online.
+      [Apply online](https://go.gov.sg/csg){:target="_blank"} **till 30 September 2020 (9am to 6pm daily)**. Supporting documents are required. Those who are not able to apply online can call the ComCare hotline to schedule an application slot at their [nearest Social Service office.](go.gov.sg/ssolocator){:target="_blank"}
 
       [Find out more](https://www.msf.gov.sg/assistance/Pages/covid19relief.aspx#CSG){:target="_blank"}<br>
-      Call <a href="tel:1800-222-0000">1800-222-0000</a> if you need help filling in the online application form.<br>
+      Call the ComCare Call Hotline <a href="tel:1800-222-0000">1800-222-0000</a> for assistance form.<br>
       Email: <a href="mailto:ask_sso@msf.gov.sg">ask_sso@msf.gov.sg</a>
     
   - title: Defer Tax Payment for Individual Income Tax (For non-self employed)
     content: |
       Eligibility
         * For all non-self employed persons
-        * This deferment does **not** apply to non-Singaporean citizen employees who have sought tax clearance and employees of foreign employers
+        * ** Does not** apply to non-Singaporean citizen employees who have sought tax clearance and employees of foreign employers
 
       Benefits
-        * Receive a deferment on your income tax payments due in May, June and July 2020, to help ease cash flow
+        * Defer your income tax payments due in May, June and July 2020, to help ease your cash flow
         * Income tax deduction to resume in August, September or October 2020
         * The end-date of your instalment plan will be extended by 3 months
 
@@ -483,6 +436,8 @@ accordion4:
       Singapore 911141
 
       [Find out more](https://eservice.imda.gov.sg/das/homepage#){:target="_blank"}<br>
+      Call: <a href="tel:6377 3800">6377 3800</a><br>
+      Email: <a href="mailto:digitalaccess@imda.gov.sg">digitalaccess@imda.gov.sg</a>
 
   - title: NTUC Care Fund (COVID-19)
     content: |
@@ -522,12 +477,12 @@ accordion4:
       [Find out more](https://www.skillsfuture.sg/credit){:target="_blank"}<br>
       Call: <a href="tel:6785 5785">6785 5785</a>
 
-  - title: The Courage Fund
+  - title: The Courage Fund – For Households Affected by COVID-19
     content: |
       Eligibility
         * For lower-income households with at least one Singapore Citizen or Permanent Resident whose family member(s) have contracted COVID-19, or are on Stay-Home Notice (SHN), mandatory Leave of Absence (LOA), or Home Quarantine Order (HQO)
         * Loss of complete or partial (at least 10%) household income due to COVID-19
-        * Prior household income of $3,900, or per capita household income of $1,350
+        * [As of 1 June 2020] Household has gross monthly income of ≤$6,200, or gross monthly per capita income of ≤$2,000, prior to being affected by COVID-19
 
       Benefits
         * One-time lump sum of up to $1,000 (depending on the household's per capita income after being affected by COVID-19), credited into bank account
@@ -535,6 +490,8 @@ accordion4:
       Download the [Courage Fund application form](https://www.msf.gov.sg/assistance/Documents/TCF%20Scheme-E-application-fund.pdf){:target="_blank:} and submit it to any of the 24 SSOs. Form is also available at any SSO. Please bring along supporting documents. Applications should be made **within 6 months from the end of the QO, LOA or SHN or discharge from hospitalisation due to COVID-19 (whichever is later)**.
 
       [Find out more](https://www.msf.gov.sg/assistance/Pages/covid19relief.aspx#TCF){:target="_blank"}<br>
+
+      For healthcare workers,  frontline workers and community volunteers who have contracted COVID-19 in the line of duty; and dependents of individuals who have succumbed to COVID-19, the Courage Fund has [other schemes to help you.](https://www.ncss.gov.sg/Our-Initiatives/The-Courage-Fund){:target="_blank"}
 
 accordion5:
   - title: Additional SkillsFuture Credit (Mid-Career Support)
@@ -563,22 +520,6 @@ accordion5:
 
       [Find out more](https://www.nac.gov.sg/whatwedo/support/sustaining-the-arts-during-covid-19/acrp.html)<br>
 
-  - title: Care and Support Package Additional GST Voucher - U-Save Special Payment
-    content: |
-      Eligibility
-        * For all eligible HDB households. Eligible larger households with 5 or more members will receive additional rebate.
-
-      Benefits
-        * 2 times or 2.5 times their regular GST Voucher
-        * Eligible households will receive their regular GSTV – U-Save for FY2020 over four quarters: in April 2020, July 2020, October 2020 and January 2021
-        * Rebates will be credited to the eligible households’ utilities account to directly offset their utilities bills
-
-      **This is an auto-inclusion scheme - no application is required.**
-
-      [Find out more](www.gstvoucher.gov.sg/pages/u-save.aspx){:target="_blank"}.<br>
-      Call: <a href="tel:6671 7117">6671 7117</a><br>
-      Email: <a href="mailto:customersupport@spgroup.com.sg">customersupport@spgroup.com.sg</a>
-
   - title: Enhanced Workfare Special Payment (WSP)
     content: |
       Eligibility
@@ -594,23 +535,7 @@ accordion5:
       Call: <a href="tel:1800-227-1188">1800-227-1188</a><br>
       Submit your enquiry [here](www.cpf.gov.sg/writetous){:target="_blank"}.
 
-  - title: Care and Support Package Service & Conservancy Charges (S&CC) Rebate
-    content: |
-      Eligibility
-        * For all eligible Singaporean households living in HDB flats
-
-      Benefits
-        * Between 1.5 and 3.5 months of S&CC over FY2020
-        * Eligible households will receive their S&CC Rebate over four quarters: in April 2020, July 2020, October 2020 and January 2021
-        * The rebate will be used to directly offset your S&CC bills of the corresponding month
-
-      **This is an auto-inclusion scheme - no application is required.**
-
-      [Find out more](https://www.singaporebudget.gov.sg/budget_2020/budget-measures/care-and-support-package){:target="_blank}<br>
-      Call: <a href="tel:1800-866-3078">1800-866-3078</a><br>
-      Email: <a href="mailto:sccrebates@mailbox.hdb.gov.sg">sccrebates@mailbox.hdb.gov.sg</a>
-
-  - title: Defer Tax Payment for Income Tax (SEPs)
+  - title: Defer Tax Payment for Income Tax (For Self-Employed)
     content: |
       Eligibility
         * For Self-Employed Persons (SEPs) who are to file their personal income tax (PIT) returns for YA2020 by 18 April 2020
@@ -653,6 +578,8 @@ accordion5:
       Singapore 911141
 
       [Find out more](https://eservice.imda.gov.sg/das/homepage#){:target="_blank"}<br>
+      Call: <a href="tel:6377 3800">6377 3800</a><br>
+      Email: <a href="mailto:digitalaccess@imda.gov.sg">digitalaccess@imda.gov.sg</a>
 
   - title: NTUC Care Fund (COVID-19)
     content: |
