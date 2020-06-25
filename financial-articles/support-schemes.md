@@ -117,45 +117,6 @@ accordion:
 
       [Find out more](https://beta.moe.gov.sg/fees-assistance-awards-scholarships/financial-assistance/){:target="_blank"} Alternatively, please approach your child's school to learn more on MOE FAS, or other school-based financial assistance.
 
-  - title: Workfare Income Supplement (WIS) Scheme
-    content: |
-      Eligiblity
-        * ≥35 years old on 31 Dec of the work year
-        * Earn ≤$2,300 in average gross monthly income
-        * Live in a property with annual value of ≤$13,000 and own maximum of 1 property
-        * If married, you and your spouse own 1 property and your spouse earns <$70,000 a year
-
-      Benefits
-        * Cash and CPF contribution up to a maximum of $4,000 a year (varies depending on age and pay)
-      
-      For Lower Income:<br>
-        * This is an auto-inclusion scheme - no application is required. [Find out more](https://www.workfare.gov.sg/Pages/WISEmployee.aspx){:target="_blank"}
-
-      For SEP:<br> 
-        * Declare your income to IRAS or CPFB and make MediSave contributions. The funds will be credited to your account directly after you have passed backend checks. [Find out more](https://www.workfare.gov.sg/Pages/WISSelfEmployed.aspx){:target="_blank"}
-
-  - title: Workfare Skills Support (WSS) Scheme
-    content: |
-      Eligiblity
-        * ≥35 years old on 31 Dec of the work year (13 years old for Persons with Disabilities)
-        * Earn ≤$2,300 in average gross monthly income
-        * Live in a property with annual value of ≤$13,000 and own maximum of 1 property
-        * If married, you and your spouse own 1 property and your spouse earns <$70,000 a year
-
-      Benefits
-        * Training Allowance (TA) of $6 per hour, up to 180 hours per year, to attend training
-        * Training Commitment Award (TCA) when you complete training (up to $1,000 per year):
-          * $100 for 2 Statement of Attainments (SOAs)
-          * $500 for full qualification
-      
-      For Lower Income:<br>
-        * This is an auto-inclusion scheme - no application is required. [Find out more](https://www.workfare.gov.sg/Pages/WTSEmployee.aspx){:target="_blank"}
-
-      For SEP:<br> 
-        * **For TA**: Within 120 days after completing the course, go to any WSG or e2i Career Centre to submit an application. Remember to bring along your NRIC, WSS notification letter, valid bank book/statement, course certification slip and valid employment documentation (e.g. payslip, employment letter or ACRA documents). After processing, the monies will be credited directly to your account or mailed to you as a cheque. 
-        * **For TCA**: This is an auto-inclusion scheme - no application is required.
-        * [Find out more](https://www.workfare.gov.sg/Pages/WTSSelfEmployed.aspx){:target="_blank"}
-
 
 accordion2:
   - title: Additional SkillsFuture Credit (Mid-Career Support)
@@ -749,6 +710,6 @@ This page will be updated as additional schemes and measures are introduced.
 
 Please contact the respective government agencies if you have any questions about the listings on this page.  
 
-Last updated: 26 June 2020
+Last updated: 25 June 2020
  
 [Back to top](#top)
