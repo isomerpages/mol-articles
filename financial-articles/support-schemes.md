@@ -193,7 +193,7 @@ accordion2:
         * Retrenched with retrenchment benefits of not more than $6,500  
 
       Benefits
-        * A one-off cash relief of up to $300
+        * A one-off cash relief between $50 to $300
 
       Apply via your unions or NTUC membership from **25 March 2020 to 30 September 2020**. Both existing union members as well as new sign-ups may apply. Sign up for the NTUC union membership beforehand [here.](https://ntuc.org.sg/wps/portal/up2/home/eserviceslanding?id=c2277849-0963-48aa-88aa-8d38f7ea3712){:target="_blank"}
       
@@ -409,7 +409,7 @@ accordion4:
         * Retrenched with retrenchment benefits of not more than $6,500  
 
       Benefits
-        * A one-off cash relief of up to $300
+        * A one-off cash relief between $50 to $300
 
       Apply via your unions or NTUC membership from **25 March 2020 to 30 September 2020**. Both existing union members as well as new sign-ups may apply. Sign up for the NTUC union membership beforehand [here.](https://ntuc.org.sg/wps/portal/up2/home/eserviceslanding?id=c2277849-0963-48aa-88aa-8d38f7ea3712){:target="_blank"}
       
@@ -552,7 +552,7 @@ accordion5:
         * Retrenched with retrenchment benefits of not more than $6,500  
 
       Benefits
-        * A one-off cash relief of up to $300
+        * A one-off cash relief between $50 to $300
 
       Apply via your unions or NTUC membership from **25 March 2020 to 30 September 2020**. Both existing union members as well as new sign-ups may apply. Sign up for the NTUC union membership beforehand [here.](https://ntuc.org.sg/wps/portal/up2/home/eserviceslanding?id=c2277849-0963-48aa-88aa-8d38f7ea3712){:target="_blank"}
       
