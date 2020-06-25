@@ -577,9 +577,9 @@ accordion5:
         * For courses that commence between 1 April and 30 April 2020, SEPs will receive a training allowance of $7.50 per hour
         * For courses that commence between 1 May and 31 December 2020, SEPs will receive an enhanced training allowance of $10 per hour
 
-      Before applying/registering for any courses, you must first receive a Letter of Eligibility (LOE) from NTUC’s e2i. If you have already received the SIRS Letter/Email by NTUC, you will not need to apply for the LOE. Otherwise, please apply for the Letter of Eligibility [here](https://e2i.com.sg/sep2020-form){:target="_blank"}.
+      Before applying/registering for any courses, you must first receive a Letter of Eligibility (LOE) from NTUC’s e2i. If you have already received the SIRS Letter/Email by CPF or NTUC, you will not need to apply for the LOE. Otherwise, please apply for the Letter of Eligibility [here](https://e2i.com.sg/sep2020-form){:target="_blank"}.
 
-      Submit your claims within 30 days of course completion [here](https://e2i.com.sg/sep2020-claimform){:target="_blank"}. **All courses must be completed by 31 Dec 2020**.
+      Submit your claims within 30 days of course completion [here](https://e2i.com.sg/sep2020-claimform){:target="_blank"}. **All courses must be completed by 31 Dec 2020. Training allowance is claimable for courses that start on any date from 1 Apr 2020 to 31 Dec 2020 and all claims are to be submitted by 28 February 2021.**.
 
       [Find out more](https://e2i.com.sg/individuals/ntuc-training-fund){:target="_blank"}<br>
       Call: <a href="tel:6474 0606">6474 0606</a><br>
