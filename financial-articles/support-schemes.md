@@ -5,7 +5,7 @@ accordion:
   - title: CapitaLand-U Care Resilience and Enablement (CAP+Ure) Fund
     content: |
       Eligibility
-        * Applicable for all **existing low-to-medium income union members** who are impacted by sudden loss of income or need interim financial support for their children's daily necessities and schooling needs
+        * Applicable for all **existing low-to-medium income union members** who are impacted by sudden loss of income and need interim financial support for their children's daily necessities and schooling needs
         * Monthly gross household income of $5,800 and below or per capita income of $1,450 and below if GHI exceeds $5,800
         * Children aged 21 years and below studying at eligible educational institutions: Government / Government-aided / Independent schools (primary and secondary) under the Ministry of Education; Junior colleges; Institute of Technical Education; Millennia Institute; Special education schools
         * 6 months of continuous paid-up union membership
