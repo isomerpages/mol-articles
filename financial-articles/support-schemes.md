@@ -703,7 +703,7 @@ Whether you have lost your job (including self-employment) or suffered a drop in
 
 The Government has committed close to $100 billion to stabilise the economy and protect livelihoods. A significant portion is set aside as cash relief and subsidies for affected individuals. 
 
-Those in need may also consider existing support schemes which offer additional support in the various areas of housing, healthcare and education.
+Those in need may also consider existing schemes which offer additional support in the immediate term from housing, healthcare, education and more.
 
 <img src="/images/holistic-support.jpg" alt="support"> 
 
