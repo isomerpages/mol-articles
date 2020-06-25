@@ -9,6 +9,7 @@ accordion:
         * Monthly gross household income of $5,800 and below or per capita income of $1,450 and below if GHI exceeds $5,800
         * Children aged 21 years and below studying at eligible educational institutions: Government / Government-aided / Independent schools (primary and secondary) under the Ministry of Education; Junior colleges; Institute of Technical Education; Millennia Institute; Special education schools
         * 6 months of continuous paid-up union membership
+        * Retrenchment benefits of not more than $6,500
 
       Benefits 
         * Each eligible child will receive a one-time disbursement of $250 NTUC FairPrice vouchers
