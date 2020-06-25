@@ -136,8 +136,6 @@ accordion:
 
   - title: Workfare Skills Support (WSS) Scheme
     content: |
-      WTS will be replaced by Workfare Skills Support (WSS) Scheme on 1 July 2020.
-
       Eligiblity
         * ≥35 years old on 31 Dec of the work year (13 years old for Persons with Disabilities)
         * Earn ≤$2,300 in average gross monthly income
@@ -154,7 +152,7 @@ accordion:
         * This is an auto-inclusion scheme - no application is required. [Find out more](https://www.workfare.gov.sg/Pages/WTSEmployee.aspx){:target="_blank"}
 
       For SEP:<br> 
-        * **For TA**: Within 120 days after completing the course, go to a WSG or e2i Career Centres to submit an application. Remember to bring along your NRIC, WTS notification letter, valid bank book/statement, course certification slip and valid employment documentation (e.g. payslip, employment letter or ACRA documents). After processing, the monies will be credited directly to your account or mailed to you as a cheque. 
+        * **For TA**: Within 120 days after completing the course, go to any WSG or e2i Career Centre to submit an application. Remember to bring along your NRIC, WSS notification letter, valid bank book/statement, course certification slip and valid employment documentation (e.g. payslip, employment letter or ACRA documents). After processing, the monies will be credited directly to your account or mailed to you as a cheque. 
         * **For TCA**: This is an auto-inclusion scheme - no application is required.
         * [Find out more](https://www.workfare.gov.sg/Pages/WTSSelfEmployed.aspx){:target="_blank"}
 
