@@ -591,7 +591,7 @@ accordion5:
 
   - title: Self-Employed Person Income Relief Scheme (SIRS)
     content: |
-      Eligibility<br>
+      Eligibility<br><br>
       For Singaporean self-employed persons (SEPs) with less means and family support, to help them tide over this period of extraordinary economic uncertainty. Singaporean SEPs who meet all of the following criteria will be automatically eligible for SIRS.
       * Started work as an SEP on or before 25 March 2020;
       * Declared a positive Net Trade Income (NTI) of not more than $100,000 for Work Year 2018;
