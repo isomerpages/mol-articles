@@ -669,6 +669,8 @@ Those in need may also consider existing schemes that offer additional support i
 
 Find out what you are eligible for, learn about the benefits, and where you can apply.
 
+<img src="/images/financialsupport.jpg" alt="support"> 
+
 ### Jump to Section
 
 > [Existing Support Schemes](#schemes)
