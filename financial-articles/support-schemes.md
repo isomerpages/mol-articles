@@ -150,22 +150,7 @@ accordion2:
       [Find out more](https://www.msf.gov.sg/assistance/Pages/covid19relief.aspx#CSG){:target="_blank"}<br>
       Call the ComCare Call Hotline <a href="tel:1800-222-0000">1800-222-0000</a> for assistance form.<br>
       Email: <a href="mailto:ask_sso@msf.gov.sg">ask_sso@msf.gov.sg</a>
-    
-  - title: Defer Tax Payment for Income Tax (For Employees)
-    content: |
-      Eligibility
-        * For all non-self employed persons
-        * Does not apply to non-Singaporean citizen employees who have sought tax clearance and employees of foreign employers
-
-      Benefits
-        * Defer your income tax payments due in May, June and July 2020, to help ease your cash flow
-        * Income tax deduction to resume in August, September or October 2020
-        * The end-date of your instalment plan will be extended by 3 months
-
-      [Apply online](https://form.gov.sg/#!/5d5ce149c0a8230012d27118){:target="_blank"} from **26 March 2020 to 31 July 2020**. Only one application is needed.
-
-      [Find out more](https://www.iras.gov.sg/irashome/Individuals/Locals/Paying-your-taxes-Claiming-refunds/Defer-Tax-Payment-for-Individual-Income-Tax/){:target="_blank"}<br>
-
+  
   - title: Home Access Programme
     content: |
       Eligibility
@@ -269,21 +254,6 @@ accordion3:
       [Find out more](https://www.singaporebudget.gov.sg/budget_2020/budget-measures/care-and-support-package){:target="_blank"}<br>
       Call: <a href="tel:1800-227-1188">1800-227-1188</a><br>
       Submit your enquiry [here](www.cpf.gov.sg/writetous){:target="_blank"}.
-    
-  - title: Defer Tax Payment for Income Tax (For Employees)
-    content: |
-      Eligibility
-        * For all non-self employed persons
-        * Does not apply to non-Singaporean citizen employees who have sought tax clearance and employees of foreign employers
-
-      Benefits
-        * Defer your income tax payments due in May, June and July 2020, to help ease your cash flow
-        * Income tax deduction to resume in August, September or October 2020
-        * The end-date of your instalment plan will be extended by 3 months
-
-      [Apply online](https://form.gov.sg/#!/5d5ce149c0a8230012d27118){:target="_blank"} from **26 March 2020 to 31 July 2020**. Only one application is needed.
-
-      [Find out more](https://www.iras.gov.sg/irashome/Individuals/Locals/Paying-your-taxes-Claiming-refunds/Defer-Tax-Payment-for-Individual-Income-Tax/){:target="_blank"}<br>
 
   - title: Home Access Programme
     content: |
@@ -366,21 +336,6 @@ accordion4:
       [Find out more](https://www.msf.gov.sg/assistance/Pages/covid19relief.aspx#CSG){:target="_blank"}<br>
       Call the ComCare Call Hotline <a href="tel:1800-222-0000">1800-222-0000</a> for assistance form.<br>
       Email: <a href="mailto:ask_sso@msf.gov.sg">ask_sso@msf.gov.sg</a>
-    
-  - title: Defer Tax Payment for Income Tax (For Employees)
-    content: |
-      Eligibility
-        * For all non-self employed persons
-        * Does not apply to non-Singaporean citizen employees who have sought tax clearance and employees of foreign employers
-
-      Benefits
-        * Defer your income tax payments due in May, June and July 2020, to help ease your cash flow
-        * Income tax deduction to resume in August, September or October 2020
-        * The end-date of your instalment plan will be extended by 3 months
-
-      [Apply online](https://form.gov.sg/#!/5d5ce149c0a8230012d27118){:target="_blank"} from **26 March 2020 to 31 July 2020**. Only one application is needed.
-
-      [Find out more](https://www.iras.gov.sg/irashome/Individuals/Locals/Paying-your-taxes-Claiming-refunds/Defer-Tax-Payment-for-Individual-Income-Tax/){:target="_blank"}<br>
 
   - title: Home Access Programme
     content: |
@@ -471,18 +426,6 @@ accordion5:
       [Find out more](https://www.skillsfuture.sg/credit){:target="_blank"}.<br>
       Call: <a href="tel:6785 5785">6785 5785</a>
 
-  - title: Capability Development Scheme for the Arts (CDSA)
-    content: |
-      Eligibility
-      + For artists who wish to upskill and grow capabilities through training programmes during this COVID-19 period. For training programmes that take place from 16 March 2020 to 31 December 2020.
-
-      Benefits
-      * Up to 90% of programme fees, including training allowance of $10/hour.
-
-      Email the completed forms and supporting documents to <a href="mailto:cdsa@nac.gov.sg">cdsa@nac.gov.sg</a> **by 31 July 2020, 5pm**.
-
-      [Find out more](https://www.nac.gov.sg/whatwedo/support/sustaining-the-arts-during-covid-19/acrp.html)<br>
-
   - title: Enhanced Workfare Special Payment (WSP)
     content: |
       Eligibility
@@ -510,20 +453,6 @@ accordion5:
       **This is an auto-inclusion scheme - no application is required.**
 
       [Find out more](http://www.iras.gov.sg){:target="_blank"}.
-
-  - title: Digital Presentation Grant for the Arts (DPG)
-    content: |
-      Eligibility
-        * For artists and arts organisations who wish to present work in digital form or via digital medium during this COVID-19 period
-        * Projects should be completed by 31 December 2020.
-
-      Benefits
-        * Up to $20,000 per project for successful applications
-
-      [Apply online](https://form.gov.sg/#!/5e93e176bf77f00011b13843){:target="_blank"} **by 31 July 2020, 5pm**.
-
-      [Find out more](https://www.nac.gov.sg/whatwedo/support/sustaining-the-arts-during-covid-19/acrp.html){:target="_blank"}<br>
-      Email: <a href="mailto:dpg@nac.gov.sg">dpg@nac.gov.sg</a>
 
   - title: Home Access Programme
     content: |
