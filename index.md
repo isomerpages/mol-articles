@@ -1,7 +1,7 @@
 ---
 layout: homepage
-title: Moments of Life
-description: Find out what financial support are available
+title: LifeSG
+description: Find out what financial support are available.
 favicon: /images/mol_fav.ico 
 image: /images/mol-logo.jpg
 permalink: /
