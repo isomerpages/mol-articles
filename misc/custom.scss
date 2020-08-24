@@ -257,6 +257,10 @@ $desktop: 960px + (2 * $gap) !default;
         border-bottom:1px solid $secondary;
       }
     }
+    img {
+      max-height: 56.25px !important;
+      max-width: 127.83px !important;
+    }
   }
 .navbar-item:hover {
   a {
