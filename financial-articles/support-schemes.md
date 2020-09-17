@@ -14,9 +14,9 @@ accordion:
       Benefits 
         * Each eligible child will receive a one-time disbursement of $250 NTUC FairPrice vouchers
 
-      To apply, please [download this application form](https://www.ntuc.org.sg/wps/wcm/connect/446508c0-594b-42cf-b3ed-13ed83886d13/CAP%2BUre+Fund+-+Application+Form_Revised+%28January%29.pdf?MOD=AJPERES){:target="_blank"}. Submit the completed form with all relevant supporting documents directly through your union.
+      To apply, please [download this application form](https://bit.ly/3lZqMYD){:target="_blank"}. Submit the completed form with all relevant supporting documents directly through your union.
 
-      [Find out more](https://ntuc.org.sg/wps/portal/up2/home/aboutntuc/ucare/ucareprogrammes){:target="_blank"}<br>
+      [Find out more](https://bit.ly/3kfvXBV){:target="_blank"}<br>
 
   - title: ComCare Short to Medium Term Assistance
     content: |
@@ -35,9 +35,9 @@ accordion:
         * Employment assistance such as job search and/or training
         * Referrals for other relevant services
 
-      Visit your [nearest Social Service Office (SSO)](https://www.msf.gov.sg/dfcs/sso/default.aspx){:target="_blank"} for assistance. Each SSO administers ComCare financial assistance and links applicants up with other forms of assistance they might need, such as family services. The SSO will assess your eligibility for assistance. 
+      Visit your [nearest Social Service Office (SSO)](https://bit.ly/3idvakn){:target="_blank"} for assistance. Each SSO administers ComCare financial assistance and links applicants up with other forms of assistance they might need, such as family services. The SSO will assess your eligibility for assistance. 
 
-      [Find out more](https://www.msf.gov.sg/Comcare/Pages/Short-to-Medium-Term-Assistance.aspx){:target="_blank"}<br>
+      [Find out more](https://bit.ly/2ZCrm50){:target="_blank"}<br>
       Call: ComCare Hotline @ <a href="tel:1800-222-0000">1800-222-0000</a>
       
   - title: Community Health Assist Scheme (CHAS)
@@ -46,13 +46,13 @@ accordion:
         * All Singaporeans are eligible for CHAS to receive healthcare subsidies for medical and dental care at participating General Practitioner (GP) and dental clinics near their home.
 
       Benefits
-        * The [CHAS benefits](https://www.chas.sg/content.aspx?id=636){:target="_blank"} you will receive are tiered according to household monthly income per person or the Annual Value (AV) of the home.
+        * The [CHAS benefits](https://bit.ly/33nqlir){:target="_blank"} you will receive are tiered according to household monthly income per person or the Annual Value (AV) of the home.
         * The amount that you pay will be based on the fees charged by the clinic, minus the CHAS subsidies. You may wish to check with CHAS clinics on their fees before receiving treatment at each visit
 
       While every Singapore Citizen is eligible for CHAS, the enrolment onto CHAS is still on an application basis.<br>
-      [Apply online](https://chas.moh.gov.sg/Home/Welcome){:target="_blank"} ([Online application user guide](https://www-moh-gov-sg-admin.cwp.sg/docs/librariesprovider5/default-document-library/chas-eservice-user-guide.pdf){:target="_blank"})
+      [Apply online](https://bit.ly/2ZC1WUX){:target="_blank"} ([Online application user guide](https://www-moh-gov-sg-admin.cwp.sg/docs/librariesprovider5/default-document-library/chas-eservice-user-guide.pdf){:target="_blank"})
      
-      [Find out more](https://www.chas.sg/content.aspx?id=306){:target="_blank"}<br>
+      [Find out more](https://bit.ly/32q5ueW){:target="_blank"}<br>
       Call: <a href="tel:1800-275-2427">1800-275-2427</a> (<a href="tel:1800-275-2427">1800-ASK-CHAS</a>), Monday to Friday from 8.30am to 6.00pm (excluding Public Holidays)<br>
 
   - title: HDB Bedroom Subletting
@@ -66,9 +66,9 @@ accordion:
         
       Note: A maximum of 6 occupants are allowed in each flat (including owners, authorised occupiers, and tenants).
 
-      [Apply online](https://services2.hdb.gov.sg/webapp/SX05AWSPCP/SX05PSPCPLogin.jsp) through the MyHDBPage. You are required to seek HDB's approval before the commencement of the tenancy. An administrative fee is payable with each application, at $10 per bedroom.
+      [Apply online](https://bit.ly/2F7kWUg) through the MyHDBPage. You are required to seek HDB's approval before the commencement of the tenancy. An administrative fee is payable with each application, at $10 per bedroom.
 
-      [Find out more](https://www.hdb.gov.sg/cs/infoweb/residential/renting-out-a-flat-room/renting-out-your-room){:target="_blank"}<br>
+      [Find out more](https://bit.ly/2ZCrRfo){:target="_blank"}<br>
       Call: <a href="tel:1800-225-5432">1800-225-5432</a><br>
 
   - title: HDB Financial Assistance Measures (FAM)
@@ -85,7 +85,7 @@ accordion:
 
       Apply by approaching any HDB Branch, or call the toll-free Branch Service Line at <a href="tel:1800-225-5432">1800-225-5432</a>.
 
-      [Find out more](https://www.hdb.gov.sg/cs/infoweb/residential/servicing-your-hdb-loan/mortgage-loan/assistance-measures){:target="_blank"}<br/>
+      [Find out more](https://bit.ly/3i5qsFg){:target="_blank"}<br/>
 
   - title: Kindergarten Fee Assistance Scheme (KiFAS)
     content: |
@@ -97,9 +97,9 @@ accordion:
         * Ranges from $21 - $170
         * Lower-income families will receive more financial assistance
 
-      To apply, please [download this application form](https://www.ecda.gov.sg/Documents/Subsidies_Financial%20Assistance/KiFAS%20Application%20Forms.zip){:target="_blank"}. Submit the completed form with all relevant supporting documents directly to ECDA through your child's kindergarten.
+      To apply, please [download this application form](https://bit.ly/3intsgB){:target="_blank"}. Submit the completed form with all relevant supporting documents directly to ECDA through your child's kindergarten.
       
-      [Find out more](https://www.ecda.gov.sg/Pages/Subsidies-and-Financial-Assistance.aspx#KIFAS){:target="_blank"}<br>
+      [Find out more](https://bit.ly/2FzPKNo){:target="_blank"}<br>
 
   - title: MOE Financial Assistance Scheme (FAS)
     content: |
@@ -114,9 +114,9 @@ accordion:
         * Transport subsidy
         * Bursary (Pre-U)
 
-      To apply, please [download this application form](https://beta.moe.gov.sg/uploads/MOE-FAS-Application-Form.pdf){:target="_blank"} or collect a copy at your child's school. Submit the completed form with all relevant supporting documents directly to the school.
+      To apply, please [download this application form](https://bit.ly/3bADRme){:target="_blank"} or collect a copy at your child's school. Submit the completed form with all relevant supporting documents directly to the school.
 
-      [Find out more](https://beta.moe.gov.sg/fees-assistance-awards-scholarships/financial-assistance/){:target="_blank"} Alternatively, please approach your child's school to learn more on MOE FAS, or other school-based financial assistance.
+      [Find out more](https://bit.ly/2RoldVF){:target="_blank"} Alternatively, please approach your child's school to learn more on MOE FAS, or other school-based financial assistance.
 
 
 accordion2:
@@ -131,13 +131,13 @@ accordion2:
       
       **This is an auto-inclusion scheme - no application is required.** You may login to your SkillsFuture Credit account at MySkillsFuture from 1 October 2020 to check your SkillsFuture Credit balance.
 
-      [Find out more](https://www.skillsfuture.sg/credit){:target="_blank"}<br>
+      [Find out more](https://bit.ly/2FdCNss){:target="_blank"}<br>
       Call: <a href="tel:6785 5785">6785 5785</a>
 
   - title: COVID-19 Support Grant
     content: |
       Eligibility
-        * For Singaporeans or Permanent Residents, aged 16 and above, who are presently involuntarily unemployed due to retrenchment or contract termination, placed on involuntary No-Pay Leave (for 3 consecutive months), or are experiencing reduced monthly salary of at least 30 (for 3 consecutive months) after 23 January 2020, as a result of the economic impact of COVID-19
+        * For Singaporeans or Permanent Residents, aged 16 and above, who are presently involuntarily unemployed due to retrenchment or contract termination, placed on involuntary No-Pay Leave (for 3 consecutive months), or are experiencing reduced monthly salary of at least 30% (for 3 consecutive months) after 23 January 2020, as a result of the economic impact of COVID-19
         * Those on ComCare, Self-Employed Person Income Relief Scheme (SIRS), NSFs and interns are **not eligible**
 
       Benefits
@@ -145,9 +145,9 @@ accordion2:
         * For loss of at least 30% of salary: Up to $500/month (for 3 months) credited into bank account
         * Job and Training Support by Workforce Singapore (WSG) or the Employment and Employability Institute (e2i)
 
-      [Apply online](https://go.gov.sg/csg){:target="_blank"} **(9am to 6pm daily) till 30 September 2020.** Supporting documents are required. Those who are not able to apply online can call the ComCare hotline to schedule an application slot at their [nearest Social Service office.](go.gov.sg/ssolocator){:target="_blank"}
+      [Apply online](https://bit.ly/327dj92){:target="_blank"} **(9am to 6pm daily) till 30 September 2020.** Supporting documents are required. Those who are not able to apply online can call the ComCare hotline to schedule an application slot at their [nearest Social Service office.](https://bit.ly/3idvakn){:target="_blank"}
 
-      [Find out more](https://www.msf.gov.sg/assistance/Pages/covid19relief.aspx#CSG){:target="_blank"}<br>
+      [Find out more](https://bit.ly/3iwziMn){:target="_blank"}<br>
       Call the ComCare Call Hotline <a href="tel:1800-222-0000">1800-222-0000</a> for assistance form.<br>
       Email: <a href="mailto:ask_sso@msf.gov.sg">ask_sso@msf.gov.sg</a>
   
@@ -160,13 +160,13 @@ accordion2:
       Benefits
       * Receive 2 years of subsidised fibre broadband connectivity, with an option to bundle with a tablet or smartphone
 
-      [Apply online](https://eservice.imda.gov.sg/neupc/singpasslogin.action?src=das&strParam=login&notprotected=true){:target="_blank"} or [download the application form](https://www.imda.gov.sg/-/media/Imda/Files/Programme/Home-Access/HA30-Application-Form.pdf){:target="_blank"}, complete it and mail to:<br>
+      [Apply online](https://bit.ly/35hTrlS){:target="_blank"} or [download the application form](https://bit.ly/3kkDu2f){:target="_blank"}, complete it and mail to:<br>
       Infocomm Media Development Authority (IMDA)<br>
       PSA Building Post Office<br>
       P.O. Box 316 <br>
       Singapore 911141
 
-      [Find out more](https://eservice.imda.gov.sg/das/homepage#){:target="_blank"}<br>
+      [Find out more](https://bit.ly/3ipIQZE){:target="_blank"}<br>
       Call: <a href="tel:6377 3800">6377 3800</a><br>
       Email: <a href="mailto:digitalaccess@imda.gov.sg">digitalaccess@imda.gov.sg</a>
 
@@ -181,17 +181,17 @@ accordion2:
       Benefits
         * A one-off cash relief between $50 to $300
 
-      Apply via your unions or NTUC membership from **25 March 2020 to 30 September 2020**. Both existing union members as well as new sign-ups may apply. Sign up for the NTUC union membership beforehand [here.](https://ntuc.org.sg/wps/portal/up2/home/eserviceslanding?id=c2277849-0963-48aa-88aa-8d38f7ea3712){:target="_blank"}
+      Apply via your unions or NTUC membership from **25 March 2020 to 30 September 2020**. Both existing union members as well as new sign-ups may apply. Sign up for the NTUC union membership beforehand [here.](https://bit.ly/3h4qpIw){:target="_blank"}
       
       For new sign-ups, please note that successful deduction of the first month’s membership fees is required prior to the NTUC Care Fund application.
       
       Ordinary Branch Members:<br> 
-      If you are a member with any of NTUC’s affiliated unions and associations (i.e. Ordinary Branch member), or if you are a member working in a unionised company, please download and complete this [application form](https://www.ntuc.org.sg/wps/wcm/connect/36bec66a-69e5-4431-b14d-4a7c628c9b67/NTUC+Care+Fund+%28COVID-19%29+-+Application+Form+%28for+OB+members%29.pdf?MOD=AJPERES){:target=")blank"} and submit to your union. 
+      If you are a member with any of NTUC’s affiliated unions and associations (i.e. Ordinary Branch member), or if you are a member working in a unionised company, please download and complete this [application form](https://bit.ly/3hvDf2y){:target=")blank"} and submit to your union. 
 
       General Branch Members:<br>
       Generally refer to NTUC union members who work in a company that is not unionised under any of NTUC's affiliated unions and associations. Please download the application form ([English](https://www.ntuc.org.sg/wps/wcm/connect/cb95b76d-eca7-469d-92d8-d1a69d10398f/NTUC+Care+Fund+%28COVID-19%29+-+Application+Form+%28for+GB+members%29.pdf?MOD=AJPERES){:target="_blank"} | [Chinese](https://www.ntuc.org.sg/wps/wcm/connect/96b34778-5b00-42dc-b247-c9a96d1e85e3/NTUC+Care+Fund+%28COVID-19%29+-+Application+Form+for+GB+Members+%28Chinese%29.pdf?MOD=AJPERES){:target="_blank"}). Submission instructions ([English](https://www.ntuc.org.sg/wps/wcm/connect/a48d8ce4-c8e8-42d4-aad4-a016a0a8c213/Instructions+to+apply_Infographic.jpg?MOD=AJPERES){:target="_blank"} | [Chinese](https://www.ntuc.org.sg/wps/wcm/connect/5aeba62d-a563-4004-8ec4-34ee475cfc49/Infographics+%28Chinese%29.jpg?MOD=AJPERES){:target="_blank"})
 
-      [Find out more](https://www.ntuc.org.sg/wps/portal/up2/home/aboutntuc/ucare/ucarefund/details?WCM_GLOBAL_CONTEXT=/content_library/ntuc/home/areas+of+interest/care+and+share/u+care+fund/de4345d3-f51f-408c-9963-0d7055c9ab25){:target="_blank"}<br>
+      [Find out more](https://bit.ly/32r3uDe){:target="_blank"}<br>
       Call: <a href="tel:6213 8008">6213 8008</a><br>
 
   - title: SkillsFuture Credit Top-Up
@@ -206,7 +206,7 @@ accordion2:
         
         **This is an auto-inclusion scheme - no application is required.** You may login to your SkillsFuture Credit account at MySkillsFuture from 1 October 2020 to check your SkillsFuture Credit balance.
 
-      [Find out more](https://www.skillsfuture.sg/credit){:target="_blank"}<br>
+      [Find out more](https://bit.ly/2FdCNss){:target="_blank"}<br>
       Call: <a href="tel:6785 5785">6785 5785</a>
 
   - title: The Courage Fund – For Households Affected by COVID-19
@@ -219,11 +219,11 @@ accordion2:
       Benefits
         * One-time lump sum of up to $1,000 (depending on the household's per capita income after being affected by COVID-19), credited into bank account
 
-      Download the [Courage Fund application form](https://www.msf.gov.sg/assistance/Documents/TCF%20Scheme-E-application-fund.pdf){:target="_blank:} and submit it to any of the 24 SSOs. Form is also available at any SSO. Please bring along supporting documents. Applications should be made **within 6 months from the end of the QO, LOA or SHN or discharge from hospitalisation due to COVID-19 (whichever is later)**.
+      Download the [Courage Fund application form](https://bit.ly/2FhrZJI){:target="_blank:} and submit it to any of the 24 SSOs. Form is also available at any SSO. Please bring along supporting documents. Applications should be made **within 6 months from the end of the QO, LOA or SHN or discharge from hospitalisation due to COVID-19 (whichever is later)**.
 
-      [Find out more](https://www.msf.gov.sg/assistance/Pages/covid19relief.aspx#TCF){:target="_blank"}<br>
+      [Find out more](https://bit.ly/3khgBNj){:target="_blank"}<br>
 
-      For healthcare workers,  frontline workers and community volunteers who have contracted COVID-19 in the line of duty; and dependents of individuals who have succumbed to COVID-19, the Courage Fund has [other schemes to help you](https://www.ncss.gov.sg/Our-Initiatives/The-Courage-Fund){:target="_blank"}
+      For healthcare workers,  frontline workers and community volunteers who have contracted COVID-19 in the line of duty; and dependents of individuals who have succumbed to COVID-19, the Courage Fund has [other schemes to help you](https://bit.ly/32sMUTf){:target="_blank"}
 
 accordion3:
   - title: Additional SkillsFuture Credit (Mid-Career Support)
@@ -237,7 +237,7 @@ accordion3:
       
       **This is an auto-inclusion scheme - no application is required.** You may login to your SkillsFuture Credit account at MySkillsFuture from 1 October 2020 to check your SkillsFuture Credit balance.
 
-      [Find out more](https://www.skillsfuture.sg/credit){:target="_blank"}.<br>
+      [Find out more](https://bit.ly/2FdCNss){:target="_blank"}.<br>
       Call: <a href="tel:6785 5785">6785 5785</a>
 
   - title: Enhanced Workfare Special Payment (WSP)
@@ -251,9 +251,9 @@ accordion3:
 
       **This is an auto-inclusion scheme - no application is required.**
 
-      [Find out more](https://www.singaporebudget.gov.sg/budget_2020/budget-measures/care-and-support-package){:target="_blank"}<br>
+      [Find out more](https://bit.ly/2R1sE4S){:target="_blank"}<br>
       Call: <a href="tel:1800-227-1188">1800-227-1188</a><br>
-      Submit your enquiry [here](www.cpf.gov.sg/writetous){:target="_blank"}.
+      Submit your enquiry [here](https://bit.ly/2DY3AbW){:target="_blank"}.
 
   - title: Home Access Programme
     content: |
@@ -264,13 +264,13 @@ accordion3:
       Benefits
       * Receive 2 years of subsidised fibre broadband connectivity, with an option to bundle with a tablet or smartphone
 
-      [Apply online](https://eservice.imda.gov.sg/neupc/singpasslogin.action?src=das&strParam=login&notprotected=true){:target="_blank"} or [download the application form](https://www.imda.gov.sg/-/media/Imda/Files/Programme/Home-Access/HA30-Application-Form.pdf){:target="_blank"}, complete it and mail to:<br>
+      [Apply online](https://bit.ly/35hTrlS){:target="_blank"} or [download the application form](https://bit.ly/3kkDu2f){:target="_blank"}, complete it and mail to:<br>
       Infocomm Media Development Authority (IMDA)<br>
       PSA Building Post Office<br>
       P.O. Box 316 <br>
       Singapore 911141
 
-      [Find out more](https://eservice.imda.gov.sg/das/homepage#){:target="_blank"}<br>
+      [Find out more](https://bit.ly/3ipIQZE){:target="_blank"}<br>
       Call: <a href="tel:6377 3800">6377 3800</a><br>
       Email: <a href="mailto:digitalaccess@imda.gov.sg">digitalaccess@imda.gov.sg</a>
 
@@ -286,7 +286,7 @@ accordion3:
         
         **This is an auto-inclusion scheme - no application is required.** You may login to your SkillsFuture Credit account at MySkillsFuture from 1 October 2020 to check your SkillsFuture Credit balance.
 
-      [Find out more](https://www.skillsfuture.sg/credit){:target="_blank"}<br>
+      [Find out more](https://bit.ly/2FdCNss){:target="_blank"}<br>
       Call: <a href="tel:6785 5785">6785 5785</a>
 
   - title: The Courage Fund – For Households Affected by COVID-19
@@ -299,11 +299,11 @@ accordion3:
       Benefits
         * One-time lump sum of up to $1,000 (depending on the household's per capita income after being affected by COVID-19), credited into bank account
 
-      Download the [Courage Fund application form](https://www.msf.gov.sg/assistance/Documents/TCF%20Scheme-E-application-fund.pdf){:target="_blank:} and submit it to any of the 24 SSOs. Form is also available at any SSO. Please bring along supporting documents. Applications should be made **within 6 months from the end of the QO, LOA or SHN or discharge from hospitalisation due to COVID-19 (whichever is later)**.
+      Download the [Courage Fund application form](https://bit.ly/2FhrZJI){:target="_blank:} and submit it to any of the 24 SSOs. Form is also available at any SSO. Please bring along supporting documents. Applications should be made **within 6 months from the end of the QO, LOA or SHN or discharge from hospitalisation due to COVID-19 (whichever is later)**.
 
-      [Find out more](https://www.msf.gov.sg/assistance/Pages/covid19relief.aspx#TCF){:target="_blank"}<br>
+      [Find out more](https://bit.ly/3khgBNj){:target="_blank"}<br>
 
-      For healthcare workers,  frontline workers and community volunteers who have contracted COVID-19 in the line of duty; and dependents of individuals who have succumbed to COVID-19, the Courage Fund has [other schemes to help you](https://www.ncss.gov.sg/Our-Initiatives/The-Courage-Fund){:target="_blank"}
+      For healthcare workers,  frontline workers and community volunteers who have contracted COVID-19 in the line of duty; and dependents of individuals who have succumbed to COVID-19, the Courage Fund has [other schemes to help you](https://bit.ly/32sMUTf){:target="_blank"}
 
 accordion4:
   - title: Additional SkillsFuture Credit (Mid-Career Support)
@@ -317,13 +317,13 @@ accordion4:
       
       **This is an auto-inclusion scheme - no application is required.** You may login to your SkillsFuture Credit account at MySkillsFuture from 1 October 2020 to check your SkillsFuture Credit balance.
 
-      [Find out more](https://www.skillsfuture.sg/credit){:target="_blank"}.<br>
+      [Find out more](https://bit.ly/2FdCNss){:target="_blank"}.<br>
       Call: <a href="tel:6785 5785">6785 5785</a>
 
   - title: COVID-19 Support Grant
     content: |
       Eligibility
-        * For Singaporeans or Permanent Residents, aged 16 and above, who are presently involuntarily unemployed due to retrenchment or contract termination, placed on involuntary No-Pay Leave (for 3 consecutive months), or are experiencing reduced monthly salary of at least 30 (for 3 consecutive months) after 23 January 2020, as a result of the economic impact of COVID-19
+        * For Singaporeans or Permanent Residents, aged 16 and above, who are presently involuntarily unemployed due to retrenchment or contract termination, placed on involuntary No-Pay Leave (for 3 consecutive months), or are experiencing reduced monthly salary of at least 30% (for 3 consecutive months) after 23 January 2020, as a result of the economic impact of COVID-19
         * Those on ComCare, Self-Employed Person Income Relief Scheme (SIRS), NSFs and interns are **not eligible**
 
       Benefits
@@ -331,9 +331,9 @@ accordion4:
         * For loss of at least 30% of salary: Up to $500/month (for 3 months) credited into bank account
         * Job and Training Support by Workforce Singapore (WSG) or the Employment and Employability Institute (e2i)
 
-      [Apply online](https://go.gov.sg/csg){:target="_blank"} **(9am to 6pm daily) till 30 September 2020.** Supporting documents are required. Those who are not able to apply online can call the ComCare hotline to schedule an application slot at their [nearest Social Service office.](go.gov.sg/ssolocator){:target="_blank"}
+      [Apply online](https://bit.ly/327dj92){:target="_blank"} **(9am to 6pm daily) till 30 September 2020.** Supporting documents are required. Those who are not able to apply online can call the ComCare hotline to schedule an application slot at their [nearest Social Service office.](https://bit.ly/3idvakn){:target="_blank"}
 
-      [Find out more](https://www.msf.gov.sg/assistance/Pages/covid19relief.aspx#CSG){:target="_blank"}<br>
+      [Find out more](https://bit.ly/3iwziMn){:target="_blank"}<br>
       Call the ComCare Call Hotline <a href="tel:1800-222-0000">1800-222-0000</a> for assistance form.<br>
       Email: <a href="mailto:ask_sso@msf.gov.sg">ask_sso@msf.gov.sg</a>
 
@@ -346,13 +346,13 @@ accordion4:
       Benefits
       * Receive 2 years of subsidised fibre broadband connectivity, with an option to bundle with a tablet or smartphone
 
-      [Apply online](https://eservice.imda.gov.sg/neupc/singpasslogin.action?src=das&strParam=login&notprotected=true){:target="_blank"} or [download the application form](https://www.imda.gov.sg/-/media/Imda/Files/Programme/Home-Access/HA30-Application-Form.pdf){:target="_blank"}, complete it and mail to:<br>
+      [Apply online](https://bit.ly/35hTrlS){:target="_blank"} or [download the application form](https://bit.ly/3kkDu2f){:target="_blank"}, complete it and mail to:<br>
       Infocomm Media Development Authority (IMDA)<br>
       PSA Building Post Office<br>
       P.O. Box 316 <br>
       Singapore 911141
 
-      [Find out more](https://eservice.imda.gov.sg/das/homepage#){:target="_blank"}<br>
+      [Find out more](https://bit.ly/3ipIQZE){:target="_blank"}<br>
       Call: <a href="tel:6377 3800">6377 3800</a><br>
       Email: <a href="mailto:digitalaccess@imda.gov.sg">digitalaccess@imda.gov.sg</a>
 
@@ -367,17 +367,17 @@ accordion4:
       Benefits
         * A one-off cash relief between $50 to $300
 
-      Apply via your unions or NTUC membership from **25 March 2020 to 30 September 2020**. Both existing union members as well as new sign-ups may apply. Sign up for the NTUC union membership beforehand [here.](https://ntuc.org.sg/wps/portal/up2/home/eserviceslanding?id=c2277849-0963-48aa-88aa-8d38f7ea3712){:target="_blank"}
+      Apply via your unions or NTUC membership from **25 March 2020 to 30 September 2020**. Both existing union members as well as new sign-ups may apply. Sign up for the NTUC union membership beforehand [here.](https://bit.ly/3h4qpIw){:target="_blank"}
       
       For new sign-ups, please note that successful deduction of the first month’s membership fees is required prior to the NTUC Care Fund application.
       
       Ordinary Branch Members:<br> 
-      If you are a member with any of NTUC’s affiliated unions and associations (i.e. Ordinary Branch member), or if you are a member working in a unionised company, please download and complete this [application form](https://www.ntuc.org.sg/wps/wcm/connect/36bec66a-69e5-4431-b14d-4a7c628c9b67/NTUC+Care+Fund+%28COVID-19%29+-+Application+Form+%28for+OB+members%29.pdf?MOD=AJPERES){:target=")blank"} and submit to your union. 
+      If you are a member with any of NTUC’s affiliated unions and associations (i.e. Ordinary Branch member), or if you are a member working in a unionised company, please download and complete this [application form](https://bit.ly/3hvDf2y){:target=")blank"} and submit to your union. 
 
       General Branch Members:<br>
       Generally refer to NTUC union members who work in a company that is not unionised under any of NTUC's affiliated unions and associations. Please download the application form ([English](https://www.ntuc.org.sg/wps/wcm/connect/cb95b76d-eca7-469d-92d8-d1a69d10398f/NTUC+Care+Fund+%28COVID-19%29+-+Application+Form+%28for+GB+members%29.pdf?MOD=AJPERES){:target="_blank"} | [Chinese](https://www.ntuc.org.sg/wps/wcm/connect/96b34778-5b00-42dc-b247-c9a96d1e85e3/NTUC+Care+Fund+%28COVID-19%29+-+Application+Form+for+GB+Members+%28Chinese%29.pdf?MOD=AJPERES){:target="_blank"}). Submission instructions ([English](https://www.ntuc.org.sg/wps/wcm/connect/a48d8ce4-c8e8-42d4-aad4-a016a0a8c213/Instructions+to+apply_Infographic.jpg?MOD=AJPERES){:target="_blank"} | [Chinese](https://www.ntuc.org.sg/wps/wcm/connect/5aeba62d-a563-4004-8ec4-34ee475cfc49/Infographics+%28Chinese%29.jpg?MOD=AJPERES){:target="_blank"})
 
-      [Find out more](https://www.ntuc.org.sg/wps/portal/up2/home/aboutntuc/ucare/ucarefund/details?WCM_GLOBAL_CONTEXT=/content_library/ntuc/home/areas+of+interest/care+and+share/u+care+fund/de4345d3-f51f-408c-9963-0d7055c9ab25){:target="_blank"}<br>
+      [Find out more](https://bit.ly/32r3uDe){:target="_blank"}<br>
       Call: <a href="tel:6213 8008">6213 8008</a><br>
 
   - title: SkillsFuture Credit Top-Up
@@ -392,7 +392,7 @@ accordion4:
         
         **This is an auto-inclusion scheme - no application is required.** You may login to your SkillsFuture Credit account at MySkillsFuture from 1 October 2020 to check your SkillsFuture Credit balance.
 
-      [Find out more](https://www.skillsfuture.sg/credit){:target="_blank"}<br>
+      [Find out more](https://bit.ly/2FdCNss){:target="_blank"}<br>
       Call: <a href="tel:6785 5785">6785 5785</a>
 
   - title: The Courage Fund – For Households Affected by COVID-19
@@ -405,11 +405,11 @@ accordion4:
       Benefits
         * One-time lump sum of up to $1,000 (depending on the household's per capita income after being affected by COVID-19), credited into bank account
 
-      Download the [Courage Fund application form](https://www.msf.gov.sg/assistance/Documents/TCF%20Scheme-E-application-fund.pdf){:target="_blank:} and submit it to any of the 24 SSOs. Form is also available at any SSO. Please bring along supporting documents. Applications should be made **within 6 months from the end of the QO, LOA or SHN or discharge from hospitalisation due to COVID-19 (whichever is later)**.
+      Download the [Courage Fund application form](https://bit.ly/2FhrZJI){:target="_blank:} and submit it to any of the 24 SSOs. Form is also available at any SSO. Please bring along supporting documents. Applications should be made **within 6 months from the end of the QO, LOA or SHN or discharge from hospitalisation due to COVID-19 (whichever is later)**.
 
-      [Find out more](https://www.msf.gov.sg/assistance/Pages/covid19relief.aspx#TCF){:target="_blank"}<br>
+      [Find out more](https://bit.ly/3khgBNj){:target="_blank"}<br>
 
-      For healthcare workers,  frontline workers and community volunteers who have contracted COVID-19 in the line of duty; and dependents of individuals who have succumbed to COVID-19, the Courage Fund has [other schemes to help you](https://www.ncss.gov.sg/Our-Initiatives/The-Courage-Fund){:target="_blank"}
+      For healthcare workers,  frontline workers and community volunteers who have contracted COVID-19 in the line of duty; and dependents of individuals who have succumbed to COVID-19, the Courage Fund has [other schemes to help you](https://bit.ly/32sMUTf){:target="_blank"}
 
 accordion5:
   - title: Additional SkillsFuture Credit (Mid-Career Support)
@@ -423,7 +423,7 @@ accordion5:
       
       **This is an auto-inclusion scheme - no application is required.** You may login to your SkillsFuture Credit account at MySkillsFuture from 1 October 2020 to check your SkillsFuture Credit balance.
 
-      [Find out more](https://www.skillsfuture.sg/credit){:target="_blank"}.<br>
+      [Find out more](https://bit.ly/2FdCNss){:target="_blank"}.<br>
       Call: <a href="tel:6785 5785">6785 5785</a>
 
   - title: Enhanced Workfare Special Payment (WSP)
@@ -437,9 +437,9 @@ accordion5:
 
       **This is an auto-inclusion scheme - no application is required.**
 
-      [Find out more](https://www.singaporebudget.gov.sg/budget_2020/budget-measures/care-and-support-package){:target="_blank"}<br>
+      [Find out more](https://bit.ly/2R1sE4S){:target="_blank"}<br>
       Call: <a href="tel:1800-227-1188">1800-227-1188</a><br>
-      Submit your enquiry [here](www.cpf.gov.sg/writetous){:target="_blank"}.
+      Submit your enquiry [here](https://bit.ly/2DY3AbW){:target="_blank"}.
 
   - title: Defer Tax Payment for Income Tax (For Self-Employed)
     content: |
@@ -452,7 +452,7 @@ accordion5:
 
       **This is an auto-inclusion scheme - no application is required.**
 
-      [Find out more](http://www.iras.gov.sg){:target="_blank"}.
+      [Find out more](https://bit.ly/337qd6v){:target="_blank"}.
 
   - title: Home Access Programme
     content: |
@@ -463,13 +463,13 @@ accordion5:
       Benefits
       * Receive 2 years of subsidised fibre broadband connectivity, with an option to bundle with a tablet or smartphone
 
-      [Apply online](https://eservice.imda.gov.sg/neupc/singpasslogin.action?src=das&strParam=login&notprotected=true){:target="_blank"} or [download the application form](https://www.imda.gov.sg/-/media/Imda/Files/Programme/Home-Access/HA30-Application-Form.pdf){:target="_blank"}, complete it and mail to:<br>
+      [Apply online](https://bit.ly/35hTrlS){:target="_blank"} or [download the application form](https://bit.ly/3kkDu2f){:target="_blank"}, complete it and mail to:<br>
       Infocomm Media Development Authority (IMDA)<br>
       PSA Building Post Office<br>
       P.O. Box 316 <br>
       Singapore 911141
 
-      [Find out more](https://eservice.imda.gov.sg/das/homepage#){:target="_blank"}<br>
+      [Find out more](https://bit.ly/3ipIQZE){:target="_blank"}<br>
       Call: <a href="tel:6377 3800">6377 3800</a><br>
       Email: <a href="mailto:digitalaccess@imda.gov.sg">digitalaccess@imda.gov.sg</a>
 
@@ -484,17 +484,17 @@ accordion5:
       Benefits
         * A one-off cash relief between $50 to $300
 
-      Apply via your unions or NTUC membership from **25 March 2020 to 30 September 2020**. Both existing union members as well as new sign-ups may apply. Sign up for the NTUC union membership beforehand [here.](https://ntuc.org.sg/wps/portal/up2/home/eserviceslanding?id=c2277849-0963-48aa-88aa-8d38f7ea3712){:target="_blank"}
+      Apply via your unions or NTUC membership from **25 March 2020 to 30 September 2020**. Both existing union members as well as new sign-ups may apply. Sign up for the NTUC union membership beforehand [here.](https://bit.ly/3h4qpIw){:target="_blank"}
       
       For new sign-ups, please note that successful deduction of the first month’s membership fees is required prior to the NTUC Care Fund application.
       
       Ordinary Branch Members:<br> 
-      If you are a member with any of NTUC’s affiliated unions and associations (i.e. Ordinary Branch member), or if you are a member working in a unionised company, please download and complete this [application form](https://www.ntuc.org.sg/wps/wcm/connect/36bec66a-69e5-4431-b14d-4a7c628c9b67/NTUC+Care+Fund+%28COVID-19%29+-+Application+Form+%28for+OB+members%29.pdf?MOD=AJPERES){:target=")blank"} and submit to your union. 
+      If you are a member with any of NTUC’s affiliated unions and associations (i.e. Ordinary Branch member), or if you are a member working in a unionised company, please download and complete this [application form](https://bit.ly/3hvDf2y){:target=")blank"} and submit to your union. 
 
       General Branch Members:<br>
       Generally refer to NTUC union members who work in a company that is not unionised under any of NTUC's affiliated unions and associations. Please download the application form ([English](https://www.ntuc.org.sg/wps/wcm/connect/cb95b76d-eca7-469d-92d8-d1a69d10398f/NTUC+Care+Fund+%28COVID-19%29+-+Application+Form+%28for+GB+members%29.pdf?MOD=AJPERES){:target="_blank"} | [Chinese](https://www.ntuc.org.sg/wps/wcm/connect/96b34778-5b00-42dc-b247-c9a96d1e85e3/NTUC+Care+Fund+%28COVID-19%29+-+Application+Form+for+GB+Members+%28Chinese%29.pdf?MOD=AJPERES){:target="_blank"}). Submission instructions ([English](https://www.ntuc.org.sg/wps/wcm/connect/a48d8ce4-c8e8-42d4-aad4-a016a0a8c213/Instructions+to+apply_Infographic.jpg?MOD=AJPERES){:target="_blank"} | [Chinese](https://www.ntuc.org.sg/wps/wcm/connect/5aeba62d-a563-4004-8ec4-34ee475cfc49/Infographics+%28Chinese%29.jpg?MOD=AJPERES){:target="_blank"})
 
-      [Find out more](https://www.ntuc.org.sg/wps/portal/up2/home/aboutntuc/ucare/ucarefund/details?WCM_GLOBAL_CONTEXT=/content_library/ntuc/home/areas+of+interest/care+and+share/u+care+fund/de4345d3-f51f-408c-9963-0d7055c9ab25){:target="_blank"}<br>
+      [Find out more](https://bit.ly/32r3uDe){:target="_blank"}<br>
       Call: <a href="tel:6213 8008">6213 8008</a><br>
 
   - title: NTUC Training Fund (SEPs)
@@ -506,11 +506,11 @@ accordion5:
         * For courses that commence between 1 April and 30 April 2020, SEPs will receive a training allowance of $7.50 per hour
         * For courses that commence between 1 May and 31 December 2020, SEPs will receive an enhanced training allowance of $10 per hour
 
-      Before applying/registering for any courses, you must first receive a Letter of Eligibility (LOE) from NTUC’s e2i. If you have already received the SIRS Letter/Email by CPF or NTUC, you will not need to apply for the LOE. Otherwise, please apply for the Letter of Eligibility [here](https://e2i.com.sg/sep2020-form){:target="_blank"}.
+      Before applying/registering for any courses, you must first receive a Letter of Eligibility (LOE) from NTUC’s e2i. If you have already received the SIRS Letter/Email by CPF or NTUC, you will not need to apply for the LOE. Otherwise, please apply for the Letter of Eligibility [here](https://bit.ly/329Mv8s){:target="_blank"}.
 
       Submit your claims within 30 days of course completion [here](https://e2i.com.sg/sep2020-claimform){:target="_blank"}. **Training allowance is claimable for courses that start on any date from 1 Apr 2020 to 31 Dec 2020 and all claims are to be submitted by 28 February 2021.**
 
-      [Find out more](https://e2i.com.sg/individuals/ntuc-training-fund){:target="_blank"}<br>
+      [Find out more](https://bit.ly/2FsEvqn){:target="_blank"}<br>
       Call: <a href="tel:6474 0606">6474 0606</a><br>
       Email: <a href="mailto:SEP2020@e2i.com.sg">SEP2020@e2i.com.sg</a><br>
       Walk-in queries:<br>
@@ -536,9 +536,9 @@ accordion5:
         * Receive three quarterly cash payouts of $3,000 in end-May, July and Oct 2020
       
       For eligible applicants, you will **automatically receive SIRS payout** - there is no need to submit an application.<br><br>
-      Individuals who marginally missed one of the eligibility criteria and are facing difficult circumstances can [submit an application](https://www.ntuc.com.sg/sirs/apply-now/){:target="_blank"} to NTUC for consideration.
+      Individuals who marginally missed one of the eligibility criteria and are facing difficult circumstances can [submit an application](https://bit.ly/2R91Yio){:target="_blank"} to NTUC for consideration.
 
-      [Find out more](https://www.ntuc.com.sg/sirs/){:target="_blank"}<br>
+      [Find out more](https://bit.ly/3bW6yKF){:target="_blank"}<br>
       Call: <a href="tel:6713 5777">6713 5777</a><br>
       Email: <a href="mailto:SIRS@ntuc.org.sg">SIRS@ntuc.org.sg</a>
 
@@ -550,9 +550,9 @@ accordion5:
       Benefits
         * Between $300 to $500, based on the assessment of individual needs.
 
-      [Apply online](https://forms.gle/Uw621e7GJvNEoBXm6){:target="_blank"} **by 31 December 2020**.
+      [Apply online](https://bit.ly/2FfwhS8){:target="_blank"} **by 31 December 2020**.
 
-      [Find out more](https://www.sampp.org.sg/covid-19-relief-fund/){:target="_blank"}
+      [Find out more](https://bit.ly/3mlqxqY){:target="_blank"}
 
   - title: SkillsFuture Credit Top-Up
     content: |
@@ -566,7 +566,7 @@ accordion5:
         
         **This is an auto-inclusion scheme - no application is required.** You may login to your SkillsFuture Credit account at MySkillsFuture from 1 October 2020 to check your SkillsFuture Credit balance.
 
-      [Find out more](https://www.skillsfuture.sg/credit){:target="_blank"}<br>
+      [Find out more](https://bit.ly/2FdCNss){:target="_blank"}<br>
       Call: <a href="tel:6785 5785">6785 5785</a>
       
   - title: The Courage Fund – For Households Affected by COVID-19
@@ -579,11 +579,11 @@ accordion5:
       Benefits
         * One-time lump sum of up to $1,000 (depending on the household's per capita income after being affected by COVID-19), credited into bank account
 
-      Download the [Courage Fund application form](https://www.msf.gov.sg/assistance/Documents/TCF%20Scheme-E-application-fund.pdf){:target="_blank:} and submit it to any of the 24 SSOs. Form is also available at any SSO. Please bring along supporting documents. Applications should be made **within 6 months from the end of the QO, LOA or SHN or discharge from hospitalisation due to COVID-19 (whichever is later)**.
+      Download the [Courage Fund application form](https://bit.ly/2FhrZJI){:target="_blank:} and submit it to any of the 24 SSOs. Form is also available at any SSO. Please bring along supporting documents. Applications should be made **within 6 months from the end of the QO, LOA or SHN or discharge from hospitalisation due to COVID-19 (whichever is later)**.
 
-      [Find out more](https://www.msf.gov.sg/assistance/Pages/covid19relief.aspx#TCF){:target="_blank"}<br>
+      [Find out more](https://bit.ly/3khgBNj){:target="_blank"}<br>
 
-      For healthcare workers,  frontline workers and community volunteers who have contracted COVID-19 in the line of duty; and dependents of individuals who have succumbed to COVID-19, the Courage Fund has [other schemes to help you](https://www.ncss.gov.sg/Our-Initiatives/The-Courage-Fund){:target="_blank"}
+      For healthcare workers,  frontline workers and community volunteers who have contracted COVID-19 in the line of duty; and dependents of individuals who have succumbed to COVID-19, the Courage Fund has [other schemes to help you](https://bit.ly/32sMUTf){:target="_blank"}
 ---
 
 # <a name="top"></a>Support is available for Singaporeans affected by COVID-19.
@@ -640,6 +640,6 @@ This page will be updated as additional schemes and measures are introduced.
 
 Please contact the respective government agencies if you have any questions about the listings on this page.  
 
-Last updated: 25 June 2020
+Last updated: 17 September 2020
  
 [Back to top](#top)
