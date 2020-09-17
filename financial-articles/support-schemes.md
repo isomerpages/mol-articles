@@ -145,7 +145,7 @@ accordion2:
         * For loss of at least 30% of salary: Up to $500/month (for 3 months) credited into bank account
         * Job and Training Support by Workforce Singapore (WSG) or the Employment and Employability Institute (e2i)
 
-      [Apply online](https://bit.ly/327dj92){:target="_blank"} **(9am to 6pm daily) till 30 September 2020.** Supporting documents are required. Those who are not able to apply online can call the ComCare hotline to schedule an application slot at their [nearest Social Service office.](https://bit.ly/3idvakn){:target="_blank"}
+      [Apply online](https://bit.ly/327dj92){:target="_blank"} **(9am to 6pm daily) till 31 December 2020. Existing/previous CSG recipients may re-apply from 1 October 2020.** Those who are not able to apply online can call the ComCare hotline to schedule an application slot at their [nearest Social Service office.](https://bit.ly/3idvakn){:target="_blank"} Processing time takes about 2 weeks upon submission of supporting documents.
 
       [Find out more](https://bit.ly/3iwziMn){:target="_blank"}<br>
       Call the ComCare Call Hotline <a href="tel:1800-222-0000">1800-222-0000</a> for assistance form.<br>
@@ -331,7 +331,7 @@ accordion4:
         * For loss of at least 30% of salary: Up to $500/month (for 3 months) credited into bank account
         * Job and Training Support by Workforce Singapore (WSG) or the Employment and Employability Institute (e2i)
 
-      [Apply online](https://bit.ly/327dj92){:target="_blank"} **(9am to 6pm daily) till 30 September 2020.** Supporting documents are required. Those who are not able to apply online can call the ComCare hotline to schedule an application slot at their [nearest Social Service office.](https://bit.ly/3idvakn){:target="_blank"}
+      [Apply online](https://bit.ly/327dj92){:target="_blank"} **(9am to 6pm daily) till 31 December 2020. Existing/previous CSG recipients may re-apply from 1 October 2020.** Those who are not able to apply online can call the ComCare hotline to schedule an application slot at their [nearest Social Service office.](https://bit.ly/3idvakn){:target="_blank"} Processing time takes about 2 weeks upon submission of supporting documents.
 
       [Find out more](https://bit.ly/3iwziMn){:target="_blank"}<br>
       Call the ComCare Call Hotline <a href="tel:1800-222-0000">1800-222-0000</a> for assistance form.<br>
