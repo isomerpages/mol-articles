@@ -136,7 +136,6 @@ Those in need may also consider existing schemes that offer additional support i
 {% include accordion.html %}
 
 
----
 
 This page will be updated as additional schemes and measures are introduced.
 
