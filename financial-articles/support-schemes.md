@@ -118,6 +118,472 @@ accordion:
 
       [Find out more](https://bit.ly/2RoldVF){:target="_blank"} Alternatively, please approach your child's school to learn more on MOE FAS, or other school-based financial assistance.
 
+
+accordion2:
+  - title: Additional SkillsFuture Credit (Mid-Career Support)
+    content: |
+      Eligibility
+        * For all Singaporeans who are 40 to 60 years old as at 31 December 2020
+
+      Benefits
+        * One-time $500 credit top-up
+        * Eligible citizens will receive the top-up in their SkillsFuture Credit accounts on **1 October 2020**
+      
+      **This is an auto-inclusion scheme - no application is required.** You may login to your SkillsFuture Credit account at MySkillsFuture from 1 October 2020 to check your SkillsFuture Credit balance.
+
+      [Find out more](https://bit.ly/2FdCNss){:target="_blank"}<br>
+      Call: <a href="tel:6785 5785">6785 5785</a>
+
+  - title: COVID-19 Support Grant
+    content: |
+      Eligibility
+        * For Singaporeans or Permanent Residents, aged 16 and above, who are presently involuntarily unemployed due to retrenchment or contract termination, placed on involuntary No-Pay Leave (for 3 consecutive months), or are experiencing reduced monthly salary of at least 30% (for 3 consecutive months) after 23 January 2020, as a result of the economic impact of COVID-19
+        * Those on ComCare, Self-Employed Person Income Relief Scheme (SIRS), NSFs and interns are **not eligible**
+
+      Benefits
+        * For loss of job or involuntary No-Pay Leave: Up to $800/month (for 3 months) credited into bank account
+        * For loss of at least 30% of salary: Up to $500/month (for 3 months) credited into bank account
+        * Job and Training Support by Workforce Singapore (WSG) or the Employment and Employability Institute (e2i)
+
+      [Apply online](https://bit.ly/327dj92){:target="_blank"} **(9am to 6pm daily) till 31 December 2020. Existing/previous CSG recipients may re-apply from 1 October 2020.** Those who are not able to apply online can call the ComCare hotline to schedule an application slot at their [nearest Social Service office.](https://bit.ly/3idvakn){:target="_blank"} Processing time takes about 2 weeks upon submission of supporting documents.
+
+      [Find out more](https://bit.ly/3iwziMn){:target="_blank"}<br>
+      Call the ComCare Call Hotline <a href="tel:1800-222-0000">1800-222-0000</a> for assistance form.<br>
+      Email: <a href="mailto:ask_sso@msf.gov.sg">ask_sso@msf.gov.sg</a>
+  
+  - title: Home Access Programme
+    content: |
+      Eligibility
+        * For HDB households with a monthly gross household income ≤ $1,900 or per capita income ≤ $650, and has at least one family member who is Singaporean
+        * You should not be an existing Home Access beneficiary or an existing NEU PC Plus beneficiary with broadband connectivity
+
+      Benefits
+      * Receive 2 years of subsidised fibre broadband connectivity, with an option to bundle with a tablet or smartphone
+
+      [Apply online](https://bit.ly/35hTrlS){:target="_blank"} or [download the application form](https://bit.ly/3kkDu2f){:target="_blank"}, complete it and mail to:<br>
+      Infocomm Media Development Authority (IMDA)<br>
+      PSA Building Post Office<br>
+      P.O. Box 316 <br>
+      Singapore 911141
+
+      [Find out more](https://bit.ly/3ipIQZE){:target="_blank"}<br>
+      Call: <a href="tel:6377 3800">6377 3800</a><br>
+      Email: <a href="mailto:digitalaccess@imda.gov.sg">digitalaccess@imda.gov.sg</a>
+
+  - title: NTUC Care Fund (COVID-19)
+    content: |
+      Eligibility<br>
+      For union members who are facing financial hardship as follows:
+        * Suffered from an income drop of at least 30 per cent of your monthly salary/earnings due to COVID-19, or 
+        * A self-employed person (SEP) whose income has been adversely affected due to COVID-19 related job or event cancellations, or 
+        * Retrenched with retrenchment benefits of not more than $6,500  
+
+      Benefits
+        * A one-off cash relief between $50 to $300
+
+      Apply via your unions or NTUC membership from **25 March 2020 to 30 September 2020**. Both existing union members as well as new sign-ups may apply. Sign up for the NTUC union membership beforehand [here.](https://bit.ly/3h4qpIw){:target="_blank"}
+      
+      For new sign-ups, please note that successful deduction of the first month’s membership fees is required prior to the NTUC Care Fund application.
+      
+      Ordinary Branch Members:<br> 
+      If you are a member with any of NTUC’s affiliated unions and associations (i.e. Ordinary Branch member), or if you are a member working in a unionised company, please download and complete this [application form](https://bit.ly/3hvDf2y){:target=")blank"} and submit to your union. 
+
+      General Branch Members:<br>
+      Generally refer to NTUC union members who work in a company that is not unionised under any of NTUC's affiliated unions and associations. Please download the application form ([English](https://www.ntuc.org.sg/wps/wcm/connect/cb95b76d-eca7-469d-92d8-d1a69d10398f/NTUC+Care+Fund+%28COVID-19%29+-+Application+Form+%28for+GB+members%29.pdf?MOD=AJPERES){:target="_blank"} | [Chinese](https://www.ntuc.org.sg/wps/wcm/connect/96b34778-5b00-42dc-b247-c9a96d1e85e3/NTUC+Care+Fund+%28COVID-19%29+-+Application+Form+for+GB+Members+%28Chinese%29.pdf?MOD=AJPERES){:target="_blank"}). Submission instructions ([English](https://www.ntuc.org.sg/wps/wcm/connect/a48d8ce4-c8e8-42d4-aad4-a016a0a8c213/Instructions+to+apply_Infographic.jpg?MOD=AJPERES){:target="_blank"} | [Chinese](https://www.ntuc.org.sg/wps/wcm/connect/5aeba62d-a563-4004-8ec4-34ee475cfc49/Infographics+%28Chinese%29.jpg?MOD=AJPERES){:target="_blank"})
+
+      [Find out more](https://bit.ly/32r3uDe){:target="_blank"}<br>
+      Call: <a href="tel:6213 8008">6213 8008</a><br>
+
+  - title: SkillsFuture Credit Top-Up
+    content: |
+      Eligibility
+        * For all Singaporeans who are 25 years and above as at 31 December 2020
+
+      Benefits
+        * One-time $500 credit top-up
+      
+      Eligible citizens will receive the top-up in their SkillsFuture Credit accounts on **1 October 2020**
+        
+        **This is an auto-inclusion scheme - no application is required.** You may login to your SkillsFuture Credit account at MySkillsFuture from 1 October 2020 to check your SkillsFuture Credit balance.
+
+      [Find out more](https://bit.ly/2FdCNss){:target="_blank"}<br>
+      Call: <a href="tel:6785 5785">6785 5785</a>
+
+  - title: The Courage Fund – For Households Affected by COVID-19
+    content: |
+      Eligibility
+        * For lower-income households with at least one Singapore Citizen or Permanent Resident whose family member(s) have contracted COVID-19, or are on Stay-Home Notice (SHN), mandatory Leave of Absence (LOA), or Home Quarantine Order (HQO)
+        * Loss of complete or partial (at least 10%) household income due to COVID-19
+        * [As of 1 June 2020] Household has gross monthly income of ≤$6,200, or gross monthly per capita income of ≤$2,000, prior to being affected by COVID-19
+
+      Benefits
+        * One-time lump sum of up to $1,000 (depending on the household's per capita income after being affected by COVID-19), credited into bank account
+
+      Download the [Courage Fund application form](https://bit.ly/2FhrZJI){:target="_blank:} and submit it to any of the 24 SSOs. Form is also available at any SSO. Please bring along supporting documents. Applications should be made **within 6 months from the end of the QO, LOA or SHN or discharge from hospitalisation due to COVID-19 (whichever is later)**.
+
+      [Find out more](https://bit.ly/3khgBNj){:target="_blank"}<br>
+
+      For healthcare workers,  frontline workers and community volunteers who have contracted COVID-19 in the line of duty; and dependents of individuals who have succumbed to COVID-19, the Courage Fund has [other schemes to help you](https://bit.ly/32sMUTf){:target="_blank"}
+
+accordion3:
+  - title: Additional SkillsFuture Credit (Mid-Career Support)
+    content: |
+      Eligibility
+        * For all Singaporeans who are 40 to 60 years old as at 31 December 2020
+
+      Benefits
+        * One-time $500 credit top-up
+        * Eligible citizens will receive the top-up in their SkillsFuture Credit accounts on **1 October 2020**
+      
+      **This is an auto-inclusion scheme - no application is required.** You may login to your SkillsFuture Credit account at MySkillsFuture from 1 October 2020 to check your SkillsFuture Credit balance.
+
+      [Find out more](https://bit.ly/2FdCNss){:target="_blank"}.<br>
+      Call: <a href="tel:6785 5785">6785 5785</a>
+
+  - title: Enhanced Workfare Special Payment (WSP)
+    content: |
+      Eligibility
+        * For all Singaporean employees and self-employed persons who received Workfare Income Supplement (WIS) payments in Work Year 2019
+
+      Benefits
+        * Eligible Singaporeans will receive a cash payout of $3,000, which will be paid in two equal payments of $1,500 each in July and October 2020
+        * The WSP will be given to eligible Singaporeans in the same way they receive their WIS payments – direct crediting into their bank account, or cheque sent to their NRIC address
+
+      **This is an auto-inclusion scheme - no application is required.**
+
+      [Find out more](https://bit.ly/2R1sE4S){:target="_blank"}<br>
+      Call: <a href="tel:1800-227-1188">1800-227-1188</a><br>
+      Submit your enquiry [here](https://bit.ly/2DY3AbW){:target="_blank"}.
+
+  - title: Home Access Programme
+    content: |
+      Eligibility
+        * For HDB households with a monthly gross household income ≤ $1,900 or per capita income ≤ $650, and has at least one family member who is Singaporean
+        * You should not be an existing Home Access beneficiary or an existing NEU PC Plus beneficiary with broadband connectivity
+
+      Benefits
+      * Receive 2 years of subsidised fibre broadband connectivity, with an option to bundle with a tablet or smartphone
+
+      [Apply online](https://bit.ly/35hTrlS){:target="_blank"} or [download the application form](https://bit.ly/3kkDu2f){:target="_blank"}, complete it and mail to:<br>
+      Infocomm Media Development Authority (IMDA)<br>
+      PSA Building Post Office<br>
+      P.O. Box 316 <br>
+      Singapore 911141
+
+      [Find out more](https://bit.ly/3ipIQZE){:target="_blank"}<br>
+      Call: <a href="tel:6377 3800">6377 3800</a><br>
+      Email: <a href="mailto:digitalaccess@imda.gov.sg">digitalaccess@imda.gov.sg</a>
+
+  - title: SkillsFuture Credit Top-Up
+    content: |
+      Eligibility
+        * For all Singaporeans who are 25 years and above as at 31 December 2020
+
+      Benefits
+        * One-time $500 credit top-up
+      
+      Eligible citizens will receive the top-up in their SkillsFuture Credit accounts on **1 October 2020**
+        
+        **This is an auto-inclusion scheme - no application is required.** You may login to your SkillsFuture Credit account at MySkillsFuture from 1 October 2020 to check your SkillsFuture Credit balance.
+
+      [Find out more](https://bit.ly/2FdCNss){:target="_blank"}<br>
+      Call: <a href="tel:6785 5785">6785 5785</a>
+
+  - title: The Courage Fund – For Households Affected by COVID-19
+    content: |
+      Eligibility
+        * For lower-income households with at least one Singapore Citizen or Permanent Resident whose family member(s) have contracted COVID-19, or are on Stay-Home Notice (SHN), mandatory Leave of Absence (LOA), or Home Quarantine Order (HQO)
+        * Loss of complete or partial (at least 10%) household income due to COVID-19
+        * [As of 1 June 2020] Household has gross monthly income of ≤$6,200, or gross monthly per capita income of ≤$2,000, prior to being affected by COVID-19
+
+      Benefits
+        * One-time lump sum of up to $1,000 (depending on the household's per capita income after being affected by COVID-19), credited into bank account
+
+      Download the [Courage Fund application form](https://bit.ly/2FhrZJI){:target="_blank:} and submit it to any of the 24 SSOs. Form is also available at any SSO. Please bring along supporting documents. Applications should be made **within 6 months from the end of the QO, LOA or SHN or discharge from hospitalisation due to COVID-19 (whichever is later)**.
+
+      [Find out more](https://bit.ly/3khgBNj){:target="_blank"}<br>
+
+      For healthcare workers,  frontline workers and community volunteers who have contracted COVID-19 in the line of duty; and dependents of individuals who have succumbed to COVID-19, the Courage Fund has [other schemes to help you](https://bit.ly/32sMUTf){:target="_blank"}
+
+accordion4:
+  - title: Additional SkillsFuture Credit (Mid-Career Support)
+    content: |
+      Eligibility
+        * For all Singaporeans who are 40 to 60 years old as at 31 December 2020
+
+      Benefits
+        * One-time $500 credit top-up
+        * Eligible citizens will receive the top-up in their SkillsFuture Credit accounts on **1 October 2020**
+      
+      **This is an auto-inclusion scheme - no application is required.** You may login to your SkillsFuture Credit account at MySkillsFuture from 1 October 2020 to check your SkillsFuture Credit balance.
+
+      [Find out more](https://bit.ly/2FdCNss){:target="_blank"}.<br>
+      Call: <a href="tel:6785 5785">6785 5785</a>
+
+  - title: COVID-19 Support Grant
+    content: |
+      Eligibility
+        * For Singaporeans or Permanent Residents, aged 16 and above, who are presently involuntarily unemployed due to retrenchment or contract termination, placed on involuntary No-Pay Leave (for 3 consecutive months), or are experiencing reduced monthly salary of at least 30% (for 3 consecutive months) after 23 January 2020, as a result of the economic impact of COVID-19
+        * Those on ComCare, Self-Employed Person Income Relief Scheme (SIRS), NSFs and interns are **not eligible**
+
+      Benefits
+        * For loss of job or involuntary No-Pay Leave: Up to $800/month (for 3 months) credited into bank account
+        * For loss of at least 30% of salary: Up to $500/month (for 3 months) credited into bank account
+        * Job and Training Support by Workforce Singapore (WSG) or the Employment and Employability Institute (e2i)
+
+      [Apply online](https://bit.ly/327dj92){:target="_blank"} **(9am to 6pm daily) till 31 December 2020. Existing/previous CSG recipients may re-apply from 1 October 2020.** Those who are not able to apply online can call the ComCare hotline to schedule an application slot at their [nearest Social Service office.](https://bit.ly/3idvakn){:target="_blank"} Processing time takes about 2 weeks upon submission of supporting documents.
+
+      [Find out more](https://bit.ly/3iwziMn){:target="_blank"}<br>
+      Call the ComCare Call Hotline <a href="tel:1800-222-0000">1800-222-0000</a> for assistance form.<br>
+      Email: <a href="mailto:ask_sso@msf.gov.sg">ask_sso@msf.gov.sg</a>
+
+  - title: Home Access Programme
+    content: |
+      Eligibility
+        * For HDB households with a monthly gross household income ≤ $1,900 or per capita income ≤ $650, and has at least one family member who is Singaporean
+        * You should not be an existing Home Access beneficiary or an existing NEU PC Plus beneficiary with broadband connectivity
+
+      Benefits
+      * Receive 2 years of subsidised fibre broadband connectivity, with an option to bundle with a tablet or smartphone
+
+      [Apply online](https://bit.ly/35hTrlS){:target="_blank"} or [download the application form](https://bit.ly/3kkDu2f){:target="_blank"}, complete it and mail to:<br>
+      Infocomm Media Development Authority (IMDA)<br>
+      PSA Building Post Office<br>
+      P.O. Box 316 <br>
+      Singapore 911141
+
+      [Find out more](https://bit.ly/3ipIQZE){:target="_blank"}<br>
+      Call: <a href="tel:6377 3800">6377 3800</a><br>
+      Email: <a href="mailto:digitalaccess@imda.gov.sg">digitalaccess@imda.gov.sg</a>
+
+  - title: NTUC Care Fund (COVID-19)
+    content: |
+      Eligibility<br>
+      For union members who are facing financial hardship as follows:
+        * Suffered from an income drop of at least 30 per cent of your monthly salary/earnings due to COVID-19, or 
+        * A self-employed person (SEP) whose income has been adversely affected due to COVID-19 related job or event cancellations, or 
+        * Retrenched with retrenchment benefits of not more than $6,500  
+
+      Benefits
+        * A one-off cash relief between $50 to $300
+
+      Apply via your unions or NTUC membership from **25 March 2020 to 30 September 2020**. Both existing union members as well as new sign-ups may apply. Sign up for the NTUC union membership beforehand [here.](https://bit.ly/3h4qpIw){:target="_blank"}
+      
+      For new sign-ups, please note that successful deduction of the first month’s membership fees is required prior to the NTUC Care Fund application.
+      
+      Ordinary Branch Members:<br> 
+      If you are a member with any of NTUC’s affiliated unions and associations (i.e. Ordinary Branch member), or if you are a member working in a unionised company, please download and complete this [application form](https://bit.ly/3hvDf2y){:target=")blank"} and submit to your union. 
+
+      General Branch Members:<br>
+      Generally refer to NTUC union members who work in a company that is not unionised under any of NTUC's affiliated unions and associations. Please download the application form ([English](https://www.ntuc.org.sg/wps/wcm/connect/cb95b76d-eca7-469d-92d8-d1a69d10398f/NTUC+Care+Fund+%28COVID-19%29+-+Application+Form+%28for+GB+members%29.pdf?MOD=AJPERES){:target="_blank"} | [Chinese](https://www.ntuc.org.sg/wps/wcm/connect/96b34778-5b00-42dc-b247-c9a96d1e85e3/NTUC+Care+Fund+%28COVID-19%29+-+Application+Form+for+GB+Members+%28Chinese%29.pdf?MOD=AJPERES){:target="_blank"}). Submission instructions ([English](https://www.ntuc.org.sg/wps/wcm/connect/a48d8ce4-c8e8-42d4-aad4-a016a0a8c213/Instructions+to+apply_Infographic.jpg?MOD=AJPERES){:target="_blank"} | [Chinese](https://www.ntuc.org.sg/wps/wcm/connect/5aeba62d-a563-4004-8ec4-34ee475cfc49/Infographics+%28Chinese%29.jpg?MOD=AJPERES){:target="_blank"})
+
+      [Find out more](https://bit.ly/32r3uDe){:target="_blank"}<br>
+      Call: <a href="tel:6213 8008">6213 8008</a><br>
+
+  - title: SkillsFuture Credit Top-Up
+    content: |
+      Eligibility
+        * For all Singaporeans who are 25 years and above as at 31 December 2020
+
+      Benefits
+        * One-time $500 credit top-up
+      
+      Eligible citizens will receive the top-up in their SkillsFuture Credit accounts on **1 October 2020**
+        
+        **This is an auto-inclusion scheme - no application is required.** You may login to your SkillsFuture Credit account at MySkillsFuture from 1 October 2020 to check your SkillsFuture Credit balance.
+
+      [Find out more](https://bit.ly/2FdCNss){:target="_blank"}<br>
+      Call: <a href="tel:6785 5785">6785 5785</a>
+
+  - title: The Courage Fund – For Households Affected by COVID-19
+    content: |
+      Eligibility
+        * For lower-income households with at least one Singapore Citizen or Permanent Resident whose family member(s) have contracted COVID-19, or are on Stay-Home Notice (SHN), mandatory Leave of Absence (LOA), or Home Quarantine Order (HQO)
+        * Loss of complete or partial (at least 10%) household income due to COVID-19
+        * [As of 1 June 2020] Household has gross monthly income of ≤$6,200, or gross monthly per capita income of ≤$2,000, prior to being affected by COVID-19
+
+      Benefits
+        * One-time lump sum of up to $1,000 (depending on the household's per capita income after being affected by COVID-19), credited into bank account
+
+      Download the [Courage Fund application form](https://bit.ly/2FhrZJI){:target="_blank:} and submit it to any of the 24 SSOs. Form is also available at any SSO. Please bring along supporting documents. Applications should be made **within 6 months from the end of the QO, LOA or SHN or discharge from hospitalisation due to COVID-19 (whichever is later)**.
+
+      [Find out more](https://bit.ly/3khgBNj){:target="_blank"}<br>
+
+      For healthcare workers,  frontline workers and community volunteers who have contracted COVID-19 in the line of duty; and dependents of individuals who have succumbed to COVID-19, the Courage Fund has [other schemes to help you](https://bit.ly/32sMUTf){:target="_blank"}
+
+accordion5:
+  - title: Additional SkillsFuture Credit (Mid-Career Support)
+    content: |
+      Eligibility
+      * For all Singaporeans who are 40 to 60 years old as at 31 December 2020
+
+      Benefits
+      * One-time $500 credit top-up
+      * Eligible citizens will receive the top-up in their SkillsFuture Credit accounts on **1 October 2020**
+      
+      **This is an auto-inclusion scheme - no application is required.** You may login to your SkillsFuture Credit account at MySkillsFuture from 1 October 2020 to check your SkillsFuture Credit balance.
+
+      [Find out more](https://bit.ly/2FdCNss){:target="_blank"}.<br>
+      Call: <a href="tel:6785 5785">6785 5785</a>
+
+  - title: Enhanced Workfare Special Payment (WSP)
+    content: |
+      Eligibility
+        * For all Singaporean employees and self-employed persons who received Workfare Income Supplement (WIS) payments in Work Year 2019
+
+      Benefits
+        * Eligible Singaporeans will receive a cash payout of $3,000, which will be paid in two equal payments of $1,500 each in July and October 2020
+        * The WSP will be given to eligible Singaporeans in the same way they receive their WIS payments – direct crediting into their bank account, or cheque sent to their NRIC address
+
+      **This is an auto-inclusion scheme - no application is required.**
+
+      [Find out more](https://bit.ly/2R1sE4S){:target="_blank"}<br>
+      Call: <a href="tel:1800-227-1188">1800-227-1188</a><br>
+      Submit your enquiry [here](https://bit.ly/2DY3AbW){:target="_blank"}.
+
+  - title: Defer Tax Payment for Income Tax (For Self-Employed)
+    content: |
+      Eligibility
+        * For Self-Employed Persons (SEPs) who are to file their personal income tax (PIT) returns for YA2020 by 18 April 2020
+
+      Benefits
+        * SEPs will be granted an automatic three-month deferment of their PIT payments due in the months of May, June, and July 2020
+        * The PIT payments deferred from May, June, and July 2020 will instead be collected in August, September, and October 2020 respectively
+
+      **This is an auto-inclusion scheme - no application is required.**
+
+      [Find out more](https://bit.ly/337qd6v){:target="_blank"}.
+
+  - title: Home Access Programme
+    content: |
+      Eligibility
+        * For HDB households with a monthly gross household income ≤ $1,900 or per capita income ≤ $650, and has at least one family member who is Singaporean
+        * You should not be an existing Home Access beneficiary or an existing NEU PC Plus beneficiary with broadband connectivity
+
+      Benefits
+      * Receive 2 years of subsidised fibre broadband connectivity, with an option to bundle with a tablet or smartphone
+
+      [Apply online](https://bit.ly/35hTrlS){:target="_blank"} or [download the application form](https://bit.ly/3kkDu2f){:target="_blank"}, complete it and mail to:<br>
+      Infocomm Media Development Authority (IMDA)<br>
+      PSA Building Post Office<br>
+      P.O. Box 316 <br>
+      Singapore 911141
+
+      [Find out more](https://bit.ly/3ipIQZE){:target="_blank"}<br>
+      Call: <a href="tel:6377 3800">6377 3800</a><br>
+      Email: <a href="mailto:digitalaccess@imda.gov.sg">digitalaccess@imda.gov.sg</a>
+
+  - title: NTUC Care Fund (COVID-19)
+    content: |
+      Eligibility<br>
+      For union members who are facing financial hardship as follows:
+        * Suffered from an income drop of at least 30 per cent of your monthly salary/earnings due to COVID-19, or 
+        * A self-employed person (SEP) whose income has been adversely affected due to COVID-19 related job or event cancellations, or 
+        * Retrenched with retrenchment benefits of not more than $6,500  
+
+      Benefits
+        * A one-off cash relief between $50 to $300
+
+      Apply via your unions or NTUC membership from **25 March 2020 to 30 September 2020**. Both existing union members as well as new sign-ups may apply. Sign up for the NTUC union membership beforehand [here.](https://bit.ly/3h4qpIw){:target="_blank"}
+      
+      For new sign-ups, please note that successful deduction of the first month’s membership fees is required prior to the NTUC Care Fund application.
+      
+      Ordinary Branch Members:<br> 
+      If you are a member with any of NTUC’s affiliated unions and associations (i.e. Ordinary Branch member), or if you are a member working in a unionised company, please download and complete this [application form](https://bit.ly/3hvDf2y){:target=")blank"} and submit to your union. 
+
+      General Branch Members:<br>
+      Generally refer to NTUC union members who work in a company that is not unionised under any of NTUC's affiliated unions and associations. Please download the application form ([English](https://www.ntuc.org.sg/wps/wcm/connect/cb95b76d-eca7-469d-92d8-d1a69d10398f/NTUC+Care+Fund+%28COVID-19%29+-+Application+Form+%28for+GB+members%29.pdf?MOD=AJPERES){:target="_blank"} | [Chinese](https://www.ntuc.org.sg/wps/wcm/connect/96b34778-5b00-42dc-b247-c9a96d1e85e3/NTUC+Care+Fund+%28COVID-19%29+-+Application+Form+for+GB+Members+%28Chinese%29.pdf?MOD=AJPERES){:target="_blank"}). Submission instructions ([English](https://www.ntuc.org.sg/wps/wcm/connect/a48d8ce4-c8e8-42d4-aad4-a016a0a8c213/Instructions+to+apply_Infographic.jpg?MOD=AJPERES){:target="_blank"} | [Chinese](https://www.ntuc.org.sg/wps/wcm/connect/5aeba62d-a563-4004-8ec4-34ee475cfc49/Infographics+%28Chinese%29.jpg?MOD=AJPERES){:target="_blank"})
+
+      [Find out more](https://bit.ly/32r3uDe){:target="_blank"}<br>
+      Call: <a href="tel:6213 8008">6213 8008</a><br>
+
+  - title: NTUC Training Fund (SEPs)
+    content: |
+      Eligibility
+        * For Self-Employed Singaporeans and Permanent Residents to supplement their income through skills upgrading and training
+
+      Benefits
+        * For courses that commence between 1 April and 30 April 2020, SEPs will receive a training allowance of $7.50 per hour
+        * For courses that commence between 1 May and 31 December 2020, SEPs will receive an enhanced training allowance of $10 per hour
+
+      Before applying/registering for any courses, you must first receive a Letter of Eligibility (LOE) from NTUC’s e2i. If you have already received the SIRS Letter/Email by CPF or NTUC, you will not need to apply for the LOE. Otherwise, please apply for the Letter of Eligibility [here](https://bit.ly/329Mv8s){:target="_blank"}.
+
+      Submit your claims within 30 days of course completion [here](https://e2i.com.sg/sep2020-claimform){:target="_blank"}. **Training allowance is claimable for courses that start on any date from 1 Apr 2020 to 31 Dec 2020 and all claims are to be submitted by 28 February 2021.**
+
+      [Find out more](https://bit.ly/2FsEvqn){:target="_blank"}<br>
+      Call: <a href="tel:6474 0606">6474 0606</a><br>
+      Email: <a href="mailto:SEP2020@e2i.com.sg">SEP2020@e2i.com.sg</a><br>
+      Walk-in queries:<br>
+      e2i west Devan Nair Institute for Employment and Employability<br>
+      80 Jurong East St 21 Level 2<br>
+      Singapore 609607
+
+  - title: Self-Employed Person Income Relief Scheme (SIRS)
+    content: |
+      Eligibility<br><br>
+      For Singaporean self-employed persons (SEPs) with less means and family support, to help them tide over this period of extraordinary economic uncertainty. Singaporean SEPs who meet all of the following criteria will be automatically eligible for SIRS.
+      * Started work as an SEP on or before 25 March 2020;
+      * Declared a positive Net Trade Income (NTI) of not more than $100,000 for Work Year 2018;
+      * If SEP also has employment (i.e. dual status worker), the income earned as an employee must be not more than $2,300/month;
+      * Live in a property with an AV not more than $21,000; and
+      * Do not own two or more properties.
+      
+      For married Singaporean SEPs, the following additional criteria apply:
+      * The individual and spouse together do not own two or more properties; and
+      * The Assessable Income of his/her spouse does not exceed $70,000.
+
+      Benefits
+        * Receive three quarterly cash payouts of $3,000 in end-May, July and Oct 2020
+      
+      For eligible applicants, you will **automatically receive SIRS payout** - there is no need to submit an application.<br><br>
+      Individuals who marginally missed one of the eligibility criteria and are facing difficult circumstances can [submit an application](https://bit.ly/2R91Yio){:target="_blank"} to NTUC for consideration.
+
+      [Find out more](https://bit.ly/3bW6yKF){:target="_blank"}<br>
+      Call: <a href="tel:6713 5777">6713 5777</a><br>
+      Email: <a href="mailto:SIRS@ntuc.org.sg">SIRS@ntuc.org.sg</a>
+
+  - title: Singapore Association of Motion Picture Professionals (SAMPP) COVID-19 Relief Fund
+    content: |
+      Eligibility
+        * For Singapore-based motion picture freelancers who are registered members of SAMPP, and whose livelihoods have been severely affected by the coronavirus pandemic.
+
+      Benefits
+        * Between $300 to $500, based on the assessment of individual needs.
+
+      [Apply online](https://bit.ly/2FfwhS8){:target="_blank"} **by 31 December 2020**.
+
+      [Find out more](https://bit.ly/3mlqxqY){:target="_blank"}
+
+  - title: SkillsFuture Credit Top-Up
+    content: |
+      Eligibility
+        * For all Singaporeans who are 25 years and above as at 31 December 2020
+
+      Benefits
+        * One-time $500 credit top-up
+      
+      Eligible citizens will receive the top-up in their SkillsFuture Credit accounts on **1 October 2020**
+        
+        **This is an auto-inclusion scheme - no application is required.** You may login to your SkillsFuture Credit account at MySkillsFuture from 1 October 2020 to check your SkillsFuture Credit balance.
+
+      [Find out more](https://bit.ly/2FdCNss){:target="_blank"}<br>
+      Call: <a href="tel:6785 5785">6785 5785</a>
+      
+  - title: The Courage Fund – For Households Affected by COVID-19
+    content: |
+      Eligibility
+        * For lower-income households with at least one Singapore Citizen or Permanent Resident whose family member(s) have contracted COVID-19, or are on Stay-Home Notice (SHN), mandatory Leave of Absence (LOA), or Home Quarantine Order (HQO)
+        * Loss of complete or partial (at least 10%) household income due to COVID-19
+        * [As of 1 June 2020] Household has gross monthly income of ≤$6,200, or gross monthly per capita income of ≤$2,000, prior to being affected by COVID-19
+
+      Benefits
+        * One-time lump sum of up to $1,000 (depending on the household's per capita income after being affected by COVID-19), credited into bank account
+
+      Download the [Courage Fund application form](https://bit.ly/2FhrZJI){:target="_blank:} and submit it to any of the 24 SSOs. Form is also available at any SSO. Please bring along supporting documents. Applications should be made **within 6 months from the end of the QO, LOA or SHN or discharge from hospitalisation due to COVID-19 (whichever is later)**.
+
+      [Find out more](https://bit.ly/3khgBNj){:target="_blank"}<br>
+
+      For healthcare workers,  frontline workers and community volunteers who have contracted COVID-19 in the line of duty; and dependents of individuals who have succumbed to COVID-19, the Courage Fund has [other schemes to help you](https://bit.ly/32sMUTf){:target="_blank"}
 ---
 
 # <a name="top"></a>Support is available for Singaporeans affected by COVID-19.
@@ -130,17 +596,50 @@ Those in need may also consider existing schemes that offer additional support i
 
 <img src="/images/holistic-support.jpg" alt="support"> 
 
+Find out what you are eligible for, learn about the benefits, and where you can apply.
+
+### Jump to Section
+
+> [Existing Support Schemes](#schemes)
+
+### 2020 Budget Relief Measures for
+> [Unemployed Individuals](#unemployed)<br>
+> [Lower-Income Individuals](#lower-income)<br>
+> [Individuals with Reduced Income](#reduced-income)<br>
+> [Self-Employed Persons (SEPs)](#seps)<br>
 
 ### <a name="schemes"></a>EXISTING SUPPORT SCHEMES
 
 {% include accordion.html %}
+[Back to top](#top)
 
+### 2020 BUDGET RELIEF MEASURES
 
+## <a name="unemployed"></a>UNEMPLOYED INDIVIDUALS
+
+{% include accordion2.html %}
+[Back to top](#top)
+
+## <a name="lower-income"></a>LOWER-INCOME INDIVIDUALS
+
+{% include accordion3.html %}
+[Back to top](#top)
+
+## <a name="reduced-income"></a>INDIVIDUALS WITH REDUCED INCOME
+
+{% include accordion4.html %}
+[Back to top](#top)
+## <a name="seps"></a>SELF-EMPLOYED PERSONS (SEPS)
+
+{% include accordion5.html %}
+[Back to top](#top)
+
+---
 
 This page will be updated as additional schemes and measures are introduced.
 
 Please contact the respective government agencies if you have any questions about the listings on this page.  
 
-Last updated: 7 July 2021
+Last updated: 19 January 2021
  
 [Back to top](#top)
